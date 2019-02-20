@@ -1,0 +1,101 @@
+[
+  {
+    "Image":"https://vignette.wikia.nocookie.net/aselia/images/5/5f/Yuri_Lowell.jpg/revision/latest?cb=20081020204945",
+    "Icon":"http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Name": "Yuri Lowell",
+    "Hometown": "Zaphias",
+    "Age": "21/22 (near the end of ToV)",
+    "Height": "5'11\" / 180 cm",
+    "Race": "Human",
+    "Occupation": "Member of Brave Vesperia",
+    "Weapon": "Sword (main)/Axe (main)/Gloves (sub)"
+  },
+  {
+    "Image":"https://vignette.wikia.nocookie.net/aselia/images/2/27/Estelle.jpg/revision/latest?cb=20081020210102",
+    "Icon":"http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Name": "Estellise Sidos Heurassein",
+    "Hometown": "Zaphias",
+    "Age": 18,
+    "Height": "5'5\" / 165 cm",
+    "Race": "Human",
+    "Occupation": "Princess",
+    "Weapon": "Sword (main)/Rod (main)/Shield (sub)"
+  },
+  {
+    "Image":"https://vignette.wikia.nocookie.net/aselia/images/f/f1/Flynn_Scifo.jpg/revision/latest/scale-to-width-down/180?cb=20100729051206",
+    "Icon":"http://hyouta.com/vesperia/chara-icons/FLY.png",
+    "Name": "Flynn Scifo",
+    "Hometown": "Zaphias",
+    "Age": 21,
+    "Height": "5'11\" / 180 cm",
+    "Race": "Human",
+    "Occupation": "Knight",
+    "Weapon": "Sword (main)/Shield (sub)"
+  },
+  {
+    "Image":"https://vignette.wikia.nocookie.net/aselia/images/f/f4/Repede.jpg/revision/latest/scale-to-width-down/160?cb=20081020210258",
+    "Icon":"http://hyouta.com/vesperia/chara-icons/REP.png",
+    "Name": "Repede",
+    "Hometown": "",
+    "Age": 4,
+    "Height": "5'7\" / 170 cm",
+    "Race": "Canine",
+    "Occupation": "Member of Brave Vesperia",
+    "Weapon": "Dagger"
+  },
+  {
+    "Image":"https://vignette.wikia.nocookie.net/aselia/images/d/d0/Karol_Capel.jpg/revision/latest/scale-to-width-down/150?cb=20081020210156",
+    "Icon":"http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Name": "Karol Capel",
+    "Hometown": "Dahngrest",
+    "Age": 12,
+    "Height": "4'5\" / 135 cm",
+    "Race": "Human",
+    "Occupation": "Member of Brave Vesperia",
+    "Weapon": "Hammer (main)/Axe (main)/Bag (sub)"
+  },
+  {
+    "Image":"https://vignette.wikia.nocookie.net/aselia/images/1/11/Rita_Mordio.jpg/revision/latest/scale-to-width-down/210?cb=20081020210413",
+    "Icon":"http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Name": "Rita Mordio",
+    "Hometown": "Aspio",
+    "Age": 15,
+    "Height": "4'11\" / 150 cm",
+    "Race": "Human",
+    "Occupation": "Blastia Researcher",
+    "Weapon": "Scroll (main)/Whip (main)/Book (sub)"
+  },
+  {
+    "Image":"https://vignette.wikia.nocookie.net/aselia/images/9/9a/Raven.jpg/revision/latest/scale-to-width-down/260?cb=20090129070749",
+    "Icon":"http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Name": "Raven",
+    "Hometown": "Dahngrest",
+    "Age": 35,
+    "Height": "5'7\" / 170 cm",
+    "Race": "Human",
+    "Occupation": "",
+    "Weapon": "Bow (main)/Short Blade (sub)"
+  },
+  {
+    "Image":"https://vignette.wikia.nocookie.net/aselia/images/1/10/Judith.png/revision/latest/scale-to-width-down/180?cb=20090127021356",
+    "Icon":"http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Name": "Judith",
+    "Hometown": "Temza",
+    "Age": 19,
+    "Height": "5'9\" / 175 cm",
+    "Race": "Krityan",
+    "Occupation": "Member of Brave Vesperia",
+    "Weapon": "Spear (main)/Staff (main)/Boots (sub)"
+  },
+  {
+    "Image":"https://vignette.wikia.nocookie.net/aselia/images/b/bf/Patty_Fleur.jpg/revision/latest/scale-to-width-down/150?cb=20090419041600",
+    "Icon":"http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Name": "Patty Fleur",
+    "Hometown": "Capua Torim",
+    "Age": 14,
+    "Height": "4'4\" / 132",
+    "Race": "Human",
+    "Occupation": "Pirate",
+    "Weapon": "Dagger (main)/Gun (sub)"
+  }
+]
