@@ -1,0 +1,222 @@
+[
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_CLU00.png",
+    "Nom": "Oar",
+    "Description": "An ordinary wooden oar. Can be a weapon dependingon how it's used. Hey, don't play around with it!",
+    "Presonnage": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Capacite": "Rod Master Magic Rise Attack",
+    "Prix_lieux": "3400 GaldThe Rising City, Heliord",
+    "Stat": "PATK: 211",
+    "Synthese1": "",
+    "Synthese2": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_CLU01.png",
+    "Nom": "War Staff",
+    "Description": "A staff used by a diligent student during his training.It is durable, but not really effective as a weapon.",
+    "Presonnage": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Capacite": "Spirits TP Condition TP Condition 3",
+    "Prix_lieux": "3800 Gald",
+    "Stat": "PATK: 277MATK: 100",
+    "Synthese1": "Synthesis Level: 11Price: 1900 Gald Oar x1 Desier Iron Sand x1 Wolf Fang x1",
+    "Synthese2": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_CLU02.png",
+    "Nom": "Tribal Guard",
+    "Description": "Weapon used by guards who protected the ancienttemple. Capable of capturing enemies without harm.",
+    "Presonnage": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Capacite": "Guard Artes Item Thrower Magic Guard Plus",
+    "Prix_lieux": "7000 GaldThe Home of the Kritya, Myorzo",
+    "Stat": "PATK: 380PDEF: 20",
+    "Synthese1": "",
+    "Synthese2": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_CLU03.png",
+    "Nom": "Serpent Staff",
+    "Description": "Staff made in the image of a giant serpent.Powerful enough for a sorcerer to protect oneself.",
+    "Presonnage": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Capacite": "Item Thrower FS Bonus Gale",
+    "Prix_lieux": "8800 Gald",
+    "Stat": "PATK: 410AGL: 100Attack Element Attack Element",
+    "Synthese1": "Synthesis Level: 14Price: 4400 Gald Tribal Guard x1 Air Stone x2 Sacred Tree x2",
+    "Synthese2": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_CLU04.png",
+    "Nom": "Shakujo",
+    "Description": "A staff with metal rings attached at the tip. Sounds ofthe rings drive away beasts and keeps one safe on a journey.",
+    "Presonnage": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Capacite": "Item Thrower FS Bonus 2 Alembic",
+    "Prix_lieux": "8000 Gald",
+    "Stat": "PATK: 415",
+    "Synthese1": "Synthesis Level: 14Price: 4000 Gald Tribal Guard x1 Air Stone x2 Wolf Fang x2",
+    "Synthese2": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_CLU05.png",
+    "Nom": "Full Metal Staff",
+    "Description": "A staff simply made from metal.A perfect weapon for striking targets.",
+    "Presonnage": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Capacite": "Spirits TP Condition 2 TP Condition 4",
+    "Prix_lieux": "4900 GaldThe Desert Oasis, Mantaic",
+    "Stat": "PATK: 299",
+    "Synthese1": "",
+    "Synthese2": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_CLU06.png",
+    "Nom": "Dragon Tooth",
+    "Description": "A spear using a dragon's tooth as its spearhead.Its strike is just like a dragon's bite.",
+    "Presonnage": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Capacite": "Combo Plus Super Chain 4 O.L. Boost",
+    "Prix_lieux": "7000 Gald",
+    "Stat": "PATK: 360MDEF: 25Attack Element Attack Element",
+    "Synthese1": "Synthesis Level: 14Price: 3500 Gald Scaly Dragon Skin x1 Demon Bone x1 Sacred Tree x2",
+    "Synthese2": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_CLU07.png",
+    "Nom": "Hanuman's Staff",
+    "Description": "A staff belonging to the monkey god. Light, yetdurable, it is a mighty weapon if handled well.",
+    "Presonnage": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Capacite": "Aerial Step Combo Force",
+    "Prix_lieux": "13000 GaldThe Imperial Capital, Zaphias",
+    "Stat": "PATK: 522",
+    "Synthese1": "Synthesis Level: 16Price: 6500 Gald Lizardman's Weapon x1 Ape Man Coat x5",
+    "Synthese2": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_CLU07.png",
+    "Nom": "Hanuman's Staff +1",
+    "Description": "A staff belonging to the monkey god. Light, yetdurable, it is a mighty weapon if handled well.",
+    "Presonnage": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Capacite": "Aerial Step Aerial Dash",
+    "Prix_lieux": "14500 Gald",
+    "Stat": "PATK: 538",
+    "Synthese1": "Synthesis Level: 16Price: 7250 Gald Hanuman's Staff x1 Ape Man Coat x2 Hoof x2",
+    "Synthese2": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_CLU07.png",
+    "Nom": "Hanuman's Staff +2?",
+    "Description": "A staff belonging to the monkey god. Light, yetdurable, it is a mighty weapon if handled well.",
+    "Presonnage": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Capacite": "Aerial Dash Defend 3 Life Up",
+    "Prix_lieux": "24000 Gald",
+    "Stat": "PATK: 655",
+    "Synthese1": "Synthesis Level: 17Price: 12000 Gald Hanuman's Staff +1 x1 Yurzo Fruit x2 Tortoise Shell x2",
+    "Synthese2": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_CLU07.png",
+    "Nom": "Hanuman's Staff +2?",
+    "Description": "A staff belonging to the monkey god. Light, yetdurable, it is a mighty weapon if handled well.",
+    "Presonnage": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Capacite": "Aerial Dash Resist 3 Mental Up",
+    "Prix_lieux": "24000 Gald",
+    "Stat": "PATK: 655",
+    "Synthese1": "Synthesis Level: 17Price: 12000 Gald Hanuman's Staff +1 x1 Yurzo Fruit x2 Mystic Orb x2",
+    "Synthese2": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_CLU08.png",
+    "Nom": "Forte Staff",
+    "Description": "A staff once owned by a renowned sorcerer.It can also be used for striking.",
+    "Presonnage": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Capacite": "Touch Down Rod",
+    "Prix_lieux": "29000 Gald",
+    "Stat": "PATK: 675",
+    "Synthese1": "Synthesis Level: 17Price: 14500 Gald Blastium Ore J x1 Treant Flower x1 Merman's Weapon x1",
+    "Synthese2": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_CLU08.png",
+    "Nom": "Forte Staff +1?",
+    "Description": "A staff once owned by a renowned sorcerer.It can also be used for striking.",
+    "Presonnage": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Capacite": "Touch Down Vitality 3 Void Attack",
+    "Prix_lieux": "33000 Gald",
+    "Stat": "PATK: 685",
+    "Synthese1": "Synthesis Level: 17Price: 16500 Gald Forte Staff x1 Knight Water x2 Paralyze Powder x2",
+    "Synthese2": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_CLU08.png",
+    "Nom": "Forte Staff +1?",
+    "Description": "A staff once owned by a renowned sorcerer.It can also be used for striking.",
+    "Presonnage": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Capacite": "Touch Down Spirits 3 Void Magic",
+    "Prix_lieux": "33000 Gald",
+    "Stat": "PATK: 685",
+    "Synthese1": "Synthesis Level: 17Price: 16500 Gald Forte Staff x1 Hunting Potion x2 Fungus Powder x2",
+    "Synthese2": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_CLU09.png",
+    "Nom": "Unicorn Horn",
+    "Description": "It is said that the horn was collected from a sea monster.The spear holds a mystic power.",
+    "Presonnage": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Capacite": "Aerial OVL Endure",
+    "Prix_lieux": "22500 GaldThe Den of Guilds, DahngrestThe Coliseum City, Nordopolica",
+    "Stat": "PATK: 642Attack Element Attack Element",
+    "Synthese1": "",
+    "Synthese2": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_CLU09.png",
+    "Nom": "Unicorn Horn +1?",
+    "Description": "It is said that the horn was collected from a sea monster.The spear holds a mystic power.",
+    "Presonnage": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Capacite": "Aerial OVL Rebirth Stat Boost",
+    "Prix_lieux": "27500 Gald",
+    "Stat": "PATK: 660Attack Element Attack Element",
+    "Synthese1": "Synthesis Level: 17Price: 13750 Gald Unicorn Horn x1 Giant Aphid x1",
+    "Synthese2": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_CLU09.png",
+    "Nom": "Unicorn Horn +1?",
+    "Description": "It is said that the horn was collected from a sea monster.The spear holds a mystic power.",
+    "Presonnage": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Capacite": "Aerial OVL Rebirth 2 Immunity",
+    "Prix_lieux": "27500 Gald",
+    "Stat": "PATK: 660Attack Element Attack Element",
+    "Synthese1": "Synthesis Level: 17Price: 13750 Gald Unicorn Horn x1 Greenlight Stone x1",
+    "Synthese2": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_CLU10.png",
+    "Nom": "Caduceus",
+    "Description": "A staff used to pass on oracles.The blue glowing staff brings good news.",
+    "Presonnage": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Capacite": "Aerial Jump 2 Magic 3",
+    "Prix_lieux": "50000 Gald",
+    "Stat": "PATK: 730MATK: 300",
+    "Synthese1": "",
+    "Synthese2": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_CLU10.png",
+    "Nom": "Caduceus +1",
+    "Description": "A staff used to pass on oracles.The blue glowing staff brings good news.",
+    "Presonnage": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Capacite": "Aerial Jump 2 Resurrect HP Condition",
+    "Prix_lieux": "60000 Gald",
+    "Stat": "PATK: 750MATK: 350",
+    "Synthese1": "Synthesis Level: 17Price: 30000 Gald Caduceus x1 Great Wolf Fang x1 Blastium Ore J x3",
+    "Synthese2": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_CLU11.png",
+    "Nom": "Deck Brush",
+    "Description": "A brush used to clean the deck plate. Hitting with thecorner hurts... Hey, don't play around with it!",
+    "Presonnage": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Capacite": "Temptation",
+    "Prix_lieux": "0 Gald",
+    "Stat": "PATK: 680",
+    "Synthese1": "",
+    "Synthese2": ""
+  }
+]

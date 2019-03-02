@@ -1,0 +1,702 @@
+[
+  {
+    "Name": "[#1] Tree Stump",
+    "Synthese_material": "Ilyccia Weed Tortoise Shell Tortoise Tail Ilyccia Weed Sharp Blade Crystal Ilyccia Weed Large Claws Bird Feather (Small) Wolf Fang"
+  },
+  {
+    "Name": "[#10] Tree Stump",
+    "Synthese_material": "Bunny Ear Wing Flare Stone Flare Stone Wing Fan Wing Fan Bugle Beak Bugle Beak Pow Hammer Beak Boar Fur Pow Hammer Beak Bat Wing Jet-black Ink"
+  },
+  {
+    "Name": "[#11] Tree Stump",
+    "Synthese_material": "Rabbit Ear Rabbit Fur Peepit Egg Ape Man Coat Acorn Helmet Golden Mane"
+  },
+  {
+    "Name": "[#12] Tree Stump",
+    "Synthese_material": "Ilyccia Weed Great Leo Fang Ilyccia Weed Rubber Skin Ape Man Coat Armadillo Spike Acorn Helmet Hippo Breath Dragon Fossil Piney Cone Jaggy Fur Long Needle"
+  },
+  {
+    "Name": "[#13] Tree Stump",
+    "Synthese_material": "Gentleman�s Tie Long Needle Rubber Skin Ape Man Coat Geo Stone Sacred Tree Basilisk Scale Blastium Ore Blastium Ore Bearskin Demon Bone"
+  },
+  {
+    "Name": "[#14] Tree Stump",
+    "Synthese_material": "Merman Fang Rhino Horn Hoof Demon Bone Beast Skin Bearskin Knight Holy Water Iron Grip Iron Tip Aer Agaric Paralyze Powder Long Needle"
+  },
+  {
+    "Name": "[#15] Tree Stump",
+    "Synthese_material": "Ilyccia Weed Aphid Ilyccia Weed Greenlight Stone Ilyccia Weed Giant Aphid Jaggy Fur Devil�s Sickle Dragon Fossil Bucket Beak Gentleman�s Tie Long Needle"
+  },
+  {
+    "Name": "[#16] Tree Stump",
+    "Synthese_material": "Tolbyccian Water Mane Tolbyccian Water Tolbyccian Fish Blastium Ore Magic Resin Rhino Horn Paralyze Powder Shell Waterproof Cloth"
+  },
+  {
+    "Name": "[#17] Tree Stump",
+    "Synthese_material": "Tolbyccian Water Iron Leg Armadillo Spike Tolbyccian Water Mandrake Eye Tolbyccian Water Red Star Gem Armadillo Spike Spirit Fragment Blue Star Gem Dragon Fossil Aphid Green Star Gem Long Needle"
+  },
+  {
+    "Name": "[#18] Shell",
+    "Synthese_material": "Mandrake Eye Jet-black Ink Jet-black Ink Roper Tentacle Devil�s Sickle Iron Tip Iron Grip Iron Tip Knight Water Tough Leather Crab Shell Long Needle Ape Man Coat"
+  },
+  {
+    "Name": "[#19] Tree Stump",
+    "Synthese_material": "Tolbyccian Water Steel Arrow Head Ape Man Coat Tolbyccian Water Tolbyccian Fish Long Needle Tolbyccian Water Silver Ore Rubber Skin Aphid Spider Web Bird Feather (Medium) Merman Fang Merman's Weapon Merman Fin"
+  },
+  {
+    "Name": "[#2] Tree Stump",
+    "Synthese_material": "Sacred Tree Paralyze Powder Iron Tip Beast Skin Fungus Powder Red Blossom Blastium Ore Merman Fin Merman's Weapon"
+  },
+  {
+    "Name": "[#20] Tree Stump",
+    "Synthese_material": "Bearskin Red Blossom Jet-black Ink Demon Bone Rhino Horn Tough Leather Broken Dagger Mystic Orb Red Lens Mystic Cloth"
+  },
+  {
+    "Name": "[#21] Tree Stump",
+    "Synthese_material": "Tolbyccian Water Tolbyccian Water Tolbyccian Water Waterproof Cloth Ape Man Coat"
+  },
+  {
+    "Name": "[#22] Tree Stump",
+    "Synthese_material": "Great Crab Shell Gel Base Great Raptor Beak Shell Griffin Claw Insect Wing Dragon Powder Basilisk Scale Dragon Fossil Long Horn Bird Feather (Small) Long Needle"
+  },
+  {
+    "Name": "[#23] Tree Stump",
+    "Synthese_material": "Bull Wing Wolf Fang Tolbyccian Water Sacred Tree Blastium Ore Rare Metal Merman Fin Rare Metal"
+  },
+  {
+    "Name": "[#24] Tree Stump",
+    "Synthese_material": "Desier Iron Sand Desier Iron Sand Desier Iron Sand Desier Iron Sand Gel Base Ape Man Coat Rare Metal"
+  },
+  {
+    "Name": "[#25] Tree Stump",
+    "Synthese_material": "Desier Iron Sand Acorn Helmet Desier Iron Sand Piney Cone Desier Gold Dust Dragon Fossil Bird Feather (Small) Long Needle Wolf Fang Rabbit Ear"
+  },
+  {
+    "Name": "[#26] Bones",
+    "Synthese_material": "Desier Gold Dust Wolf Fang Desier Gold Dust Scaly Dragon Skin Desier Iron Sand Merman Fang Merman Fin Lizardman's Weapon Tortoise Shell"
+  },
+  {
+    "Name": "[#27] Bones",
+    "Synthese_material": "Desier Gold Dust Desier Gold Dust Desier Iron Sand Desier Iron Sand Solid Thorn Gel Base Rare Metal"
+  },
+  {
+    "Name": "[#28] Bones",
+    "Synthese_material": "Merman's Weapon Shell Insect Horn Insect Wing Paralyze Powder Basilisk Scale Boar Fur Bird Feather (Small) Jet-black Ink Wolf Fang Rare Metal"
+  },
+  {
+    "Name": "[#29] Tree Stump",
+    "Synthese_material": "Sharp Beak Mane Sacred Tree Bearskin Blastium Ore Red Blossom Merman Fin Rare Metal Soft Tail Tortoise Shell Rare Metal"
+  },
+  {
+    "Name": "[#3] Tree Stump",
+    "Synthese_material": "Ilyccia Weed Jet-black Ink Ilyccia Weed Sharp Beak Sharp Beak Mane Mane Bearskin Bearskin Red Blossom"
+  },
+  {
+    "Name": "[#30] Bones",
+    "Synthese_material": "Desier Gold Dust Sharp Blade Desier Gold Dust Large Claws Desier Iron Sand Mystic Orb Tough Leather Fungus Powder Rare Metal Crab Shell Solid Thorn Rare Metal"
+  },
+  {
+    "Name": "[#31] Bones",
+    "Synthese_material": "Desier Iron Sand Merman's Weapon Desier Iron Sand Insect Horn Aer Agaric Paralyze Powder Demon Bone Boar Fur Knight Water Jet-black Ink Gel Base Peepit Egg"
+  },
+  {
+    "Name": "[#32] Tree Stump",
+    "Synthese_material": "Desier Gold Dust Sharp Beak Desier Gold Dust Mane Gel Base Iron Tip Bearskin Hunting Potion Red Blossom Gel Base Might Orb Soft Tail Peepit Egg Gel Base Rare Metal"
+  },
+  {
+    "Name": "[#33] Tree Stump",
+    "Synthese_material": "Hypionian Tree Bark Toad Oil Hypionian Tree Bark Broken Dagger Hypionian Tree Bark Rhino Horn Grimoire Page Tough Leather Filifolia Leaf Crab Shell Gel Base"
+  },
+  {
+    "Name": "[#34] Tree Stump",
+    "Synthese_material": "Floccus Strong Vine Filifolia Fruit Hoof Treant Flower Aer Agaric Frost Stone Demon Bone Fungus Powder MX Knight Water Gel Base"
+  },
+  {
+    "Name": "[#35] Tree Stump",
+    "Synthese_material": "Hypionian Tree Bark Knight Holy Water Hypionian Tree Bark Iron Grip Hypionian Tree Bark Iron Tip Hypionian Tree Bark Hunting Potion Flare Stone Might Orb Gel Base"
+  },
+  {
+    "Name": "[#36] Tree Stump",
+    "Synthese_material": "Wing Fan Red Lens Bugle Beak Mystic Cloth Pow Hammer Beak Steel Arrow Head Bat Wing Grimoire Page Tortoise Tail Filifolia Leaf Gel Base"
+  },
+  {
+    "Name": "[#37] Shell",
+    "Synthese_material": "Hypionian Tree Bark Aphid Shell Filifolia Fruit Gel Base Shell Hypionian Coral Waterproof Cloth Frost Stone Gel Base Bird Feather (Medium) Hypionian Coral"
+  },
+  {
+    "Name": "[#38] Tree Stump",
+    "Synthese_material": "Hypionian Tree Bark Pitch-black Ink Hypionian Tree Bark Cactus Needles Hypionian Tree Bark Rose Gel Base Hypionian Tree Bark Bunny Ear Wing Hypionian Tree Bark Flare Stone Gel Base"
+  },
+  {
+    "Name": "[#39] Tree Stump",
+    "Synthese_material": "Filifolia Fruit Large Claws Mystic Orb Jet-black Ink Gel Base Strong Vine Crab Shell Merman Fang Bat Wing Beast Skin Aphid Toad Oil Insect Horn Sacred Tree"
+  },
+  {
+    "Name": "[#4] Shell",
+    "Synthese_material": "Red Blossom Soft Tail Soft Tail Toad Oil Shell Toad Oil Broken Dagger Insect Wing Broken Dagger Rhino Horn Basilisk Scale Wolf Fang Rhino Horn Tough Leather Bird Feather (Small)"
+  },
+  {
+    "Name": "[#40] Bones",
+    "Synthese_material": "Weccea Ore Red Lens Weccea Ore Mystic Cloth Weccea Ore Steel Arrow Head Weccean Lizard Fossil Grimoire Page Tortoise Tail Filifolia Leaf Gel Base"
+  },
+  {
+    "Name": "[#41] Bones",
+    "Synthese_material": "Weccea Ore Floccus Weccea Ore Filifolia Fruit Gel Base Weccea Ore Treant Flower Weccea Ore Frost Stone Gel Base Weccea Ore Fungus Powder MX Gel Base"
+  },
+  {
+    "Name": "[#42] Bones",
+    "Synthese_material": "Weccean Lizard Fossil Rose Gel Base Weccean Lizard Fossil Cactus Needles Weccean Lizard Fossil Floccus Gel Base Weccea Ore Tortoise Tail Weccea Ore Flare Stone Frost Stone"
+  },
+  {
+    "Name": "[#43] Bones",
+    "Synthese_material": "Sharp Blade Large Claws Mystic Orb Fungus Powder Solid Thorn Gel Base Rare Metal"
+  },
+  {
+    "Name": "[#44] Bones",
+    "Synthese_material": "Weccea Ore Weccea Ore Scaly Dragon Skin Weccea Ore Merman Fang Weccean Lizard Fossil Lizardman's Weapon Tortoise Shell"
+  },
+  {
+    "Name": "[#45] Bones",
+    "Synthese_material": "Weccea Ore Jaggy Fur Cockatrice Claw Weccean Lizard Fossil Scaly Dragon Skin Long Needle Weccean Lizard Fossil Rabbit Ear Rabbit Fur Weccean Lizard Fossil Golden Mane Waterproof Cloth Hunting Potion Might Orb Floccus"
+  },
+  {
+    "Name": "[#46] Bones",
+    "Synthese_material": "Grimoire Page Filifolia Leaf Filifolia Leaf Floccus Floccus Filifolia Fruit Filifolia Fruit Treant Flower Fungus Powder Treant Flower Frost Stone Solid Thorn"
+  },
+  {
+    "Name": "[#47] Tree Stump",
+    "Synthese_material": "Yurzo Fruit Yurzo Fruit Mystic Orb Fungus Powder Solid Thorn Gel Base Rare Metal"
+  },
+  {
+    "Name": "[#48] Tree Stump",
+    "Synthese_material": "Shell Acorn Helmet Insect Wing Piney Cone Basilisk Scale Dragon Fossil Bird Feather (Small) Long Needle Wolf Fang Rabbit Ear"
+  },
+  {
+    "Name": "[#49] Tree Stump",
+    "Synthese_material": "Yurzo Fruit Rabbit Fur Yurzo Fruit Scaly Dragon Skin Yurzo Fruit Merman Fang Yurzo Crystal Lizardman's Weapon Tortoise Shell"
+  },
+  {
+    "Name": "[#5] Tree Stump",
+    "Synthese_material": "Ilyccia Weed Crab Shell Ilyccia Weed Strong Vine Spider Web Ilyccia Weed Hoof Sacred Tree Hoof Aer Agaric Blastium Ore Tortoise Shell Aer Agaric Demon Bone Merman Fin Sharp Blade"
+  },
+  {
+    "Name": "[#50] Tree Stump",
+    "Synthese_material": "Red Lens Toad Oil Mystic Cloth Broken Dagger Steel Arrow Head Rhino Horn Grimoire Page Tough Leather Filifolia Leaf Crab Shell Gel Base"
+  },
+  {
+    "Name": "[#51] Tree Stump",
+    "Synthese_material": "Yurzo Fruit Strong Vine Yurzo Crystal Hoof Yurzo Crystal Aer Agaric Yurzo Crystal Demon Bone Fungus Powder MX Knight Water Gel Base"
+  },
+  {
+    "Name": "[#52] Shell",
+    "Synthese_material": "Sharp Beak Mane Sacred Tree Bearskin Blastium Ore Red Blossom Merman Fin Rare Metal Soft Tail Tortoise Shell Rare Metal"
+  },
+  {
+    "Name": "[#53] Tree Stump",
+    "Synthese_material": "Yurzo Fruit Knight Water Yurzo Fruit Knight Holy Water Yurzo Fruit Iron Grip Yurzo Fruit Iron Tip Large Claws Yurzo Fruit Hunting Potion Mystic Orb"
+  },
+  {
+    "Name": "[#54] Shell",
+    "Synthese_material": "Shell Silver Ore Shell Acorn Helmet Shell Acorn Helmet Shell Mystic Cloth Shell Steel Arrow Head"
+  },
+  {
+    "Name": "[#55] Tree Stump",
+    "Synthese_material": "Yurzo Crystal Filifolia Leaf Yurzo Crystal Floccus Yurzo Crystal Filifolia Fruit Yurzo Crystal Treant Flower Fungus Powder Yurzo Crystal Frost Stone Solid Thorn"
+  },
+  {
+    "Name": "[#56] Shell (once Erealumen Crystallands accessible)",
+    "Synthese_material": "Demon Bone Knight Water Knight Water Knight Holy Water Knight Holy Water Iron Grip Iron Grip Iron Tip Large Claws Iron Tip Hunting Potion Mystic Orb"
+  },
+  {
+    "Name": "[#57] Shell (once Erealumen Crystallands accessible)",
+    "Synthese_material": "Hunting Potion Might Orb Red Lens Mystic Cloth Steel Arrow Head"
+  },
+  {
+    "Name": "[#58] Seagulls",
+    "Synthese_material": "Hunting Potion Might Orb Red Lens Mystic Cloth Steel Arrow Head"
+  },
+  {
+    "Name": "[#59] Shell (Underwater)",
+    "Synthese_material": "Demon Bone Knight Water Knight Water Knight Holy Water Knight Holy Water Iron Grip Iron Grip Iron Tip Large Claws Iron Tip Hunting Potion Mystic Orb"
+  },
+  {
+    "Name": "[#6] Tree Stump",
+    "Synthese_material": "Ilyccia Weed Knight Water Ilyccia Weed Knight Holy Water Ilyccia Weed Iron Grip Iron Grip Iron Tip Large Claws Iron Tip Hunting Potion Mystic Orb"
+  },
+  {
+    "Name": "[#60] Seagulls",
+    "Synthese_material": "Hunting Potion Might Orb Red Lens Mystic Cloth Steel Arrow Head"
+  },
+  {
+    "Name": "[#61] Seagulls",
+    "Synthese_material": "Grimoire Page Filifolia Leaf Filifolia Leaf Floccus Floccus Filifolia Fruit Filifolia Fruit Treant Flower Fungus Powder Treant Flower Frost Stone Solid Thorn"
+  },
+  {
+    "Name": "[#62] Seagulls",
+    "Synthese_material": "Frost Stone Fungus Powder MX Merman's Weapon Fungus Powder MX Pitch-black Ink Insect Horn Pitch-black Ink Cactus Needles Cactus Needles Rose Rose Bunny Ear Wing Paralyze Powder"
+  },
+  {
+    "Name": "[#63] Seagulls",
+    "Synthese_material": "Bunny Ear Wing Flare Stone Flare Stone Wing Fan Wing Fan Bugle Beak Bugle Beak Pow Hammer Beak Boar Fur Pow Hammer Beak Bat Wing Jet-black Ink"
+  },
+  {
+    "Name": "[#64] Seagulls",
+    "Synthese_material": "Bat Wing Tortoise Tail Jaggy Fur Spider Web Beast Skin Blastium Ore Waterproof Cloth Rabbit Fur Long Needle"
+  },
+  {
+    "Name": "[#65] Seagulls",
+    "Synthese_material": "Peepit Egg Great Leo Fang Bird Feather (Medium) Rubber Skin Ape Man Coat Armadillo Spike Acorn Helmet Hippo Breath Dragon Fossil Piney Cone Jaggy Fur Long Needle"
+  },
+  {
+    "Name": "[#66] Seagulls",
+    "Synthese_material": "Greenlight Stone Golden Mane Rabbit Ear Rabbit Fur Holy Horn"
+  },
+  {
+    "Name": "[#67] Shell (Underwater)",
+    "Synthese_material": "Merman Fang Cockatrice Claw Lizardman's Weapon Stinky Bag Beast Skin Cockatrice Beak Leo Fang Waterproof Cloth Dragon Fossil Great Leo Fang Spirit Fragment Long Needle"
+  },
+  {
+    "Name": "[#68] Seagulls",
+    "Synthese_material": "Ilyccian Ice Aphid Ilyccian Ice Greenlight Stone Ilyccian Ice Giant Aphid Ilyccian Ice Devil�s Sickle Dragon Fossil Ilyccian Ice Gentleman�s Tie Long Needle"
+  },
+  {
+    "Name": "[#69] Shell (Underwater)",
+    "Synthese_material": "Golden Mane Fragment of Hyper-Resonance Holy Horn Fonstone Bear Claw Cheagle Fur Grim Claw Blastium Ore J Cockatrice Claw Fake Box Fang"
+  },
+  {
+    "Name": "[#7] Shell",
+    "Synthese_material": "Hunting Potion Merman Fin Might Orb Merman Fin Red Lens Merman Fin Mystic Cloth Shell Steel Arrow Head Shell"
+  },
+  {
+    "Name": "[#70] Seagulls",
+    "Synthese_material": "Tolbyccian Fish Iron Leg Armadillo Spike Tolbyccian Fish Mandrake Eye Tolbyccian Fish Red Star Gem Armadillo Spike Spirit Fragment Blue Star Gem Dragon Fossil Aphid Green Star Gem Long Needle"
+  },
+  {
+    "Name": "[#71] Shell (Underwater)",
+    "Synthese_material": "Tolbyccian Fish Orange Star Gem Tolbyccian Fish Dark Star Gem Tolbyccian Fish Light Star Gem Gentleman�s Tie Roper Tentacle Dragon Fossil Fragment of Hyper-Resonance Rare Metal Long Needle Armadillo Spike"
+  },
+  {
+    "Name": "[#72] Seagulls",
+    "Synthese_material": "Shell Merman Fin Merman's Weapon Shell Mandrake Eye Long Needle Shell Roper Tentacle Greenlight Stone Shell Peepit Egg Toad Oil Shell Frost Stone Piney Cone"
+  },
+  {
+    "Name": "[#73] Seagulls",
+    "Synthese_material": "Shell Long Horn Insect Wing Bull Wing Basilisk Scale Bird Feather (Small) Wolf Fang"
+  },
+  {
+    "Name": "[#74] Seagulls (Chapter 3 only)",
+    "Synthese_material": "Dark Star Gem Light Star Gem Roper Tentacle Rare Metal Gentleman�s Tie"
+  },
+  {
+    "Name": "[#75] Shell (Underwater)",
+    "Synthese_material": "Great Crab Shell Gel Base Great Raptor Beak Shell Griffin Claw Insect Wing Dragon Powder Basilisk Scale Dragon Fossil Long Horn Bird Feather (Small) Long Needle"
+  },
+  {
+    "Name": "[#76] Seagulls",
+    "Synthese_material": "Desier Iron Sand Wolf Fang Desier Iron Sand Desier Iron Sand Blastium Ore Rare Metal Merman Fin Rare Metal"
+  },
+  {
+    "Name": "[#77] Seagulls",
+    "Synthese_material": "Hypionian Coral Hypionian Coral Hypionian Coral Hypionian Coral Gel Base Ape Man Coat Rare Metal"
+  },
+  {
+    "Name": "[#78] Shell (Underwater)",
+    "Synthese_material": "Hypionian Coral Acorn Helmet Hypionian Coral Piney Cone Basilisk Scale Dragon Fossil Bird Feather (Small) Long Needle Wolf Fang Rabbit Ear"
+  },
+  {
+    "Name": "[#79] Shell (Underwater)",
+    "Synthese_material": "Weccea Ore Rabbit Fur Sacred Tree Scaly Dragon Skin Blastium Ore Merman Fang Merman Fin Lizardman's Weapon Tortoise Shell"
+  },
+  {
+    "Name": "[#8] Shell",
+    "Synthese_material": "Grimoire Page Filifolia Leaf Insect Wing Filifolia Leaf Floccus Insect Wing Floccus Filifolia Fruit Insect Wing Filifolia Fruit Treant Flower Fungus Powder Insect Wing Treant Flower Frost Stone Solid Thorn Insect Wing"
+  },
+  {
+    "Name": "[#80] Shell (Underwater)",
+    "Synthese_material": "Weccea Ore Weccea Ore Weccean Lizard Fossil Weccean Lizard Fossil Solid Thorn Gel Base Rare Metal"
+  },
+  {
+    "Name": "[#81] Seagulls",
+    "Synthese_material": "Merman's Weapon Shell Insect Horn Insect Wing Paralyze Powder Basilisk Scale Boar Fur Bird Feather (Small) Jet-black Ink Wolf Fang Rare Metal"
+  },
+  {
+    "Name": "[#82] Seagulls",
+    "Synthese_material": "Weccean Lizard Fossil Weccean Lizard Fossil Sacred Tree Weccean Lizard Fossil Blastium Ore Weccean Lizard Fossil Merman Fin Rare Metal Soft Tail Tortoise Shell Rare Metal"
+  },
+  {
+    "Name": "[#83] Shell (Underwater)",
+    "Synthese_material": "Yurzo Fruit Sharp Blade Yurzo Fruit Large Claws Yurzo Crystal Mystic Orb Yurzo Crystal Fungus Powder Rare Metal Yurzo Crystal Solid Thorn Rare Metal"
+  },
+  {
+    "Name": "[#84] Shell (Underwater)",
+    "Synthese_material": "Strong Vine Merman's Weapon Hoof Insect Horn Aer Agaric Paralyze Powder Demon Bone Boar Fur Knight Water Jet-black Ink Gel Base Peepit Egg"
+  },
+  {
+    "Name": "[#85] Seagulls",
+    "Synthese_material": "Yurzo Fruit Sharp Beak Yurzo Crystal Mane Gel Base Iron Tip Bearskin Hunting Potion Red Blossom Gel Base Might Orb Soft Tail Peepit Egg Gel Base Rare Metal"
+  },
+  {
+    "Name": "[#86] Seagulls",
+    "Synthese_material": "Yurzo Fruit Toad Oil Yurzo Crystal Broken Dagger Steel Arrow Head Rhino Horn Grimoire Page Tough Leather Filifolia Leaf Crab Shell Gel Base"
+  },
+  {
+    "Name": "[#87] Shell (Underwater)",
+    "Synthese_material": "Yurzo Crystal Strong Vine Filifolia Fruit Hoof Treant Flower Aer Agaric Frost Stone Demon Bone Fungus Powder MX Knight Water Gel Base"
+  },
+  {
+    "Name": "[#88] Seagulls",
+    "Synthese_material": "Ilyccian Ice Knight Holy Water Ilyccian Ice Iron Grip Ilyccian Ice Iron Tip Ilyccian Ice Hunting Potion Ilyccian Ice Might Orb Gel Base"
+  },
+  {
+    "Name": "[#9] Tree Stump",
+    "Synthese_material": "Ilyccia Weed Paralyze Powder Merman's Weapon Ilyccia Weed Jet-black Ink Insect Horn Blastium Ore Cactus Needles Knight Water Iron Grip Toad Oil Ape Man Coat Mandrake Eye"
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  },
+  {
+    "Name": "",
+    "Synthese_material": ""
+  }
+]

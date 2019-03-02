@@ -1,0 +1,2514 @@
+[
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM__MAGICALRESIN.png",
+    "Name": "Magic Resin",
+    "Description": "Liquid concentrated with magical powers.Created by refining magic sap.",
+    "Dropped": "Leaf Bat Grasshopper Seed Trifid Private Bat Jr.",
+    "Stolen": "Leaf Bat",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_ABURAMUSHI.png",
+    "Name": "Aphid",
+    "Description": "An ordinary aphid.Don�t have any idea what it is used for.",
+    "Dropped": "Giant Beetle Gaina Firefly Gold Beetle Colonel Bat Jr.",
+    "Stolen": "Giant Beetle Gaina Firefly Gold Beetle",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_AIR_STONE.png",
+    "Name": "Air Stone",
+    "Description": "A stone that slightly floats in mid-air. You can'ttell it's floating until you take a close look.",
+    "Dropped": "Soya Orge Peepit Rabbio Flora Mantis Clukkit Fantail Hellish",
+    "Stolen": "Peepit Rabbio",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_AKAME_LENZ.png",
+    "Name": "Red Lens",
+    "Description": "Lens equipped by members of the Leviathan's Claw.Can you see with that?",
+    "Dropped": "Plomb Cuivre Argent Lett Bronze Zinc Etain Fer Titane Brunhilde",
+    "Stolen": "Lett Titane Cuivre",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_ARUMAJIRO_TOGE.png",
+    "Name": "Armadillo Spike",
+    "Description": "The spike of a mutated armadillo.Watch out for their roll attacks.",
+    "Dropped": "Spikadillo Slidrugtanni",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_BARIGESCSCALE.png",
+    "Name": "Basilisk Scale",
+    "Description": "A very hard scale compared to that of othermonsters. It's as if it were made of stone.",
+    "Dropped": "Basilisk Black Basilisk Spinosaurus Gullinbursti",
+    "Stolen": "Basilisk Black Basilisk",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_BAT_WING.png",
+    "Name": "Bat Wing",
+    "Description": "A pair of bat wings. Despite the way it looks,some regions use it to ward off evil.",
+    "Dropped": "Red-eyed Bat Thunder Bat Bat Black Bat Firebat Flame Bat Leaf Bat Ice Bat Major Bat Jr.",
+    "Stolen": "Bat Black Bat Red-eyed Bat",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_BEAR_CROW.png",
+    "Name": "Bear Claw",
+    "Description": "A claw collected from bear type monsters.Slightly different from those of an eggbear.",
+    "Dropped": "Wrath Nail Skinny War Wolf",
+    "Stolen": "Wrath Nail Skinny",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_BEARSFUR.png",
+    "Name": "Bearskin",
+    "Description": "The hide of a black bear.Used for warm clothing in cold regions.",
+    "Dropped": "Beast Bear Egg Bear Grimza Wrath Nail Egg Bear (Aersick) Square Shoulder Skinny Heavy Bear",
+    "Stolen": "Beast Bear",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_BEAST_BORN.png",
+    "Name": "Demon Bone",
+    "Description": "A bone of decent size. It is relativelysofter than that of a human�s or animal�s.",
+    "Dropped": "Maize Orge Soldier Soldier Johann Johann (Team Battle) Johann Memory Burglar Savage Helm Grain Warrior Gingembre Barley Susa Chief Bat",
+    "Stolen": "Soldier Soldier Johann Memory Susa Rye",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_BIG_BIRD_KUTI.png",
+    "Name": "Great Raptor Beak",
+    "Description": "A gigantic beak from an enormous bird.It will make a good weapon, but there�s a stench.",
+    "Dropped": "Pterobronc Pterobronc Memory",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_BIG_SHELL.png",
+    "Name": "Great Crab Shell",
+    "Description": "A person can fit into this shell. It would benice to eat a crab of this size for dinner!",
+    "Dropped": "Hermit Drill Hermit Memory Gigalarva Gigalarva Memory Crab Admiral",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_BIG_SIZZAR.png",
+    "Name": "Large Claws",
+    "Description": "The claw of a lobster or crab type monster.Like a pair of scissors, but can�t be used for the same purpose.",
+    "Dropped": "Watergunner Scissorbeak Crab Man Deathseeker Aquates Assassin Sworpion Wirbel Crab Lieutenant",
+    "Stolen": "Scissorbeak Crab Man Deathseeker",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_BIO_CROW.png",
+    "Name": "Grim Claw",
+    "Description": "It quickly regenerates even when cutin this condition. Must contain a lot of life force.",
+    "Dropped": "Grimza Bloodclaw Wolf",
+    "Stolen": "Grimza",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_BIRDWING.png",
+    "Name": "Bird Feather (Small)",
+    "Description": "A light and soft feather. It is virtually weightless.",
+    "Dropped": "Hammerbeak Howler Drillbeak Clappit Popper Honker Chirpee Scissorbeak Private Bat Jr.",
+    "Stolen": "Drillbeak Chirpee",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_BLUE_STAR.png",
+    "Name": "Blue Star Gem",
+    "Description": "A unique stone known as the star gem. It glows blue.",
+    "Dropped": "Superstar B Superstar B (Team Battle)",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_BOA_FUR.png",
+    "Name": "Boar Fur",
+    "Description": "The stiff coat of a boar.Not suited for making human clothing.",
+    "Dropped": "Rhinossus Rhinossus Wild Boar Generator Boar War Wolf",
+    "Stolen": "Wild Boar Rhinossus Rhinossus",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_BREAK_SWORD.png",
+    "Name": "Broken Dagger",
+    "Description": "Part of a dagger broken during battle.Still sharp and dangerous to leave behind.",
+    "Dropped": "Sand Thief Seigle Rogue Thief Pepe Val Gilga Bandido Bandido Memory Jugem Jugem (Team Battle) Jugem Memory Soya Jun Bre Naraka",
+    "Stolen": "Bandido Bandido Memory Jugem Jugem (Team Battle) Jugem Memory Rogue Thief Val Gilga",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_BULL_WING.png",
+    "Name": "Bull Wing",
+    "Description": "Wing of a bull type monster. Said to serve as ears.",
+    "Dropped": "Brucis Brucis Memory",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_DARK_STAR.png",
+    "Name": "Dark Star Gem",
+    "Description": "A unique stone known as the star gem.It constantly glows black.",
+    "Dropped": "Superstar D Superstar D (Team Battle)",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_DONGRI_MET.png",
+    "Name": "Acorn Helmet",
+    "Description": "A helmet made of a large acorn.It's hollowed out leaving only the outer shell.",
+    "Dropped": "Gobligle Gobley Middle Roper Jr.",
+    "Stolen": "Gobley Gobligle",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_DRAGON_FOSSIL.png",
+    "Name": "Dragon Fossil",
+    "Description": "The fossil of an extinct dragon. Contains specialelements that can be used for fuel.",
+    "Dropped": "Judasey",
+    "Stolen": "Judasey",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_DRAGON_POWDER.png",
+    "Name": "Dragon Powder",
+    "Description": "Said to be the powder form of dried dragon'ssweat. It is white and has no taste or smell.",
+    "Dropped": "Medusa Butterfly Medusa Memory Chimera Butterfly Chimera Memory",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_EVENT_102.png",
+    "Name": "Eggbear Claw",
+    "Description": "A sharp and solid claw. Used in this form or grinded toa powder form. Used for various purposes.",
+    "Dropped": "Egg Bear (Aersick) Beast Bear Egg Bear Heavy Bear",
+    "Stolen": "Egg Bear (Aersick)",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_EVENT_20.png",
+    "Name": "Golden Horn",
+    "Description": "A shiny, gold horn from a rhybgaro.Known to be a very rare item.",
+    "Dropped": "Rhybgaro Rhybgaro Memory Orpheus",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_EVIL_BONE.png",
+    "Name": "Wicked Bone",
+    "Description": "A bone from a grieving, mysterious skeleton warrior.Seems to contain malice down to the marrow.",
+    "Dropped": "Cursed Wanderer",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_FIRE_BALL.png",
+    "Name": "Flare Stone",
+    "Description": "A stone that never cools. Its temperatureis just low enough to prevent burn injuries.",
+    "Dropped": "Fire Spirit Flame Spirit Gentlematch Firebird Flame Bird Firebat Flame Bat Passion Cockatrice Sheol",
+    "Stolen": "Firebird Flame Bird Firebat Flame Bat Fire Spirit Flame Spirit Gentlematch Passion Cockatrice",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_FISHMAN_KIBA.png",
+    "Name": "Merman Fang",
+    "Description": "Fangs of a merman. Very sharp comparedto that of a wolf's. Need care when handling.",
+    "Dropped": "Predafish Teethee Gigafish Crab Admiral",
+    "Stolen": "Albino Merfish",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_FISHMAN_SEBIRE.png",
+    "Name": "Merman Fin",
+    "Description": "A large fin unlike that of a fish�s.Very flexible and elastic.",
+    "Dropped": "Boost Merfish Electrifish Gigafish Merfish Albino Merfish Predafish Crab Captain Teethee",
+    "Stolen": "Merfish",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_FISHMAN_WEAPON.png",
+    "Name": "Merman's Weapon",
+    "Description": "A weapon used by a merman.It is similar to a human weapon.",
+    "Dropped": "Gigafish Electrifish Teethee Merfish Albino Merfish Boost Merfish Predafish Crab Lieutenant",
+    "Stolen": "Electrifish",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_G_DRA_SKALE.png",
+    "Name": "Bloody Beak Scale",
+    "Description": "A burning dragon scale. It's hard. Really hard. Seems likea difficult material to work with.",
+    "Dropped": "Bloody Beak Bloody Beak Memory",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_G_KUMA_CROW.png",
+    "Name": "Green Menace Claw",
+    "Description": "A pink claw. It looks cute at first glance, but it'ssharp enough to kill with one slash.",
+    "Dropped": "Green Menace Memory Green Menace",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_GAJU_KEGAWA.png",
+    "Name": "Beast Skin",
+    "Description": "Extremely rare and is traded at a high price.",
+    "Dropped": "Wolf (Aersick) Lupice Schwert Wolf Cornus Loewe Black Wolf Captain Bat",
+    "Stolen": "Wolf (Aersick)",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_GAMA_OIL.png",
+    "Name": "Toad Oil",
+    "Description": "Oil collected from amphibian type monsters.Very useful as lubricant but has a slight odor.",
+    "Dropped": "Ribbit Spikkit Rasslebit Pearllit Amenti",
+    "Stolen": "Ribbit",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_GENTLE_PRIDE.png",
+    "Name": "Gentleman�s Tie",
+    "Description": "A tie worn by a gentleman.You may want to carry a handkerchief with it.",
+    "Dropped": "Gentlematch Gentleman Gentlereplica Gentlereplica (Team Battle) Gentlesinger Gentlesigner (Team Battle) Gentlemieu Gentlemieu (Team Battle) Kur",
+    "Stolen": "Gentlereplica Gentlereplica (Team Battle) Gentlesinger Gentlesigner (Team Battle) Gentlemieu Gentlemieu (Team Battle) Gentleman",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_GEO_STONE.png",
+    "Name": "Geo Stone",
+    "Description": "Small but extremely heavy... Is it?Actually, it's not that heavy.",
+    "Dropped": "Roctus Nuggethopper Paincorn Roctoise Filifolia Puff Pandor Perfect Murder Valhalla",
+    "Stolen": "Knight Fencer S Roctus Nuggethopper Pandor",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_GIZAGIZA_HAIR.png",
+    "Name": "Jaggy Fur",
+    "Description": "Each hair is shaped in a jaggy form. Handlewith care. Don't hurt yourself.",
+    "Dropped": "Generator Boar Heavy Roper Jr.",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_GOLD_TATEGAMI.png",
+    "Name": "Golden Mane",
+    "Description": "A shiny gold mane. It looks sogorgeous, it can get on your nerves.",
+    "Dropped": "Rhybgaro Rhybgaro Memory Captain Bat Jr.",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_GOLDSAND.png",
+    "Name": "Desier Gold Dust",
+    "Description": "Sand mixed with gold from the Desier continent.Collecting a lot and forging it may make you rich.",
+    "Dropped": "Sand Thief Deadwreath Clappit Green Spider Loewe Rosa Gigantia Light Roper Jr. Wirbel",
+    "Stolen": "Clappit",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_GOMU_KAWA.png",
+    "Name": "Rubber Skin",
+    "Description": "A piece of bark from a rubber tree. Used to makerubber. This item is worthless before being processed.",
+    "Dropped": "Jet Balloon Tiredillo Balloon Ghost Spikadillo Bigger Balloon Gullinbursti",
+    "Stolen": "Tiredillo Spikadillo Jet Balloon",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_GORIKI_BALL.png",
+    "Name": "Might Orb",
+    "Description": "Little is known about this orb, but it is said to contain highmagical powers. Used as a catalyst to enhance physical magic.",
+    "Dropped": "Johann Johann (Team Battle) Johann Memory Warrior Osiris",
+    "Stolen": "Warrior",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_GREEN_LIGHT.png",
+    "Name": "Greenlight Stone",
+    "Description": "A stone that glows green. No value as a gem.",
+    "Dropped": "Gaina Firefly Core Spirit",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_GREEN_STAR.png",
+    "Name": "Green Star Gem",
+    "Description": "A unique stone known as the star gem. This is the green type.",
+    "Dropped": "Superstar G Superstar G (Team Battle)",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_GRIFIN_CROW.png",
+    "Name": "Griffin Claw",
+    "Description": "The sharp claws of griffins. Many travelerslost their lives to these.",
+    "Dropped": "Griffin Griffin Memory",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_HAGANE_HIJIRI.png",
+    "Name": "Steel Arrow Head",
+    "Description": "An arrowhead made of steel. It is so sharpit can be used as a weapon by itself.",
+    "Dropped": "Zinc Etain Fer Argent Killing Cupid Hellish",
+    "Stolen": "Zinc Fer Argent Killing Cupid",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_HANE_HARISEN.png",
+    "Name": "Wing Fan",
+    "Description": "A wing shaped like a paper fan. Its soft andmakes you want to slap people with it.",
+    "Dropped": "Popper General Bat Jr.",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_HARD_LEATHER.png",
+    "Name": "Tough Leather",
+    "Description": "A very tough piece of leather. How do thesecreatures move with skin this tough?",
+    "Dropped": "Lizardman Rhino Black Rhino EX Rhino Strong Lizard Major Bat",
+    "Stolen": "Rhino",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_HARD_SPIKE.png",
+    "Name": "Solid Thorn",
+    "Description": "A sharp thorn. It often grows on beautiful things.",
+    "Dropped": "Trifid Square Shoulder Filihelia Heavy Bottom Fantail Rosa Gigantia Axigle Slidrugtanni",
+    "Stolen": "Filihelia Heavy Bottom Fantail",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_HELL_KAMA.png",
+    "Name": "Devil�s Sickle",
+    "Description": "A sickle said to be used by the Grim Reaper.The edge is relatively sharp.",
+    "Dropped": "Nuggethopper Giant Mantis Flora Mantis Grasshopper Death Mantis Chimera Brother",
+    "Stolen": "Death Mantis",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_HIDUME.png",
+    "Name": "Hoof",
+    "Description": "A hoof collected from a horse type monster.These hooves are shaped like a \"U\".",
+    "Dropped": "Rhybgaro Rhybgaro Memory Horse Raptor Quietta Uniceros Mounico EX Unicorn Gullinbursti",
+    "Stolen": "Quietta Rhybgaro Rhybgaro Memory",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_HIPIONI_JUHI.png",
+    "Name": "Hypionian Tree Bark",
+    "Description": "A piece of bark from the Hypionian tree.The sap can be used for many things.",
+    "Dropped": "Square Shoulder Erdas Rasslebit Welter Roper Jr.",
+    "Stolen": "Burglar Erdas Rasslebit Square Shoulder",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_HIPIONI_SANGO.png",
+    "Name": "Hypionian Coral",
+    "Description": "Coral that grows on the coast of the Hypioniacontinent. Shiny and very beautiful.",
+    "Dropped": "Peepit Burglar Octopoise Aquicia Bunwigle Welter Roper Jr. Pearllit",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_ICE_BALL.png",
+    "Name": "Frost Stone",
+    "Description": "It's not ice, but a stone that stays cold.Holding it for a long time can cause frostbite.",
+    "Dropped": "Ice Golem Ice Bat Ice Spirit Limewreath Penguinist Snow Spirit Lupice Yomi",
+    "Stolen": "Limewreath Ice Bat Ice Golem",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_IGAIGA_BOKKURI.png",
+    "Name": "Piney Cone",
+    "Description": "A spiky fruit. Not edible. Animals won'ttouch it either.",
+    "Dropped": "Paincorn Chimera Brother",
+    "Stolen": "Paincorn",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_IKASUMI.png",
+    "Name": "Jet-black Ink",
+    "Description": "A black liquid excreted from mollusks.A good ingredient for cooking.",
+    "Dropped": "Jons Aquicia Octopoise Tentacler Colonel Bat",
+    "Stolen": "Jons Octopoise",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_IKASUMI_S.png",
+    "Name": "Pitch-black Ink",
+    "Description": "The color is darker than ordinary ink.Almost pure black and used as a valuable pigment.",
+    "Dropped": "Aquicia",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_INSECTSPLASH.png",
+    "Name": "Insect Wing",
+    "Description": "An extremely thin insect wing.Brittle and very fragile.",
+    "Dropped": "Deadwreath Bee Sonic Bee Gun Hornet Giant Bee (Aersick) Killer Bee Killing Cupid Chief Bat Jr.",
+    "Stolen": "Deadwreath Giant Bee (Aersick) Sonic Bee",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_IRIKIAGRASS.png",
+    "Name": "Ilyccia Weed",
+    "Description": "An ordinary plant that grows on Ilyccia continent.",
+    "Dropped": "Filifolia Bud Tuliper Chirpee Axe Beak Tentacler Gobley Rhino Green Roper Polwigle Axe Beak (Aersick) Fly Roper Jr.",
+    "Stolen": "Axe Beak",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_IRIKICE.png",
+    "Name": "Ilyccian Ice",
+    "Description": "Ice from the Ilyccia glacial region.Not possible theoretically, but this ice never melts.",
+    "Dropped": "Limewreath Penguinist Electrifish Fly Roper Jr.",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_IRON_FOOT.png",
+    "Name": "Iron Leg",
+    "Description": "Some sort of leg made of metal.It's strange that the other parts are not found.",
+    "Dropped": "Murder Guilty Murder Trans Murder Blade Murder Perfect Murder Sheol",
+    "Stolen": "Blade Murder Guilty Murder Trans Murder",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_IRON_HOSAKI.png",
+    "Name": "Iron Tip",
+    "Description": "Used as a spearhead and arrowhead.Poison was applied to it during war times. Scary...",
+    "Dropped": "Knight Lancer A Knight Lancer K Augusto Knight Lancer Knight Halberd A Knight Halberd F Erungar Erungar (Team Battle) Erungar Memory Knight Lancer S Knight Catcher Naraka",
+    "Stolen": "Knight Lancer A Knight Lancer K Augusto Knight Lancer Knight Catcher Knight Halberd A Knight Halberd F",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_IRON_TUKA.png",
+    "Name": "Iron Grip",
+    "Description": "Probably the handle of a sword.It wouldn�t work as a weapon the way it is.",
+    "Dropped": "Knight Fencer K Knight Fencer S Knight Fencer Knight Warrior Knight Fencer A Knight Warrior A Knight Fencer F Amenti",
+    "Stolen": "Knight Fencer Knight Warrior Knight Warrior A",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_IRONSAND.png",
+    "Name": "Desier Iron Sand",
+    "Description": "Sand with iron from the Desier continent.Much harder than ordinary iron sands.",
+    "Dropped": "Jun Axigle Cockatrice Loewe Death Mantis Light Roper Jr.",
+    "Stolen": "Jun",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_JET_RABBIT.png",
+    "Name": "Bunny Ear Wing",
+    "Description": "Taken from a rabbit that uses its ears as wings.Longer than that of a normal rabbit and has floating magic.",
+    "Dropped": "Rabtor",
+    "Stolen": "Rabtor",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_JWEL_OF_INT.png",
+    "Name": "Spring of Wisdom",
+    "Description": "An orb said to hold memories from anancient time. It is just a legend though...",
+    "Dropped": "Alexei Alexei Memory",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_KABA_AKUBI.png",
+    "Name": "Hippo Breath",
+    "Description": "The solidified breath from a hippo�s yawn.Talk about bad breath!",
+    "Dropped": "Hippo Osiris",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_KAME_SHIPPO.png",
+    "Name": "Tortoise Tail",
+    "Description": "The tail of a tortoise usually hidden underits shell. Much heavier than it looks.",
+    "Dropped": "Cannosso Crystea Erdas Crab Admiral",
+    "Stolen": "Cannosso",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_KING_ABURAMUSHI.png",
+    "Name": "Giant Aphid",
+    "Description": "The largest aphid species. It has a high trade value on the black market.",
+    "Dropped": "Gold Beetle Colonel Bat Jr.",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_KINO_POWDER.png",
+    "Name": "Fungus Powder",
+    "Description": "The spores of a fungus. Dangerous if inhaled.",
+    "Dropped": "Audreitz Minicoid Venomey Poisey Agaric Heavy Roper",
+    "Stolen": "Minicoid",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_KINO_POWDER_MAX.png",
+    "Name": "Fungus Powder MX",
+    "Description": "A concentrated fungus powder.It is close to being in solid form.",
+    "Dropped": "Audreitz Poisey Heavy Roper",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_KNIGHT_WATER.png",
+    "Name": "Knight Water",
+    "Description": "Water knights use to cleanse themselvesduring a pilgrimage. Not for drinking.",
+    "Dropped": "Knight Guard Knight Catcher Knight Warrior Knight Fencer Knight Lancer Knight Bishop High Knight Bishop Colonel Bat",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_KNIGHT_WATER2.png",
+    "Name": "Knight Holy Water",
+    "Description": "Blessed Knight Water only used duringspecial ceremonies.",
+    "Dropped": "Knight Fencer F Knight Halberd F Erungar Erungar (Team Battle) Erungar Memory Knight Fencer K Knight Fencer S Knight Warrior A Knight Fencer A Knight Lancer A Knight Lancer K Knight Lancer S Knight Guard Knight Catcher Knight Halberd A General Bat",
+    "Stolen": "Knight Fencer A Knight Fencer F Knight Fencer K",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_KOKATORI_CROW.png",
+    "Name": "Cockatrice Claw",
+    "Description": "A claw with some petrify magic.It is not sharp so its attack powers are weak.",
+    "Dropped": "Cockatrice Passion Cockatrice Great Cockatrice Chimera Brother",
+    "Stolen": "Cockatrice",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_KOKATORI_KUTIBASHI.png",
+    "Name": "Cockatrice Beak",
+    "Description": "A beak with petrify magic.It is not effective now though.",
+    "Dropped": "Great Cockatrice Chimera Sister",
+    "Stolen": "Great Cockatrice",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_KUMONOSU.png",
+    "Name": "Spider Web",
+    "Description": "A web made by a monster spider. Very elasticand durable compared to normal webs.",
+    "Dropped": "Spider Green Spider Captain Bat",
+    "Stolen": "Spider",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_KUSAI_BAG.png",
+    "Name": "Stinky Bag",
+    "Description": "Don't want to know what�s in this bag.To be honest, I don't even want to carry it around.",
+    "Dropped": "Greater Skunky Skunky Light Roper",
+    "Stolen": "Greater Skunky",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_KUTIBASHI_RAPPA.png",
+    "Name": "Bugle Beak",
+    "Description": "A beak shaped like a trumpet. It doesn'tproduce any noise.",
+    "Dropped": "Honker Major Bat Jr.",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_LIGHT_STAR.png",
+    "Name": "Shining Star Gem",
+    "Description": "A unique stone known as the star gem.It constantly emits a dazzling glow.",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_LIGHT_STAR.png",
+    "Name": "Light Star Gem",
+    "Description": "A unique stone known as the star gem. It constantly glows white.",
+    "Dropped": "Superstar S Superstar S (Team Battle)",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_LIZARDFOSSIL.png",
+    "Name": "Weccean Lizard Fossil",
+    "Description": "A lizard fossil.Very valuable for research.",
+    "Dropped": "Roctoise Superstar D Middle Roper Jr. Strong Lizard",
+    "Stolen": "Roctoise",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_LIZARDMAN_WEAPON.png",
+    "Name": "Lizardman's Weapon",
+    "Description": "Weapon used by a lizardman. Heavier thanweapons used by humans. How do they wield this?",
+    "Dropped": "Strong Lizard Lizardman Crab Lieutenant",
+    "Stolen": "Lizardman",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_LONG_HORN.png",
+    "Name": "Long Horn",
+    "Description": "The horn of a buffalo type monster. The tips areslightly curved, but is still dangerous if hit by them.",
+    "Dropped": "Brutal",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_LONG_NEEDLE.png",
+    "Name": "Long Needle",
+    "Description": "A very long needle from some plant.You can�t use it to sew, though.",
+    "Dropped": "Giant Bee (Aersick) Sonic Bee Spikkit Thornwigle Bee Naraka",
+    "Stolen": "Spikkit Thornwigle Bee",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_LUKE_SP.png",
+    "Name": "Fragment of Hyper-Resonance",
+    "Description": "An object that seems to be scraped by a strongresonance. Not a result of a natural phenomenon.",
+    "Dropped": "Gentlereplica Gentlereplica (Team Battle)",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_MADOU_BOOK.png",
+    "Name": "Grimoire Page",
+    "Description": "A page out of a grimoire. Used as a catalyst.Isn�t this dangerous?",
+    "Dropped": "Witch Witch Memory July High Knight Bishop Sorceress Druid Ail Piment Knight Bishop Major Bat",
+    "Stolen": "High Knight Bishop Witch Witch Memory Druid July Knight Bishop",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_MAGARI_SAKE.png",
+    "Name": "Hunting Potion",
+    "Description": "A potion with a strong stimulating effect. Used toovercome fear when fighting monsters.",
+    "Dropped": "Rye Bre Gingembre Barley Soya Pepe Orge Maize Ail Piment Seigle Chief Bat Jr.",
+    "Stolen": "Bre Soya Pepe Seigle Maize Grain",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_MAGIC_BALL.png",
+    "Name": "Mystic Orb",
+    "Description": "A mysterious orb that contains magic powers.Not known if it is an authentic or artificial object.",
+    "Dropped": "Pearllit Fancy Parasol Quadra General Bat",
+    "Stolen": "Pearllit Quadra",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_MAGIC_STONE.png",
+    "Name": "Blastium Ore",
+    "Description": "Ore that contains aer.Used for making items with magic.",
+    "Dropped": "Roctus Golem Gear Golem Ice Golem Gentlegolem Gentlegolem (Team Battle) Hammer Golem Kur",
+    "Stolen": "Golem",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_MAGIC_STONE_J.png",
+    "Name": "Blastium Ore J",
+    "Description": "Contains the most magical powers of blastium ores.Very rare and very valuable.",
+    "Dropped": "Gentlegolem Gentlegolem (Team Battle) Brunhilde",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_MANDRA_EYE.png",
+    "Name": "Mandrake Eye",
+    "Description": "The eye of a mandrake with a dreadful scream.Used as a catalyst.",
+    "Dropped": "Agaric Mandragora Mandragora (Aersick) Mandrawigle Tweeny Dryad Alraune General Bat",
+    "Stolen": "Mandragora Agaric",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_MEDICALHARB.png",
+    "Name": "Medical Herb",
+    "Description": "An herb that is good for recovering physical strength.Needs to be processed before use.",
+    "Dropped": "Filifolia Bud Treant Insect Plant Tuliper Rosa Camellia Filifolia",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_MID_BIRD_WING.png",
+    "Name": "Bird Feather (Medium)",
+    "Description": "Each feather is extremely large witha thick bone. Not suitable for beddings.",
+    "Dropped": "Axe Beak (Aersick) Bugle Beak Hawk Eon Raptor Firebird Flame Bird Penguinist Swordbeak Clukkit Axe Beak Private Bat",
+    "Stolen": "Axe Beak (Aersick)",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_MIMIC_KIBA.png",
+    "Name": "Fake Box Fang",
+    "Description": "A mimic's fang stained with the blood ofmany thieves.",
+    "Dropped": "Fake Seed Capiora Pandor Quadra Amenti",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_MIZUHAJIKI_TEX.png",
+    "Name": "Waterproof Cloth",
+    "Description": "A fabric that completely repels water andcan be used for waterproof clothing.",
+    "Dropped": "Fancy Parasol Strange Bat Colonel Bat",
+    "Stolen": "Fancy Parasol",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_MKNIGHT_EDGE.png",
+    "Name": "Soulless Demon Blade",
+    "Description": "Remains of the Sword Dancer.It's still sharp, so be careful!",
+    "Dropped": "Sword Dancer",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_MKNIGHT_EDGE2.png",
+    "Name": "Soulless Demon Blade 2",
+    "Description": "Remains of the Sword Dancer. Despite being broken,it emits a sinister light.",
+    "Dropped": "Sword Dancer",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_MKNIGHT_EDGE3.png",
+    "Name": "Soulless Demon Blade 3",
+    "Description": "Remains of the Sword Dancer. It steals your soul if youlook at it. This is a dangerous blade...",
+    "Dropped": "Sword Dancer",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_MONKEY_HAIR.png",
+    "Name": "Ape Man Coat",
+    "Description": "Thick, rough, wire-like hair of an ape-man.Don't they hurt themselves with these hairs?",
+    "Dropped": "Gobley Poisey Venomey Judasey Seasidey Bloodclaw Wolf",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_NAVIMETAL.png",
+    "Name": "Naevimetal",
+    "Description": "A rare growing metal. It is dangerous sinceit can eat away other creatures.",
+    "Dropped": "Hammer Golem Giant Mantis Gear Golem Ice Golem Gentlegolem Gentlegolem (Team Battle) Capiora Gun Hornet",
+    "Stolen": "Gear Golem Gentlegolem Gentlegolem (Team Battle) Gun Hornet",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_ORANGE_STAR.png",
+    "Name": "Orange Star Gem",
+    "Description": "A unique stone known as the star gem. This is the orange type.",
+    "Dropped": "Superstar O Superstar O (Team Battle)",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_ORANGE_TEX.png",
+    "Name": "Mystic Cloth",
+    "Description": "No one knows who made this cloth, whatmaterial it is made of or how it was made.",
+    "Dropped": "Lett Bronze Titane Plomb Cuivre Zinc Etain Fer Argent Light Roper Jr.",
+    "Stolen": "Bronze Plomb Etain",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_ORIGINALGUMI.png",
+    "Name": "Gel Base",
+    "Description": "The raw material of gels. Edible when processed,but is bland and odorless.",
+    "Dropped": "Polwigle Minicoid Axe Beak Strange Bat",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_OTAMA_TALE.png",
+    "Name": "Soft Tail",
+    "Description": "A long, flexible tail.The tail does not contain any bones.",
+    "Dropped": "Squirrigle Whitigle Polwigle Thornwigle Peepit Mandrawigle Fly Roper Jr.",
+    "Stolen": "Polwigle Squirrigle Whitigle Mandrawigle",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_P_LIGHIT.png",
+    "Name": "Power Light",
+    "Description": "Power flows through your body by justtouching it. Or maybe it's just my imagination.",
+    "Dropped": "Gattuso Gattuso Memory",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_PERIKAN_BAG.png",
+    "Name": "Bucket Beak",
+    "Description": "A beak where pelicans store their food.Very thin and tears easily.",
+    "Dropped": "Bugle Beak Light Roper",
+    "Stolen": "Bugle Beak",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_PIKO_KUTIBASHI.png",
+    "Name": "Pow Hammer Beak",
+    "Description": "A beak shaped like a pow hammer.Makes a weird popping noise when hitting with it.",
+    "Dropped": "Hammerbeak General Bat Jr.",
+    "Stolen": "Hammerbeak",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_PIYO_TAMAGO.png",
+    "Name": "Peepit Egg",
+    "Description": "Not good for cooking and usually used as fuel.",
+    "Dropped": "Mandrawigle Clukkit Welter Roper Jr.",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_PUTI_HA.png",
+    "Name": "Filifolia Leaf",
+    "Description": "A leaf collected from a filifolia type monster.Similar to a normal leaf but the sap is different.",
+    "Dropped": "Filifolia Filifolia Puff Alraune Filifolia Bud Filihelia Floating Filo Wilted Filifolia Welter Roper",
+    "Stolen": "Filifolia Filifolia Bud Filifolia Puff Floating Filo",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_PUTI_MI.png",
+    "Name": "Filifolia Fruit",
+    "Description": "Filifolia fruit used for multiplication.A new filifolia will grown when planted.",
+    "Dropped": "Wilted Filifolia Floating Filo Welter Roper",
+    "Stolen": "Wilted Filifolia",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_R_POISON.png",
+    "Name": "Antibiotics",
+    "Description": "A medical supply that can cure poison.You need to know how to use it to handle it.",
+    "Dropped": "Goliath Goliath Memory",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_RABBIT_EAR.png",
+    "Name": "Rabbit Ear",
+    "Description": "A rabbit ear. Soft, yet relatively durable.",
+    "Dropped": "Bunwigle Rabbigo Private Bat",
+    "Stolen": "Bunwigle Rabbigo",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_RABBIT_FUR.png",
+    "Name": "Rabbit Fur",
+    "Description": "Fluffy and furry bunny fur. Often used for clothes.",
+    "Dropped": "Rabbigo Rabbio Bunwigle Chief Bat",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_RAINBOW_LENS.png",
+    "Name": "Rainbow Lens",
+    "Description": "A strange lens that emits all seven colorsof the rainbow from every angle.",
+    "Dropped": "Khroma Dragon Khroma Memory",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_RARE_METAL.png",
+    "Name": "Rare Metal",
+    "Description": "An extremely rare metal ore said to be fictional.Very solid and is difficult to process.",
+    "Dropped": "Poseidon Poseidon Memory Orpheus",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_RED_STAR.png",
+    "Name": "Red Star Gem",
+    "Description": "A unique stone known as the star gem. It glows red.",
+    "Dropped": "Superstar R Superstar R (Team Battle)",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_RED_TUBOMI.png",
+    "Name": "Red Blossom",
+    "Description": "The bud of a red flower. Still not ready tobloom, but contains a special syrup inside.",
+    "Dropped": "Tuliper Mandragora Mandragora (Aersick)",
+    "Stolen": "Tuliper Mandragora (Aersick)",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_REIKON_KAKERA.png",
+    "Name": "Spirit Fragment",
+    "Description": "Don't know if this is really a spirit or not, but it isintangible. It won't curse you if you touch it though.",
+    "Dropped": "Hysteric Purple Cursed Wanderer Memory Poltergeist Anchorgeist Core Spirit",
+    "Stolen": "Poltergeist Hysteric Purple Anchorgeist",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_ROPER_SHOKUSHU.png",
+    "Name": "Roper Tentacle",
+    "Description": "The tentacle of a magic creature.Covered with a slimy fluid. Yuck!",
+    "Dropped": "Green Roper Blue Roper Red Roper Yellow Roper Fly Roper",
+    "Stolen": "Green Roper Red Roper Yellow Roper",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_ROSE_FLOWER.png",
+    "Name": "Rose",
+    "Description": "A beautiful rose. When dipped into aer,its substance changes and turns solid.",
+    "Dropped": "Rosa Camellia Tweeny Rosa Gigantia Middle Roper",
+    "Stolen": "Rosa Camellia Rosa Gigantia Tweeny",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_SABOTEN_NEEDLE.png",
+    "Name": "Cactus Needles",
+    "Description": "Some sharp needles from a cactus. Just touching itcan hurt you. You don't want to stick your hand on these.",
+    "Dropped": "Cactus Dryad Green Spider Bantam Roper",
+    "Stolen": "Cactus Green Spider Dryad",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_SACREDTREE.png",
+    "Name": "Sacred Tree",
+    "Description": "A twig taken from a sacred tree. It is definitelydifferent from an ordinary twig.",
+    "Dropped": "Treant Blooms Limewreath Deadwreath Paincorn Private Bat",
+    "Stolen": "Treant",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_SAI_HORN.png",
+    "Name": "Rhino Horn",
+    "Description": "A light, yet solid horn collected from a rhino type monster. It is useful because of its light weight.",
+    "Dropped": "Black Rhino EX Rhino Rhino Osiris",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_SASORI_SHIPPO.png",
+    "Name": "Scorpion Tail",
+    "Description": "A scorpion tail that contains deadly venom.Not capable of emitting poison by itself.",
+    "Dropped": "Sworpion Deathseeker Chimera Sister",
+    "Stolen": "Sworpion",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_SH_LIGHIT.png",
+    "Name": "Shield Light",
+    "Description": "Your muscles become solid just by touching it.Or maybe its just my imagination.",
+    "Dropped": "Dreaded Giant",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_SHELL.png",
+    "Name": "Shell",
+    "Description": "The outer shell of a sea creature. You can hearthe sound of the ocean if you put your ear against it.",
+    "Dropped": "Aquicia Seasidey Fire Spirit Flame Spirit Bantam Roper Jr. Octopoise",
+    "Stolen": "Aquicia Seasidey",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_SHIBIRE_POWDER.png",
+    "Name": "Paralyze Powder",
+    "Description": "A dangerous powder that can paralyze one wheninhaled. Often used for powerful medicines.",
+    "Dropped": "Thunder Bat Ratwigle Generator Boar Fly Roper",
+    "Stolen": "Thunder Bat Ratwigle",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_SILVER_STONE.png",
+    "Name": "Silver Ore",
+    "Description": "You can obtain silver by refining this.It is of no value by itself.",
+    "Dropped": "Hammer Golem Knight Guard Roctus Swordbeak Death Mantis Perfect Murder Yomi",
+    "Stolen": "Knight Guard Swordbeak Hammer Golem Perfect Murder",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_SISI_GO_KIBA.png",
+    "Name": "Great Leo Fang",
+    "Description": "Enormous fangs. Heavy, solid and sharp,it can be used as a weapon by itself.",
+    "Dropped": "Schwert Brunhilde",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_SISI_KIBA.png",
+    "Name": "Leo Fang",
+    "Description": "Sharp fangs collected from lion type monsters.",
+    "Dropped": "Loewe Schwert Kur",
+    "Stolen": "Loewe Schwert",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_SOULGRASS.png",
+    "Name": "Soul Grass",
+    "Description": "An herb said to be good for revitalizingone's health. Needs to be processed before use.",
+    "Dropped": "Trifid Leaf Bat Howler Floating Filo",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_SP_LIGHIT.png",
+    "Name": "Speed Light",
+    "Description": "Touching it will make you feel as light as air.Or maybe it's just my imagination.",
+    "Dropped": "Pteropus Leader Bat Pteropus Memory Leader Bat Memory",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_STRANGE_MASS.png",
+    "Name": "Mysterious Piece",
+    "Description": "A strange piece. I don't even remember whythis is in my hands now.",
+    "Dropped": "Outbreaker Breaker Memory",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_STRANGE_STONE.png",
+    "Name": "Strange Stone",
+    "Description": "An extremely rare ore.\"Strange\" doesn't mean its shape.",
+    "Dropped": "Gusios Gusios Memory Clint",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_STRONG_KARA.png",
+    "Name": "Crab Shell",
+    "Description": "The outer shell of a giant crab.Looks like the leftover of someone�s meal.",
+    "Dropped": "Crab Man Aquates Assassin Watergunner Crab Captain",
+    "Stolen": "Aquates Assassin",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_STRONG_SAKE.png",
+    "Name": "Spicy Potion",
+    "Description": "A very hot potion for grown-ups.Keep it away from kids!",
+    "Dropped": "Gigalarva Gigalarva Memory",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_STRONG_TUTA.png",
+    "Name": "Strong Vine",
+    "Description": "This vine will never break no matter howmuch force you exert. Don�t whip someone with it.",
+    "Dropped": "Insect Plant Trifid Filihelia Bantam Roper",
+    "Stolen": "Insect Plant",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_SUISHO.png",
+    "Name": "Crystal",
+    "Description": "Discharges electricity when pressure is applied.Used for various things.",
+    "Dropped": "Crystal Spirit Crystea Cornus Core Spirit",
+    "Stolen": "Cornus Crystea",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_SURUDOI_YAIBA.png",
+    "Name": "Sharp Blade",
+    "Description": "The blade of a weapon. It�s sharp,so watch out when handling it.",
+    "Dropped": "Strange Bat Swordbeak Blade Murder Trans Murder Cheiron Silver Stag Rabbio Killer Bee Nuggethopper",
+    "Stolen": "Strange Bat Cheiron Silver Stag",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_TATEGAMI.png",
+    "Name": "Mane",
+    "Description": "A fluffy and soft mane.Very soft and makes a good scarf.",
+    "Dropped": "EX Unicorn Rhinossus Rhinossus Hippo Quietta Rhybgaro Rhybgaro Memory Uniceros Mounico Horse Raptor Wild Boar Captain Bat Jr. Generator Boar",
+    "Stolen": "Mounico",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_TEAR_SP.png",
+    "Name": "Fonstone",
+    "Description": "A prophecy is engraved, but no one can read itand the details are unknown.",
+    "Dropped": "Gentlesinger Gentlesigner (Team Battle)",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_TIGRE_SP.png",
+    "Name": "Cheagle Fur",
+    "Description": "A fur of a sacred creature that cries \"mieu!\".No creature of this kind is yet to be found.",
+    "Dropped": "Gentlemieu Gentlemieu (Team Battle)",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_TOGARI_KUTI.png",
+    "Name": "Sharp Beak",
+    "Description": "An extremely sharp bird's beak.It can be used as a weapon by itself.",
+    "Dropped": "Hawk Eon Raptor Penguinist Firebird Flame Bird Valhalla",
+    "Stolen": "Hawk Eon Raptor Penguinist",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_TORBI_FISH.png",
+    "Name": "Tolbyccian Fish",
+    "Description": "Fish found mainly around Tolbyccia.It tastes bad and can't be used for food.",
+    "Dropped": "Howler Spinosaurus Beetle Gentleman Bantam Roper Jr. Crab Man",
+    "Stolen": "Spinosaurus",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_TORBI_WATER.png",
+    "Name": "Tolbyccian Water",
+    "Description": "Mineral water found only on the Tolbycciacontinent. Also known as the \"Springs of Tolby\".",
+    "Dropped": "Grasshopper Tortoise Sawtosaw Bandido Bandido Memory Horse Raptor Thornwigle Spinosaurus Fancy Parasol Bantam Roper Jr.",
+    "Stolen": "Sawtosaw",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_TORENT_HANA.png",
+    "Name": "Treant Flower",
+    "Description": "A flower that blooms on treants. Contains aerand is often used for magic equipments.",
+    "Dropped": "Blooms Chief Bat",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_TURTLE_KOURA.png",
+    "Name": "Tortoise Shell",
+    "Description": "The outer shell of a long living sea creature.Extremely hard and used to prevent enemy attacks.",
+    "Dropped": "Erdas Tortoise Roctoise Crystea Cannosso Crab Captain",
+    "Stolen": "Tortoise",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_UNICORN_HORN.png",
+    "Name": "Holy Horn",
+    "Description": "A horn that grows on the forehead of unicorns.Its powder is known to cure any sickness.",
+    "Dropped": "Uniceros Mounico EX Unicorn Orpheus",
+    "Stolen": "EX Unicorn",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_UROKO_LEATHER.png",
+    "Name": "Scaly Dragon Skin",
+    "Description": "A cluster of heat resistant scales.It can be used as a shield by itself.",
+    "Dropped": "Heavy Bottom Axigle Fantail Chimera Sister",
+    "Stolen": "Axigle",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_W_MIRROR.png",
+    "Name": "Strange Mirror",
+    "Description": "A mirror that does not show human reflections.It reflects everything else normally. I wonder why?",
+    "Dropped": "Estellise",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_WARAIDAKE.png",
+    "Name": "Aer Agaric",
+    "Description": "A fungus that feeds and grows on aer.Causes strong hallucination effects if eaten.",
+    "Dropped": "Audreitz Agaric Poisey Minicoid Middle Roper Venomey",
+    "Stolen": "Audreitz",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_WARM_HORN.png",
+    "Name": "Insect Horn",
+    "Description": "The horn of a cool insect.The ones from its king are even cooler!",
+    "Dropped": "Beetle Cheiron Silver Stag Slidrugtanni Sawtosaw",
+    "Stolen": "Beetle",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_WATAGE.png",
+    "Name": "Floccus",
+    "Description": "A fluffy floccus which was originally a part ofa plant seed. Used for blankets and bedding.",
+    "Dropped": "Filifolia Puff Insect Plant Alraune Captain Bat",
+    "Stolen": "Alraune",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_WEKEA_STONE.png",
+    "Name": "Weccea Ore",
+    "Description": "An ore found on the continent of Weccea. It can be melteddown under relatively low heat and is easy to process.",
+    "Dropped": "Roctoise Skunky Greater Skunky Middle Roper Jr.",
+    "Stolen": "Skunky",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_WOLFFUNG.png",
+    "Name": "Wolf Fang",
+    "Description": "A sharp fang. Not as sharp as the tip of a sword or needles.It's the bite pressure of the jaws that makes them deadly.",
+    "Dropped": "Skinny Wolf (Aersick) Wolf Black Wolf Critis Lupice Wirbel Cornus Major Bat",
+    "Stolen": "Black Wolf Wolf Gattuso Cub Cub Memory",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_WOLFFUNG_BIG.png",
+    "Name": "Great Wolf Fang",
+    "Description": "A very large fang of a wolf.",
+    "Dropped": "Fenrir Fenrir Memory Gattuso Gattuso Memory",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_YURZO_CRYSTAL.png",
+    "Name": "Yurzo Crystal",
+    "Description": "A rare crystal that formed after a tree burnsand crystallized.",
+    "Dropped": "Blooms Paincorn Venomey Judasey Hippo Wrath Nail Flora Mantis Griffin Griffin Memory Heavy Roper Jr.",
+    "Stolen": "Flora Mantis Hippo",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/items/U_ITEM_YURZO_MI.png",
+    "Name": "Yurzo Fruit",
+    "Description": "The fruit of a Yurzo tree. You need to boil itfor some time before it is edible.",
+    "Dropped": "EX Rhino Bigger Balloon Killer Bee Heavy Roper Jr.",
+    "Stolen": "EX Rhino Bigger Balloon Killer Bee",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#2, Group 4 #3, Group 5 #4, Group 1 #20, Group 1 #29, Group 4 #32, Group 4 #52, Group 4 #85, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#15, Group 1 #17, Group 5 #19, Group 4 #37, Group 1 #39, Group 5 #68, Group 1 #70, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#12, Group 3 #17, Group 1 #17, Group 3 #65, Group 3 #70, Group 1 #70, Group 3 #71, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#71, Group 2 #74, Group 1"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#12, Group 5 #25, Group 2 #48, Group 2 #65, Group 5 #72, Group 5 #78, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#10, Group 4 #28, Group 4 #31, Group 4 #63, Group 4 #81, Group 4 #84, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#68, Group 1 #68, Group 2 #68, Group 3 #68, Group 4 #68, Group 5 #88, Group 1 #88, Group 2 #88, Group 3 #88, Group 4 #88, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#1, Group 1 #1, Group 2 #1, Group 3 #3, Group 1 #3, Group 2 #5, Group 1 #5, Group 2 #5, Group 3 #6, Group 1 #6, Group 2 #6, Group 3 #9, Group 1 #9, Group 2 #12, Group 1 #12, Group 2 #15, Group 1 #15, Group 2 #15, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#40, Group 4 #42, Group 1 #42, Group 2 #42, Group 3 #44, Group 4 #45, Group 2 #45, Group 3 #45, Group 4 #80, Group 3 #80, Group 4 #82, Group 1 #82, Group 2 #82, Group 3 #82, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#40, Group 1 #40, Group 2 #40, Group 3 #41, Group 1 #41, Group 2 #41, Group 3 #41, Group 4 #41, Group 5 #42, Group 4 #42, Group 5 #44, Group 1 #44, Group 2 #44, Group 3 #45, Group 1 #79, Group 1 #80, Group 1 #80, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#11, Group 1 #25, Group 5 #45, Group 3 #48, Group 5 #66, Group 3 #78, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#11, Group 2 #45, Group 3 #49, Group 1 #64, Group 5 #66, Group 4 #79, Group 1"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#5, Group 4 #5, Group 5 #14, Group 5 #31, Group 3 #34, Group 3 #51, Group 3 #84, Group 3 #87, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#9, Group 5 #11, Group 4 #12, Group 3 #13, Group 3 #18, Group 5 #19, Group 1 #21, Group 5 #24, Group 5 #65, Group 3 #77, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#11, Group 5 #45, Group 4 #66, Group 2 #69, Group 1"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#1, Group 5 #4, Group 4 #23, Group 1 #25, Group 5 #26, Group 1 #28, Group 5 #48, Group 5 #73, Group 5 #76, Group 1 #78, Group 5 #81, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#1, Group 3 #6, Group 4 #30, Group 2 #39, Group 1 #43, Group 2 #53, Group 4 #56, Group 4 #59, Group 4 #83, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#4, Group 3 #4, Group 4 #20, Group 4 #33, Group 2 #50, Group 2 #86, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#4, Group 2 #7, Group 4 #7, Group 5 #16, Group 5 #22, Group 2 #28, Group 1 #37, Group 2 #37, Group 3 #48, Group 1 #54, Group 1 #54, Group 2 #54, Group 3 #54, Group 4 #54, Group 5 #72, Group 1 #72, Group 2 #72, Group 3 #72, Group 4 #72, Group 5 #73, Group 1 #75, Group 2 #81, Group 1"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#2, Group 3 #14, Group 3 #39, Group 4 #64, Group 4 #67, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#8, Group 5 #27, Group 5 #30, Group 5 #43, Group 5 #46, Group 5 #47, Group 5 #55, Group 5 #61, Group 5 #80, Group 5 #83, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#4, Group 5 #18, Group 5 #20, Group 3 #30, Group 4 #33, Group 4 #50, Group 4 #86, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#5, Group 1 #18, Group 5 #30, Group 5 #33, Group 5 #39, Group 3 #50, Group 5 #86, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#12, Group 4 #65, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#4, Group 2 #4, Group 3 #9, Group 5 #33, Group 1 #39, Group 5 #50, Group 1 #72, Group 4 #86, Group 1"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#1, Group 1 #5, Group 4 #26, Group 5 #29, Group 5 #44, Group 5 #49, Group 5 #52, Group 5 #79, Group 5 #82, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#1, Group 1 #36, Group 5 #40, Group 5 #42, Group 4 #64, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#12, Group 5 #15, Group 4 #45, Group 1 #64, Group 3 #65, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#6, Group 2 #14, Group 4 #35, Group 1 #53, Group 2 #56, Group 2 #56, Group 3 #59, Group 2 #59, Group 3 #88, Group 1"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#6, Group 1 #9, Group 4 #18, Group 4 #31, Group 5 #34, Group 5 #51, Group 5 #53, Group 1 #56, Group 1 #56, Group 2 #59, Group 1 #59, Group 2 #84, Group 5 #87, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#2, Group 3 #8, Group 4 #30, Group 4 #43, Group 4 #46, Group 4 #47, Group 4 #55, Group 4 #61, Group 4 #83, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#34, Group 5 #41, Group 5 #51, Group 5 #62, Group 1 #62, Group 2 #87, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#69, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#14, Group 1 #19, Group 5 #26, Group 3 #39, Group 4 #44, Group 3 #49, Group 3 #67, Group 1 #79, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#2, Group 5 #9, Group 1 #19, Group 5 #28, Group 1 #31, Group 1 #62, Group 1 #72, Group 1 #81, Group 1 #84, Group 1"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#2, Group 5 #5, Group 5 #7, Group 1 #7, Group 2 #7, Group 3 #19, Group 5 #23, Group 5 #26, Group 4 #29, Group 4 #52, Group 4 #72, Group 1 #76, Group 5 #79, Group 4 #82, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#22, Group 1 #75, Group 1"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#15, Group 3 #68, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#19, Group 3 #54, Group 1"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#10, Group 3 #10, Group 4 #36, Group 2 #63, Group 3 #63, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#3, Group 4 #3, Group 5 #13, Group 5 #14, Group 3 #20, Group 1 #29, Group 3 #32, Group 3 #52, Group 3 #85, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#22, Group 1 #24, Group 5 #27, Group 5 #31, Group 5 #32, Group 2 #32, Group 4 #32, Group 5 #33, Group 5 #34, Group 5 #35, Group 5 #36, Group 5 #37, Group 2 #37, Group 4 #38, Group 3 #38, Group 5 #39, Group 2 #40, Group 5 #41, Group 2 #41, Group 4 #41, Group 5 #42, Group 1 #42, Group 3 #43, Group 5 #47, Group 5 #50, Group 5 #51, Group 5 #75, Group 1 #77, Group 5 #80, Group 5 #84, Group 5 #85, Group 2 #85, Group 4 #85, Group 5 #86, Group 5 #87, Group 5 #88, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#5, Group 2 #19, Group 4 #64, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#15, Group 2 #66, Group 1 #68, Group 2 #72, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#22, Group 3 #75, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#71, Group 3 #74, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#10, Group 5 #36, Group 4 #39, Group 4 #63, Group 5 #64, Group 1"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#7, Group 2 #32, Group 5 #35, Group 5 #45, Group 5 #57, Group 2 #58, Group 2 #60, Group 2 #85, Group 5 #88, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#67, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#45, Group 1 #67, Group 1 #69, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#1, Group 4 #4, Group 5 #22, Group 5 #25, Group 4 #28, Group 4 #48, Group 4 #73, Group 4 #75, Group 5 #78, Group 4 #81, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#12, Group 2 #13, Group 2 #19, Group 3 #65, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#4, Group 4 #4, Group 5 #14, Group 1 #16, Group 4 #20, Group 3 #33, Group 3 #50, Group 3 #86, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#9, Group 3 #38, Group 2 #42, Group 2 #62, Group 3 #62, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#13, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#15, Group 4 #18, Group 3 #68, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#67, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#12, Group 1 #65, Group 1 #67, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#3, Group 1 #9, Group 2 #10, Group 5 #18, Group 1 #18, Group 2 #20, Group 2 #28, Group 5 #31, Group 5 #39, Group 2 #63, Group 5 #81, Group 5 #84, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#2, Group 2 #9, Group 1 #14, Group 5 #16, Group 4 #28, Group 3 #31, Group 3 #62, Group 5 #81, Group 3 #84, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#5, Group 2 #34, Group 1 #39, Group 3 #51, Group 1 #84, Group 1 #87, Group 1"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#13, Group 1 #15, Group 5 #68, Group 5 #71, Group 4 #74, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#2, Group 1 #5, Group 3 #13, Group 4 #23, Group 3 #29, Group 2 #39, Group 5 #52, Group 2 #79, Group 2 #82, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#1, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#1, Group 2 #5, Group 5 #30, Group 1 #43, Group 1 #83, Group 1"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#17, Group 4 #70, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#66, Group 5 #69, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#7, Group 3 #20, Group 5 #36, Group 1 #40, Group 1 #50, Group 1 #57, Group 3 #58, Group 3 #60, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#17, Group 3 #70, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#22, Group 2 #75, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#3, Group 3 #3, Group 4 #16, Group 1 #29, Group 2 #32, Group 2 #52, Group 2 #85, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#69, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#19, Group 4 #37, Group 5 #65, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#69, Group 1 #71, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#25, Group 3 #26, Group 1 #26, Group 2 #27, Group 1 #27, Group 2 #30, Group 1 #30, Group 2 #32, Group 1 #32, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#24, Group 1 #24, Group 2 #24, Group 3 #24, Group 4 #25, Group 1 #25, Group 2 #26, Group 3 #27, Group 3 #27, Group 4 #30, Group 3 #31, Group 1 #31, Group 2 #76, Group 1 #76, Group 2 #76, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#17, Group 1 #70, Group 1"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#6, Group 3 #6, Group 4 #9, Group 4 #14, Group 4 #18, Group 4 #35, Group 2 #53, Group 3 #56, Group 3 #56, Group 4 #59, Group 3 #59, Group 4 #88, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#2, Group 2 #6, Group 4 #6, Group 5 #14, Group 4 #18, Group 3 #18, Group 4 #32, Group 3 #35, Group 3 #53, Group 4 #56, Group 4 #56, Group 5 #59, Group 4 #59, Group 5 #85, Group 3 #88, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#71, Group 1"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#3, Group 2 #3, Group 3 #29, Group 1 #32, Group 1 #52, Group 1 #85, Group 1"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#38, Group 1 #62, Group 2 #62, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#22, Group 4 #75, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#16, Group 1 #16, Group 2 #17, Group 1 #17, Group 2 #17, Group 3 #19, Group 1 #19, Group 2 #19, Group 3 #21, Group 1 #21, Group 2 #21, Group 3 #23, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#16, Group 2 #19, Group 2 #70, Group 1 #70, Group 2 #70, Group 3 #71, Group 1 #71, Group 2 #71, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#8, Group 4 #8, Group 5 #34, Group 3 #41, Group 3 #46, Group 4 #46, Group 5 #55, Group 4 #61, Group 4 #61, Group 5 #87, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#11, Group 4 #12, Group 4 #25, Group 1 #48, Group 1 #54, Group 2 #54, Group 3 #65, Group 4 #78, Group 1"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#12, Group 5 #13, Group 2 #14, Group 5 #15, Group 5 #17, Group 5 #18, Group 5 #19, Group 2 #22, Group 5 #25, Group 4 #45, Group 2 #48, Group 4 #64, Group 5 #65, Group 5 #67, Group 5 #68, Group 5 #70, Group 5 #71, Group 5 #72, Group 2 #75, Group 5 #78, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#67, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#69, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#7, Group 5 #19, Group 1 #36, Group 3 #40, Group 3 #50, Group 3 #54, Group 5 #57, Group 5 #58, Group 5 #60, Group 5 #86, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#4, Group 4 #13, Group 4 #22, Group 4 #28, Group 3 #48, Group 3 #73, Group 3 #75, Group 4 #78, Group 3 #81, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#10, Group 2 #10, Group 3 #36, Group 1 #63, Group 2 #63, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#38, Group 3 #42, Group 1 #62, Group 4 #62, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#10, Group 1 #38, Group 4 #62, Group 5 #63, Group 1"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#10, Group 4 #10, Group 5 #36, Group 3 #63, Group 4 #63, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#5, Group 3 #5, Group 4 #14, Group 2 #34, Group 2 #51, Group 2 #84, Group 2 #87, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#37, Group 3 #37, Group 5 #77, Group 1 #77, Group 2 #77, Group 3 #77, Group 4 #78, Group 1 #78, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#33, Group 1 #33, Group 2 #33, Group 3 #35, Group 1 #35, Group 2 #35, Group 3 #35, Group 4 #37, Group 1 #38, Group 1 #38, Group 2 #38, Group 3 #38, Group 4 #38, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#11, Group 3 #31, Group 5 #32, Group 5 #65, Group 1 #72, Group 4 #84, Group 5 #85, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#7, Group 4 #20, Group 5 #36, Group 2 #40, Group 2 #50, Group 2 #54, Group 4 #57, Group 4 #58, Group 4 #60, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#69, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#8, Group 3 #8, Group 4 #34, Group 2 #37, Group 2 #39, Group 1 #41, Group 2 #46, Group 3 #46, Group 4 #55, Group 3 #61, Group 3 #61, Group 4 #87, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#8, Group 1 #8, Group 2 #33, Group 5 #36, Group 5 #40, Group 5 #46, Group 1 #46, Group 2 #50, Group 5 #55, Group 1 #61, Group 1 #61, Group 2 #86, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#8, Group 5 #34, Group 4 #37, Group 4 #41, Group 4 #42, Group 5 #46, Group 5 #55, Group 5 #61, Group 5 #62, Group 1 #72, Group 5 #87, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#23, Group 1 #73, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#10, Group 1 #10, Group 2 #35, Group 5 #38, Group 5 #42, Group 5 #63, Group 1 #63, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#69, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#15, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#6, Group 5 #20, Group 4 #30, Group 3 #39, Group 2 #43, Group 3 #47, Group 3 #53, Group 5 #56, Group 5 #59, Group 5 #83, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#6, Group 5 #7, Group 1 #32, Group 4 #35, Group 4 #45, Group 5 #53, Group 5 #56, Group 5 #57, Group 1 #58, Group 1 #59, Group 5 #60, Group 1 #85, Group 4 #88, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#9, Group 2 #28, Group 2 #31, Group 2 #39, Group 5 #62, Group 2 #81, Group 2 #84, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#4, Group 3 #8, Group 1 #8, Group 2 #8, Group 3 #8, Group 4 #8, Group 5 #22, Group 3 #28, Group 2 #48, Group 2 #73, Group 2 #75, Group 3 #81, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#2, Group 4 #5, Group 4 #9, Group 3 #13, Group 4 #13, Group 5 #16, Group 3 #23, Group 4 #29, Group 3 #52, Group 3 #64, Group 4 #76, Group 4 #79, Group 3 #82, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#69, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#16, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#8, Group 1 #33, Group 4 #36, Group 4 #40, Group 4 #46, Group 1 #50, Group 4 #61, Group 1 #86, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#5, Group 5 #13, Group 5 #14, Group 2 #20, Group 2 #31, Group 4 #34, Group 4 #51, Group 4 #56, Group 1 #59, Group 1 #84, Group 4 #87, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#9, Group 5 #17, Group 2 #18, Group 1 #70, Group 2 #72, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#16, Group 5 #21, Group 4 #37, Group 4 #45, Group 4 #64, Group 5 #67, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#4, Group 1 #4, Group 2 #29, Group 5 #32, Group 5 #52, Group 5 #82, Group 5 #85, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#49, Group 4 #51, Group 2 #51, Group 3 #51, Group 4 #55, Group 1 #55, Group 2 #55, Group 3 #55, Group 4 #55, Group 5 #83, Group 3 #83, Group 4 #83, Group 5 #85, Group 2 #86, Group 2 #87, Group 1"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#47, Group 1 #47, Group 2 #49, Group 1 #49, Group 2 #49, Group 3 #51, Group 1 #53, Group 1 #53, Group 2 #53, Group 3 #53, Group 4 #53, Group 5 #83, Group 1 #83, Group 2 #85, Group 1 #86, Group 1"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#26, Group 4 #44, Group 4 #49, Group 4 #67, Group 2 #79, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#12, Group 4 #15, Group 4 #17, Group 4 #22, Group 4 #25, Group 3 #48, Group 3 #65, Group 4 #67, Group 4 #68, Group 4 #70, Group 4 #71, Group 4 #75, Group 4 #78, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#17, Group 5 #70, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#26, Group 2 #44, Group 2 #45, Group 2 #49, Group 2 #79, Group 2"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#23, Group 4 #23, Group 5 #24, Group 5 #27, Group 5 #28, Group 5 #29, Group 4 #29, Group 5 #30, Group 4 #30, Group 5 #32, Group 5 #43, Group 5 #47, Group 5 #52, Group 4 #52, Group 5 #71, Group 5 #74, Group 4 #76, Group 4 #76, Group 5 #77, Group 5 #80, Group 5 #81, Group 5 #82, Group 4 #82, Group 5 #83, Group 4 #83, Group 5 #85, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#17, Group 4 #67, Group 5 #70, Group 4"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#18, Group 2 #71, Group 4 #72, Group 3 #74, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#22, Group 5 #73, Group 1 #75, Group 5"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": "#8, Group 2 #8, Group 3 #34, Group 1 #41, Group 1 #42, Group 3 #45, Group 5 #46, Group 2 #46, Group 3 #55, Group 2 #61, Group 2 #61, Group 3"
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  },
+  {
+    "Icon": "",
+    "Name": "",
+    "Description": "",
+    "Dropped": "",
+    "Stolen": "",
+    "Search_Points": ""
+  }
+]
