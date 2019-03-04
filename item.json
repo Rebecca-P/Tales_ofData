@@ -1,0 +1,237 @@
+[
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_APPLEGUMI_U_ITEM_APPLEGUMI.png",
+    "Name EN": "Apple Gel",
+    "Description": "A gummi type medicine. Restores 30% of Max HP.The apple flavor has nothing to do with the effect."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_LEMONGUMI_U_ITEM_LEMONGUMI.png",
+    "Name EN": "Lemon Gel",
+    "Description": "A gummi type medicine. Restores 60% of Max HP.The sourness helps to shake off drowsiness."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_ORANGEGUMI_U_ITEM_ORANGEGUMI.png",
+    "Name EN": "Orange Gel",
+    "Description": "A gummi type medicine. Restores 30% of Max TP.It has a nice citrus scent with an orange flavor."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_PINEGUMI_U_ITEM_PINEGUMI.png",
+    "Name EN": "Pineapple Gel",
+    "Description": "A gummi type medicine. Restores 60% of Max TP.Don’t let the fiber get stuck in your teeth."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_MIXGUMI_U_ITEM_MIXGUMI.png",
+    "Name EN": "Melange Gel",
+    "Description": "A gummi type medicine. Restores 30% ofMax HP and TP. The ingredient is a secret."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_MIRACLEGUMI_U_ITEM_MIRACLEGUMI.png",
+    "Name EN": "Miracle Gel",
+    "Description": "A gummi type medicine. Restores 60% ofMax HP and TP. Enjoy the miraculous flavor."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_TREET_U_ITEM_TREET.png",
+    "Name EN": "Treat",
+    "Description": "Restores 30% of Max HP for all party members.Nice to spread around when using."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_SPECIFIC_U_ITEM_SPECIFIC.png",
+    "Name EN": "Specific",
+    "Description": "Restores 30% of Max TP for all party members.Nice to spread around when using."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_ELIXIR_U_ITEM_ELIXIR.png",
+    "Name EN": "Special Gel",
+    "Description": "A gummi type medicine. Recovers all HP andTP. Very useful, but rare and limited in numbers."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_KUJIGUMI_U_ITEM_KUJIGUMI.png",
+    "Name EN": "Lottery Gel",
+    "Description": "Maybe it’s something good, maybe it’s not.You won't know until you try it."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_POISONBOTTLE_U_ITEM_POISONBOTTLE.png",
+    "Name EN": "Poison Bottle",
+    "Description": "Medicine that cures \u0006(ST1)Poison.The herbal scent is refreshing."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_PARALYZEBOTTLE_U_ITEM_PARALYZEBOTTLE.png",
+    "Name EN": "Paralysis Bottle",
+    "Description": "Medicine that cures \u0006(ST2)Paralysis.Very powerful, so avoid heavy use."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_STONEBOTTLE_U_ITEM_STONEBOTTLE.png",
+    "Name EN": "Stone Bottle",
+    "Description": "Medicine that cures \u0006(ST3)Petrification.You don’t want to spill this in your room."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_SEALBOTTLE_U_ITEM_SEALBOTTLE.png",
+    "Name EN": "Seal Bottle",
+    "Description": "Medicine that cures \u0006(ST5)Sealed Artesand \u0006(ST6)Sealed Skills."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_WEAKBOTTLE_U_ITEM_WEAKBOTTLE.png",
+    "Name EN": "Weak Bottle",
+    "Description": "Medicine that cures \u0006(ST4)Weak.Makes you active!"
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_VIRUSBOTTLE_U_ITEM_VIRUSBOTTLE.png",
+    "Name EN": "Mind Bottle",
+    "Description": "Medicine that cures \u0006(ST7)Contamination."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_CUREBOTTLE_U_ITEM_CUREBOTTLE.png",
+    "Name EN": "Cure Bottle",
+    "Description": "A liquid that cures all Physical Ailmentsafter battle."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_DENYBOTTLE_U_ITEM_DENYBOTTLE.png",
+    "Name EN": "Dinei Bottle",
+    "Description": "A liquid that cures all Magical Ailmentsduring battle."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_PANACEABOTTLE_U_ITEM_PANACEABOTTLE.png",
+    "Name EN": "Panacea Bottle",
+    "Description": "Cures both Physical and Magical Ailments.Need to keep some handy for an extra precaution."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_LIFEBOTTLE_U_ITEM_LIFEBOTTLE.png",
+    "Name EN": "Life Bottle",
+    "Description": "Spirited water that revives a KO'd allywith 30% of Max HP and 15% of Max TP."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_HOLYBOTLLE_U_ITEM_HOLYBOTLLE.png",
+    "Name EN": "Holy Bottle",
+    "Description": "A bottle sealed with light. Keeps enemiesaway for a certain amount of time."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_HOLYBOTLLE2_U_ITEM_HOLYBOTLLE2.png",
+    "Name EN": "Holy Bottle 2",
+    "Description": "A bottle sealed with light. Keeps enemiesaway for a certain amount of time."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_DARKBOTTLE_U_ITEM_DARKBOTTLE.png",
+    "Name EN": "Dark Bottle",
+    "Description": "A bottle sealed with darkness. Attractsenemy attention for a certain amount of time."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_COCKTAIL_BOTTLE_U_ITEM_COCKTAIL_BOTTLE.png",
+    "Name EN": "Syrup Bottle",
+    "Description": "Prevents Physical Ailments for 1 minuteduring battle. Can only be used during battles."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_LIQUEUR_BOTTLE_U_ITEM_LIQUEUR_BOTTLE.png",
+    "Name EN": "Nectar Bottle",
+    "Description": "Prevents Magical Ailments for 1 minuteduring battle. Can only be used during battles."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_LIMIT_BOTTLE_U_ITEM_LIMIT_BOTTLE.png",
+    "Name EN": "Limit Bottle",
+    "Description": "Fills the Over Limit gauge fully once.Can only be used during battles."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_SAGE_U_ITEM_SAGE.png",
+    "Name EN": "Sage",
+    "Description": "A medicinal herb. Increases Max HP by 10."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_REDSAGE_U_ITEM_REDSAGE.png",
+    "Name EN": "Red Sage",
+    "Description": "A medicinal herb. Increases Max HP by 30."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_SAVORY_U_ITEM_SAVORY.png",
+    "Name EN": "Savory",
+    "Description": "A medicinal herb. Increases Max TP by 10."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_REDSAVORY_U_ITEM_REDSAVORY.png",
+    "Name EN": "Red Savory",
+    "Description": "A medicinal herb. Increases Max TP by 30."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_LAVENDER_U_ITEM_LAVENDER.png",
+    "Name EN": "Lavender",
+    "Description": "A medicinal herb. Increases P. ATK by 1."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_REDLAVENDER_U_ITEM_REDLAVENDER.png",
+    "Name EN": "Red Lavender",
+    "Description": "A medicinal herb. Increases P. ATK by 3."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_VERVAIN_U_ITEM_VERVAIN.png",
+    "Name EN": "Verbena",
+    "Description": "A medicinal herb. Increases P. DEF by 1."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_REDVERVAIN_U_ITEM_REDVERVAIN.png",
+    "Name EN": "Red Verbena",
+    "Description": "A medicinal herb. Increases P. DEF by 3."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_CHAMOMILE_U_ITEM_CHAMOMILE.png",
+    "Name EN": "Chamomile",
+    "Description": "A medicinal herb. Increases M. ATK by 1."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_REDCHAMOMILE_U_ITEM_REDCHAMOMILE.png",
+    "Name EN": "Red Chamomile",
+    "Description": "A medicinal herb. Increases M. ATK by 3."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_BASIL_U_ITEM_BASIL.png",
+    "Name EN": "Basil",
+    "Description": "A medicinal herb. Increases M. DEF by 1."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_REDBASIL_U_ITEM_REDBASIL.png",
+    "Name EN": "Red Basil",
+    "Description": "A medicinal herb. Increases M. DEF by 3."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_SAFFRON_U_ITEM_SAFFRON.png",
+    "Name EN": "Saffron",
+    "Description": "A medicinal herb. Increases AGL by 1."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_REDSAFFRON_U_ITEM_REDSAFFRON.png",
+    "Name EN": "Red Saffron",
+    "Description": "A medicinal herb. Increases AGL by 3."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_ALLDIVIDE_U_ITEM_ALLDIVIDE.png",
+    "Name EN": "All-Divide",
+    "Description": "Reduces all damage inflicted on alliesand enemies during battle by 50%."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_HOURGLASS_U_ITEM_HOURGLASS.png",
+    "Name EN": "Hourglass",
+    "Description": "Temporarily freezes the enemy during battle."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_SPECTACLES_U_ITEM_SPECTACLES.png",
+    "Name EN": "Magic Lens",
+    "Description": "A mysterious lens that reveals enemy details.Never look into the sun with it!"
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_CAMP00_U_ITEM_CAMP00.png",
+    "Name EN": "Mat",
+    "Description": "A simple mat used when camping outdoors.Restores 25% of Max HP and TP."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_CAMP01_U_ITEM_CAMP01.png",
+    "Name EN": "Simple Tent",
+    "Description": "A simple tent for camping outdoors.Restores 50% of Max HP and TP."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_CAMP02_U_ITEM_CAMP02.png",
+    "Name EN": "Tent",
+    "Description": "An all-purpose heavy duty tent.Restores 75% of Max HP and TP."
+  },
+  {
+    "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_CAMP03_U_ITEM_CAMP03.png",
+    "Name EN": "Barrier",
+    "Description": "A cozy barrier that can block out wind and rain.Fully restores HP and TP in luxury and peace."
+  }
+]
