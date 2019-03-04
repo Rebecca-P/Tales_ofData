@@ -1,0 +1,3532 @@
+[
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Azure Edge",
+    "Description": "Azure EdgeBase Arte: Unleash the force of the wind.Able to attack far away enemies.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-01.png",
+    "TP_Level": "TP usage: 5Level 1",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Cerberus Strike",
+    "Description": "Cerberus StrikeBase Arte: Quickly punch the enemy three times.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 6Level 7",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Fang Strike",
+    "Description": "Fang StrikeBase Arte: Slashes the enemy down andfinishes off with an uppercut.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 7Level 9",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Wolf Strike",
+    "Description": "Wolf StrikeBase Arte: A sharp thrust attack followedby an uppercut.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 9Level 11",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Destruction Field",
+    "Description": "Destruction FieldBase Arte: Send a shock wave crashing to the ground.Speed changes depending on the distance between the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-02.png",
+    "TP_Level": "TP usage: 12Level 14",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Shining Fang",
+    "Description": "Shining FangBase Arte: Slash with a spinning sword.Looks like one is twirling the sword.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 15Level 26",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Tiger Blade",
+    "Description": "Tiger BladeBase Arte: Slice the enemy up in the air,then strike them back to the ground.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 12Learn via Event",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Draconian Slash",
+    "Description": "Draconian SlashBase Arte: Punch the enemy, thenslash them up into the air.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 12Level 31",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Ghost Wolf",
+    "Description": "Ghost WolfBase Arte: Lunge and attack, then quickly getbehind the enemy to finish off with another attack.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 14Level 34",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Azure Wolf Strike",
+    "Description": "Azure Wolf StrikeArcane Arte: A combination of Azure Edge andWolf Strike.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "TP_Level": "TP usage: 18Level 15Azure Edge, 50 usesWolf Strike, 50 uses",
+    "Alter": "Azure Edge",
+    "Capacite": "Wolf Strike"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Crushing Eagle",
+    "Description": "Crushing EagleArcane Arte: Strike the ground and hit theenemy with the force from your weapon.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-04.png",
+    "TP_Level": "TP usage: 15Level 18",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Dragon Swarm",
+    "Description": "Dragon SwarmArcane Arte: Hit the enemy with spinning slashes.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 16Level 22",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Concealed Wave",
+    "Description": "Concealed WaveArcane Arte: Strike the enemy with your weapon,sending them flying a great distance.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 16Level 24",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Severing Fang",
+    "Description": "Severing FangArcane Arte: Kick the enemy up in the air,then strike them as you spin.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 18Level 32",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Shining Eagle",
+    "Description": "Shining EagleArcane Arte: Swing your weapon while grazingthe ground to bring forth a shockwave.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 16Learn via Event",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Shining Dragon Swarm",
+    "Description": "Shining Dragon SwarmArcane Arte: A combination of Shining Fang andDragon Swarm.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "TP_Level": "TP usage: 25Level 36Shining Fang, 50 usesDragon Swarm, 50 uses",
+    "Alter": "Shining Fang",
+    "Capacite": "Dragon Swarm"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Raging Blast",
+    "Description": "Raging BlastArcane Arte: Unleash a burst of power from within thatdowns the enemy. First level only explodes upon contact.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 20Level 38",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Brutal Fang",
+    "Description": "Brutal FangArcane Arte: Punch at the enemy repeatedlywith your fist.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 23Level 41",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Wailing Havoc",
+    "Description": "Wailing HavocArcane Arte: Send an enemy flying with a roundhousekick in midair, then finish off with a quick thrust.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 22Level 44",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Lone Wolf Charge",
+    "Description": "Lone Wolf ChargeArcane Arte: Unleash a burst of power inthe form of a wolf.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 20Level 48",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Final Gale",
+    "Description": "Final GaleArcane Arte: Slash your blade in a circular motionto send a gale shockwave at the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-01.png",
+    "TP_Level": "TP usage: 30Learn via Event",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Wailing Blast",
+    "Description": "Wailing BlastArcane Arte: A combination of Wailing Havocand Destruction Field.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "TP_Level": "TP usage: 28Level 52Destruction Field, 50 usesWailing Havoc, 50 uses",
+    "Alter": "Destruction Field",
+    "Capacite": "Wailing Havoc"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Rending Wolf Charge",
+    "Description": "Rending Wolf ChargeArcane Arte: A combination of Brutal Fangand Lone Wolf Charge.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "TP_Level": "TP usage: 30Level 56Brutal Fang, 50 usesLone Wolf Charge, 50 uses",
+    "Alter": "Brutal Fang",
+    "Capacite": "Lone Wolf Charge"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Azure Storm",
+    "Description": "Azure StormAltered Arte: Unleash two consecutive gales ofshockwaves. Effective against far away enemies.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 7Learn with 100 usesAlters from Azure EdgeChain",
+    "Alter": "Azure Edge",
+    "Capacite": "Chain"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Azure Blast",
+    "Description": "Azure BlastAltered: Unleash an explosive shockwavethat will knock down an enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 7Learn with 100 usesAlters from Azure EdgeCrucible",
+    "Alter": "Azure Edge",
+    "Capacite": "Crucible"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Cerberus Blast",
+    "Description": "Cerberus BlastAltered Arte: Hit with three quick punches andfinish off with a quick stab.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "TP usage: 11Learn with 100 usesAlters from Cerberus StrikeAlembic",
+    "Alter": "Cerberus Strike",
+    "Capacite": "Alembic"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Shining Fang Drop",
+    "Description": "Shining Fang DropAltered Arte: Send the enemy flying with a twirlingblade then send them crashing to the ground.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 14Learn with 100 usesAlters from Shining FangAthenor",
+    "Alter": "Shining Fang",
+    "Capacite": "Athenor"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Guardian Field",
+    "Description": "Guardian FieldAltered Arte: Thrust weapon into the ground to attacknearby enemies while healing allies within area.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-03.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "TP usage: 26Learn with 100 usesAlters from Crushing EagleBastion",
+    "Alter": "Crushing Eagle",
+    "Capacite": "Bastion"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Shredding Palm",
+    "Description": "Shredding PalmAltered Arte: Unleash multiple bursts of energy from your palms.Only explodes if the first strike hits.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "TP usage: 26Learn with 100 usesAlters from Raging BlastDispersion",
+    "Alter": "Raging Blast",
+    "Capacite": "Dispersion"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Pyre Havoc",
+    "Description": "Pyre HavocAltered Arte: Send enemy in the air and kickwith a fire kick. Send aerial enemies flying.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 24Learn with 100 usesAlters from Wailing HavocHell Fire",
+    "Alter": "Wailing Havoc",
+    "Capacite": "Hell Fire"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Lone Wolf Storm",
+    "Description": "Lone Wolf StormAltered Arte: Unleash the power of the wolf tosend the enemy flying.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "TP usage: 25Learn with 100 usesAlters from Lone Wolf ChargeGale",
+    "Alter": "Lone Wolf Charge",
+    "Capacite": "Gale"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Frigid Blast",
+    "Description": "Frigid BlastAltered Arte: Slash your sword in a circular motionthen send forth a shot of ice from your fist.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/text-icons/icon-element-05.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "TP usage: 35Learn with 100 usesAlters from Final GaleGreat Deluge",
+    "Alter": "Final Gale",
+    "Capacite": "Great Deluge"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Demon Attack",
+    "Description": "Demon AttackAltered Arte: A title skill involving a dark thrust technique used bya well-travelled swordsman who finally returned home.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-06.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 27Learn with 50 usesAlters from Wolf StrikeLegacy Costume Skill (Yuri)",
+    "Alter": "Wolf Strike",
+    "Capacite": "Legacy Costume Skill (Yuri)"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Divine Wolf",
+    "Description": "Divine WolfBurst Arte: Slash in a quick, circular motion.No one can withstand the clashing sword.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Divine Wolf - Blaze",
+    "Description": "Divine Wolf - Blaze",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-0.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "Alters from Divine WolfHell FireChain",
+    "Alter": "Divine Wolf",
+    "Capacite": "Hell Fire Chain"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Divine Wolf - Crush",
+    "Description": "Divine Wolf - Crush",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-04.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-1.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "Alters from Divine WolfAthenorCrucible",
+    "Alter": "Divine Wolf",
+    "Capacite": "Athenor Crucible"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Divine Wolf - Storm",
+    "Description": "Divine Wolf - Storm",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-2.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "Alters from Divine WolfGaleAlembic",
+    "Alter": "Divine Wolf",
+    "Capacite": "Gale Alembic"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Divine Wolf - Flood",
+    "Description": "Divine Wolf - Flood",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-05.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-3.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "Alters from Divine WolfGreat DelugeDispersion",
+    "Alter": "Divine Wolf",
+    "Capacite": "Great Deluge Dispersion"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Savage Wolf Fury",
+    "Description": "Savage Wolf Fury",
+    "Detail": "",
+    "TP_Level": "",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Heavenly Bladewing",
+    "Description": "Heavenly Bladewing",
+    "Detail": "",
+    "TP_Level": "",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Twin Wave",
+    "Description": "Twin Wave",
+    "Detail": "http://hyouta.com/vesperia/text-icons/icon-element-03.png http://hyouta.com/vesperia/text-icons/icon-element-06.png",
+    "TP_Level": "",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Pow Hammer",
+    "Description": "Pow HammerBase Arte: Throw a pow hammer that knocksthe enemy silly.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-03.png",
+    "TP_Level": "TP usage: 4Level 9",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Star Stroke",
+    "Description": "Star StrokeBase Arte: Send an energy wave along the ground.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 5Level 11",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Pierce Cluster",
+    "Description": "Pierce ClusterBase Arte: Stab and slice an enemy, thenbounce them off your shield.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 7Level 15",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Cavalry",
+    "Description": "CavalryBase Arte: Prevent from staggering temporarily.",
+    "Detail": "",
+    "TP_Level": "TP usage: 18Level 26",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Dividing Edge",
+    "Description": "Dividing EdgeBase Arte: Regain posture after maintaining somedistance from the enemy and charge at full speed.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 12Level 35",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Marche Waltz",
+    "Description": "Marche WaltzBase Arte: Continuously slash at the enemywhile dancing the waltz.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 16Level 40",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Delight Roll",
+    "Description": "Delight RollArcane Arte: Spin and use your weapon to sendenemies into the air, while releasing a ray of light.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 22Level 22",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Tri Slash",
+    "Description": "Tri SlashArcane Arte: Unleash three high-speed strikes at the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 18Level 31",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Ray Sting",
+    "Description": "Ray StingArcane Arte: Knock the enemy's shield intothe air, then attack with a quick thrust.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-03.png",
+    "TP_Level": "TP usage: 10Level 51",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Blazing Pillar",
+    "Description": "Blazing PillarAltered Arte: Scrape your weapon along the ground,creating a pillar of flame.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 17Learn with 100 usesAlters from Star StrokeHell Fire",
+    "Alter": "Star Stroke",
+    "Capacite": "Hell Fire"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Amenes Sorbe",
+    "Description": "Amenes SorbeAltered Arte: Absorb or reduce the damage of allelemental attacks for a set time.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 21Learn with 100 usesAlters from CavalryAthenor",
+    "Alter": "Cavalry",
+    "Capacite": "Athenor"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Air Divide",
+    "Description": "Air DivideAltered Arte: Lunge at the enemy and zig-zagacross the sky for an upper cut slash.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "TP usage: 15Learn with 100 usesAlters from Dividing EdgeAlembic",
+    "Alter": "Dividing Edge",
+    "Capacite": "Alembic"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Sylphy Roll",
+    "Description": "Sylphy RollAltered Arte: Spin while raising your weapon,creating a host of tornadoes.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "TP usage: 19Learn with 100 usesAlters from Delight RollGale",
+    "Alter": "Delight Roll",
+    "Capacite": "Gale"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Phantom Blade",
+    "Description": "Phantom BladeAltered Arte: A title skill used by a vengeful knightwhere you perform a spinning slash combo.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 14Learn with 50 usesAlters from Marche WaltzLegacy Costume Skill (Estelle)",
+    "Alter": "Marche Waltz",
+    "Capacite": "Legacy Costume Skill (Estelle)"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-04.png",
+    "Name": "First Aid",
+    "Description": "First AidNovice Spell: Restore a small amount of HPto one ally.",
+    "Detail": "",
+    "TP_Level": "TP usage: 6Level 1Usable outside of battle",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-04.png",
+    "Name": "Recover",
+    "Description": "RecoverNovice Spell: Cure one ally of all Physical Ailments.",
+    "Detail": "",
+    "TP_Level": "TP usage: 14Level 14Usable outside of battle",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-04.png",
+    "Name": "Sharpness",
+    "Description": "SharpnessNovice Spell: Temporarily increase  P. ATKof one ally.",
+    "Detail": "",
+    "TP_Level": "TP usage: 12Level 7",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-04.png",
+    "Name": "Barrier",
+    "Description": "BarrierNovice Spell: Temporarily increase  P. DEFof one ally.",
+    "Detail": "",
+    "TP_Level": "TP usage: 15Level 12",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-04.png",
+    "Name": "Astion",
+    "Description": "AstionNovice Spell: Temporarily increase M. ATKof one ally.",
+    "Detail": "",
+    "TP_Level": "TP usage: 16Learn via Event",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-04.png",
+    "Name": "Resist",
+    "Description": "ResistNovice Spell: Temporarily increase M. DEFof one ally.",
+    "Detail": "",
+    "TP_Level": "TP usage: 20Level 17",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-04.png",
+    "Name": "Photon",
+    "Description": "PhotonNovice Spell: Attack enemy with an explosion of light.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-03.png",
+    "TP_Level": "TP usage: 26Level 19",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-05.png",
+    "Name": "Healing Circle",
+    "Description": "Healing CircleIntermediate Spell: Restore a medium amountof HP to allies within range during battle.",
+    "Detail": "",
+    "TP_Level": "TP usage: 35Level 38Usable outside of battle",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-05.png",
+    "Name": "Resurrection",
+    "Description": "ResurrectionIntermediate Spell: Resurrect one KO'ed ally.",
+    "Detail": "",
+    "TP_Level": "TP usage: 40Level 29Usable outside of battle",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-05.png",
+    "Name": "Dispel",
+    "Description": "DispelIntermediate Spell: Cure all allies of any Physical or Magical Ailments.",
+    "Detail": "",
+    "TP_Level": "TP usage: 38Level 33Usable outside of battle",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-05.png",
+    "Name": "Angel Ring",
+    "Description": "Angel RingIntermediate Spell: Bring forth a ring of lightto collect all enemies in one area.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-03.png",
+    "TP_Level": "TP usage: 32Level 36",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-05.png",
+    "Name": "Nurse",
+    "Description": "NurseIntermediate Spell: Summon an angel to restorea medium amount of HP to all allies.",
+    "Detail": "",
+    "TP_Level": "TP usage: 42Level 24Usable outside of battle",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-06.png",
+    "Name": "Holy Lance",
+    "Description": "Holy LanceAdvanced Spell: Run an enemy through witha divine spear.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-03.png",
+    "TP_Level": "TP usage: 48Level 57",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-06.png",
+    "Name": "Revitalize",
+    "Description": "RevitalizeAdvanced Spell: Restore a large amount of HPto allies within range during batttle.",
+    "Detail": "",
+    "TP_Level": "TP usage: 80Level 54Usable outside of battle",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-06.png",
+    "Name": "Force Field",
+    "Description": "Force FieldAdvanced Spell: Set up a barrier to protectallies within range from enemy attacks.",
+    "Detail": "",
+    "TP_Level": "TP usage: 56Learn via Event",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Variable Hex",
+    "Description": "Variable HexAltered Arte: Temporarily raise P. DEF of allallies within range.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-04.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "TP usage: 25Learn with 50 usesAlters from BarrierDispersion",
+    "Alter": "Barrier",
+    "Capacite": "Dispersion"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Resist Field",
+    "Description": "Resist FieldAltered Arte: Temporarily raise M. DEF of allallies within range.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-04.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "TP usage: 28Learn with 50 usesAlters from ResistDispersion",
+    "Alter": "Resist",
+    "Capacite": "Dispersion"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Grand Chariot",
+    "Description": "Grand ChariotAltered Arte: Send seven exploding stars towardthe enemy for seven consecutive hits.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-03.png http://hyouta.com/vesperia/menu-icons/artes-04.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 32Learn with 50 usesAlters from PhotonChain",
+    "Alter": "Photon",
+    "Capacite": "Chain"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Revive",
+    "Description": "ReviveAltered Arte: Automatically revive an ally oncewhen KO'd in battle.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-05.png http://hyouta.com/vesperia/skill-icons/category-0.png http://hyouta.com/vesperia/skill-icons/category-1.png http://hyouta.com/vesperia/skill-icons/category-2.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "TP usage: 64Learn with 50 usesAlters from ResurrectionHell FireAthenorGaleGreat Deluge",
+    "Alter": "Resurrection",
+    "Capacite": "Hell Fire Athenor Gale Great Deluge"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Regenerate",
+    "Description": "RegenerateAltered Arte: Revive all KO'd allies within range.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-05.png http://hyouta.com/vesperia/skill-icons/category-3.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "TP usage: 70Learn with 50 usesAlters from ResurrectionDispersionAlembicUsable outside of battle",
+    "Alter": "Resurrection",
+    "Capacite": "Dispersion Alembic"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Nightingale",
+    "Description": "NightingaleAltered Arte: Summon a tiny angel to restorea large amount of HP to all allies.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-05.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 55Learn with 50 usesAlters from NurseCrucibleUsable outside of battle",
+    "Alter": "Nurse",
+    "Capacite": "Crucible"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Holy Rain",
+    "Description": "Holy RainAltered Arte: A divine rain falls upon the earthand attacks all creatures related to darkness.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-03.png http://hyouta.com/vesperia/menu-icons/artes-06.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "TP usage: 65Learn with 50 usesAlters from Holy LanceGreat Deluge",
+    "Alter": "Holy Lance",
+    "Capacite": "Great Deluge"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Extreme Stars",
+    "Description": "Extreme StarsBurst Arte: Stab quickly and beautifully like a shooting star.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "Level 23",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Star Sign - Flame",
+    "Description": "Star Sign - Flame",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-0.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "Alters from Extreme StarsHell FireChain",
+    "Alter": "Extreme Stars",
+    "Capacite": "Hell Fire Chain"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Star Sign - Geo",
+    "Description": "Star Sign - Geo",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-04.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-1.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "Alters from Extreme StarsAthenorCrucible",
+    "Alter": "Extreme Stars",
+    "Capacite": "Athenor Crucible"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Star Sign - Gale",
+    "Description": "Star Sign - Gale",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-2.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "Alters from Extreme StarsGaleAlembic",
+    "Alter": "Extreme Stars",
+    "Capacite": "Gale Alembic"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Star Sign - Aqua",
+    "Description": "Star Sign - Aqua",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-05.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-3.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "Alters from Extreme StarsGreat DelugeDispersion",
+    "Alter": "Extreme Stars",
+    "Capacite": "Great Deluge Dispersion"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Sacred Penance",
+    "Description": "Sacred Penance",
+    "Detail": "http://hyouta.com/vesperia/text-icons/icon-element-03.png",
+    "TP_Level": "",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/EST.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Ultimate Elementia",
+    "Description": "Ultimate Elementia",
+    "Detail": "",
+    "TP_Level": "",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Dragon Upper",
+    "Description": "Dragon UpperBase Arte: Swing a heavy weapon to sendenemies up in to the air.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 6Level 1",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Destroying Rock",
+    "Description": "Destroying RockBase Arte: Smash the earth with a large force andsend debris flying to attack enemies.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-04.png",
+    "TP_Level": "TP usage: 10Level 12",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Nice Aid Smash",
+    "Description": "Nice Aid SmashBase Arte: Write a formula on the ground with your weapon.Restores a small amount of HP to allies within range.",
+    "Detail": "",
+    "TP_Level": "TP usage: 12Level 14Usable outside of battle",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Destructo Pain Shot",
+    "Description": "Destructo Pain ShotBase Arte: Temporarily decreases P. DEF ofenemy hit by your bag.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 12Level 18",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Lightning Wave",
+    "Description": "Lightning WaveBase Arte: Send forth a wave of lightningwith your weapon.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/text-icons/icon-element-01.png",
+    "TP_Level": "TP usage: 14Level 20",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Nice Recovery Smash",
+    "Description": "Nice Recovery SmashBase Arte: Write a formula on the ground with your weapon.Cure allies of Physical Ailments and attack enemies within range.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 18Level 21Usable outside of battle",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Bug Breath",
+    "Description": "Bug BreathBase Arte: Send a poisonous gas to attackenemies. Effective against bug type enemies.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 17Learn via Event",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Punishing Smash",
+    "Description": "Punishing SmashBase Arte: Roll to attack enemies within range.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 18Level 24",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Gaia Bug",
+    "Description": "Gaia BugBase Arte: Throw random treasures from your bag.",
+    "Detail": "",
+    "TP_Level": "TP usage: 15Level 40",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Destructo Spider Web",
+    "Description": "Destructo Spider WebBase Arte: Call forth a spider's web to temporarilydecrease a target's speed.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 22Level 28",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Havoc Break",
+    "Description": "Havoc BreakBase Arte: Throw your weapon in the air toknock down flying enemies.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 15Level 32",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Coil Beat",
+    "Description": "Coil BeatBase Arte: Concentrate to temporarilyincrease P. ATK.",
+    "Detail": "",
+    "TP_Level": "TP usage: 8Level 36",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Roaring Revolution",
+    "Description": "Roaring RevolutionBase Arte: Roll forward and charge at the enemy.You're on a roll!",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 18Level 38",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Destructo Booing",
+    "Description": "Destructo BooingBase Arte: Swing your bag to hit the enemy.Temporarily decreases P. ATK of target",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 22Level 44",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Hammer Flow Upper",
+    "Description": "Hammer Flow UpperArcane Arte: Drive your weapon into the groundand attack again as you pull it back up.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 18Level 22",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Punishing Aid Smash",
+    "Description": "Punishing Aid SmashArcane Arte: A combination of Punishing Smashand Nice Aid Smash.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "TP_Level": "TP usage: 24Level 26Nice Aid Smash, 50 usesPunishing Smash, 50 uses",
+    "Alter": "Nice Aid Smash",
+    "Capacite": "Punishing Smash"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Reaper Knock",
+    "Description": "Reaper KnockArcane Arte: Toss a white ball from your bagand hit it at the enemy. Grand slam!",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 28Level 30",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Punishing Beast Flash",
+    "Description": "Punishing Beast FlashArcane Arte: Swing your weapon at the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-02.png",
+    "TP_Level": "TP usage: 22Level 35",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Roaring Dragon Blow",
+    "Description": "Roaring Dragon BlowArcane Arte: A combination of RoaringRevolution and Dragon Upper.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "TP_Level": "TP usage: 28Level 42Roaring Revolution, 50 usesDragon Upper, 50 uses",
+    "Alter": "Roaring Revolution",
+    "Capacite": "Dragon Upper"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Devil Rage Rise",
+    "Description": "Devil Rage RiseArcane Arte: Send the enemy flying witha force enough to blow the Devil away.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 30Level 49",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Rending Drop",
+    "Description": "Rending DropArcane Arte: Dive down and land on yourhead to send a shockwave at the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-04.png",
+    "TP_Level": "TP usage: 32Learn via Event",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Ultimate Divine Destruction",
+    "Description": "Ultimate Divine DestructionArcane Arte: Drive your weapon into the groundand pound enemies to pieces. You'll trip if you miss!",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 34Level 55",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Destruction Street",
+    "Description": "Destruction StreetAltered Arte: Charge forward as you smashthe ground with your weapon.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-04.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "TP usage: 16Learn with 100 usesAlters from Destroying RockAlembic",
+    "Alter": "Destroying Rock",
+    "Capacite": "Alembic"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Nice Healing Smash",
+    "Description": "Nice Healing SmashAltered Arte: Write a formula on the ground.Restores a medium amount of HP to allies within range.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "TP usage: 22Learn with 100 usesAlters from Nice Aid SmashGreat DelugeUsable outside of battle",
+    "Alter": "Nice Aid Smash",
+    "Capacite": "Great Deluge"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Nice Curing Smash",
+    "Description": "Nice Curing SmashAltered Arte: Write a formula on the ground. Restoresa large amount of HP to allies within range.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-12.png http://hyouta.com/vesperia/skill-icons/category-3.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 30Learn with 100 usesAlters from Nice Healing SmashGreat DelugeCrucibleUsable outside of battle",
+    "Alter": "Nice Healing Smash",
+    "Capacite": "Great Deluge Crucible"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Destructo Pain Carnival",
+    "Description": "Destructo Pain CarnivalAltered Arte: Hit an enemy with your bag or itscontents to temporarily decrease their P. DEF.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "TP usage: 18Learn with 100 usesAlters from Destructo Pain ShotDispersion",
+    "Alter": "Destructo Pain Shot",
+    "Capacite": "Dispersion"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Hellfire Breath",
+    "Description": "Hellfire BreathAltered Arte: Attack the enemy by settingfire to a top-secret noxious gas.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 28Learn with 100 usesAlters from Bug BreathHell Fire",
+    "Alter": "Bug Breath",
+    "Capacite": "Hell Fire"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Twin Punishing Smash",
+    "Description": "Twin Punishing SmashAltered Arte: Leverage the weight of your weaponto roll sideways and attack all that falls in your path.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 20Learn with 100 usesAlters from Punishing SmashChain",
+    "Alter": "Punishing Smash",
+    "Capacite": "Chain"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Havoc Thunder",
+    "Description": "Havoc ThunderAltered Arte: Leap into the air and catch a bolt of lightning withyour weapon and slam it into the enemy on the way down.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-0.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "TP usage: 22Learn with 100 usesAlters from Havoc BreakHell FireGale",
+    "Alter": "Havoc Break",
+    "Capacite": "Hell Fire Gale"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Hurricane Revolution",
+    "Description": "Hurricane RevolutionAltered Arte: Jump straight into the air,then roll into the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "TP usage: 24Learn with 100 usesAlters from Roaring RevolutionGale",
+    "Alter": "Roaring Revolution",
+    "Capacite": "Gale"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Destructo Booing Festival",
+    "Description": "Destructo Booing FestivalAltered Arte: Hit an enemy with your bag or itscontents to temporarily decrease their P. ATK.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "TP usage: 26Learn with 100 usesAlters from Destructo BooingDispersion",
+    "Alter": "Destructo Booing",
+    "Capacite": "Dispersion"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Diablo Hyper Buster",
+    "Description": "Diablo Hyper BusterAltered Arte: Use a bronze statue fromyour bag to strike the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 33Learn with 100 usesAlters from Reaper KnockCrucible",
+    "Alter": "Reaper Knock",
+    "Capacite": "Crucible"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Death Quake Spark",
+    "Description": "Death Quake SparkAltered Arte: Unleash an extremely powerful plow with allyour might. Able to take out all enemies if aimed correctly!",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-04.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 38Learn with 100 usesAlters from Ultimate Divine DestructionAthenor",
+    "Alter": "Ultimate Divine Destruction",
+    "Capacite": "Athenor"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Blazing Tempest",
+    "Description": "Blazing TempestAltered Arte: A title skill where you spinyour blades red dual-swordsman style.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 22Learn with 50 usesAlters from Roaring RevolutionLegacy Costume Skill (Karol)",
+    "Alter": "Roaring Revolution",
+    "Capacite": "Legacy Costume Skill (Karol)"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Ultra Punishing Swing",
+    "Description": "Ultra Punishing SwingBurst Arte: You spin rapidly, smashing the enemyover and over again and finally sending them flying.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "Level 24",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Ultra Punishing Heat",
+    "Description": "Ultra Punishing Heat",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-0.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "Alters from Ultra Punishing SwingHell FireChain",
+    "Alter": "Ultra Punishing Swing",
+    "Capacite": "Hell Fire Chain"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Ultra Punishing Crush",
+    "Description": "Ultra Punishing Crush",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-04.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-1.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "Alters from Ultra Punishing SwingAthenorCrucible",
+    "Alter": "Ultra Punishing Swing",
+    "Capacite": "Athenor Crucible"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Ultra Punishing Typhoon",
+    "Description": "Ultra Punishing Typhoon",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-2.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "Alters from Ultra Punishing SwingGaleAlembic",
+    "Alter": "Ultra Punishing Swing",
+    "Capacite": "Gale Alembic"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Ultra Punishing Soul",
+    "Description": "Ultra Punishing Soul",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-05.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-3.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "Alters from Ultra Punishing SwingGreat DelugeDispersion",
+    "Alter": "Ultra Punishing Swing",
+    "Capacite": "Great Deluge Dispersion"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Overlord Reign Impact",
+    "Description": "Overlord Reign Impact",
+    "Detail": "",
+    "TP_Level": "",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/KAR.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Mega Flashbang Ultra X Bomber",
+    "Description": "Mega Flashbang Ultra X Bomber",
+    "Detail": "",
+    "TP_Level": "",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "β×Ψ＝√",
+    "Description": "β×Ψ＝√Base Arte: Your grace sends the enemy flying.Uses the magical incantation \"Rudolf\".",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 10Level 5",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "ζ×Ψ＝Φ",
+    "Description": "ζ×Ψ＝ΦBase Arte: Make enemies lose their footing.Uses the incantation \"Phi\".",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 12Level 16",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "∠＝(x,y,z)",
+    "Description": "∠＝(x,y,z)Base Arte: Summon a beast's claw. Scratch!!Uses the incantation \"Descartes\".",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 16Level 26",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "ζ＝δτ(ωρ)",
+    "Description": "ζ＝δτ(ωρ)Arcane Arte: Clobber the enemy over the head.Uses the incantation \"Laplace\".",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 20Level 22",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "∠＝∞",
+    "Description": "∠＝∞Arcane Arte: Pages from a spell book slash enemies.Uses the incantation \"Wallis\".",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 14Level 30",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "(δ/χ)λ＝ι",
+    "Description": "(δ/χ)λ＝ιArcane Arte: Energy blows an enemy away.Uses the incantation \"Ideal\".",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 20Level 38",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "∫∇＝Σ(ωπ)",
+    "Description": "∫∇＝Σ(ωπ)Altered Arte: Put on your dancing shoesand unleash multiple spinning attacks.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 16Learn with 100 usesAlters from ζ×Ψ＝ΦChain",
+    "Alter": "ζ×Ψ＝Φ",
+    "Capacite": "Chain"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "∠=(r,θ,φ)",
+    "Description": "∠=(r,θ,φ)Altered Arte: Summon a second type of beast from a book page.\"Watch my claws go! Meowwww!",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 19Learn with 100 usesAlters from ∠＝(x,y,z)Crucible",
+    "Alter": "∠＝(x,y,z)",
+    "Capacite": "Crucible"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "A＝lk{λ∈Λ}",
+    "Description": "A＝lk{λ∈Λ}Altered Arte: Grab the enemy with your weapon, then knock them into the air.If you are in the air, you'll strike the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 23Learn with 100 usesAlters from (δ/χ)λ＝ιHell Fire",
+    "Alter": "(δ/χ)λ＝ι",
+    "Capacite": "Hell Fire"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-04.png",
+    "Name": "Fire Ball",
+    "Description": "Fire BallNovice Spell: Send a fireball toward the enemy.Continued use will increase the number of fireballs.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-02.png",
+    "TP_Level": "TP usage: 8Level 1",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-04.png",
+    "Name": "Stone Blast",
+    "Description": "Stone BlastNovice Spell: Call forth small rocks from beneathan enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-04.png",
+    "TP_Level": "TP usage: 10Level 8",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-04.png",
+    "Name": "Champagne",
+    "Description": "ChampagneNovice Spell: Cause a stream of water to bubbleup from beneath an enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-05.png",
+    "TP_Level": "TP usage: 14Level 14",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-04.png",
+    "Name": "Spread Zero",
+    "Description": "Spread ZeroNovice Spell: Collect the darkness surrounding theenemies and send this force back to destroy them.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-06.png",
+    "TP_Level": "TP usage: 12Level 18",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-05.png",
+    "Name": "Splash",
+    "Description": "SplashIntermediate Spell: Cause a stream of water tofall upon an enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-05.png",
+    "TP_Level": "TP usage: 22Level 16",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-05.png",
+    "Name": "Stalagmite",
+    "Description": "StalagmiteIntermediate Spell: Call forth sharp rocks frombeneath an enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-04.png",
+    "TP_Level": "TP usage: 34Level 24",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-05.png",
+    "Name": "Tractor Beam",
+    "Description": "Tractor BeamIntermediate Spell: Bring enemies in the area tothe air and send them crashing down to the earth.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 42Level 28",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-05.png",
+    "Name": "Negative Gate",
+    "Description": "Negative GateIntermediate Spell: Bring forth an evil dimensionthat blocks enemy movement.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-06.png",
+    "TP_Level": "TP usage: 46Learn via Event",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-05.png",
+    "Name": "Spiral Flare",
+    "Description": "Spiral FlareIntermediate Spell: Focus pure fire and thrustit at the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-02.png",
+    "TP_Level": "TP usage: 38Level 32",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-06.png",
+    "Name": "Tidal Wave",
+    "Description": "Tidal WaveAdvanced Spell: Draw forth a massive wave towipe out enemies in a wide range.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-05.png",
+    "TP_Level": "TP usage: 72Level 52",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-06.png",
+    "Name": "Violent Pain",
+    "Description": "Violent PainAdvanced Spell: Summon the force of darkness tobring about a spear that will thrust at the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-06.png",
+    "TP_Level": "TP usage: 50Level 41",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-06.png",
+    "Name": "Blade Roll",
+    "Description": "Blade RollAdvanced Spell: Slice any enemies that getcaught by the sweeping mystic blade.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 54Level 36",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-06.png",
+    "Name": "Ground Dasher",
+    "Description": "Ground DasherAdvanced Spell: Release the hidden power ofthe earth to crush the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-04.png",
+    "TP_Level": "TP usage: 64Level 46",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-06.png",
+    "Name": "Crimson Flare",
+    "Description": "Crimson FlareAdvanced Spell: Bring forth a large column offire to burn all enemies within the area.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-02.png",
+    "TP_Level": "TP usage: 62Level 58",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-06.png",
+    "Name": "Meteor Storm",
+    "Description": "Meteor StormAdvanced Spell: Summon large meteors to rain downfrom the heavens to cause great destruction to the area.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 76Learn via Event",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Eruption",
+    "Description": "EruptionAltered Arte: Cause a volcanic eruption frombeneath to incinerate nearby enemies.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/menu-icons/artes-04.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 18Learn with 50 usesAlters from Fire BallCrucible",
+    "Alter": "Fire Ball",
+    "Capacite": "Crucible"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Ivy Rush",
+    "Description": "Ivy RushAltered Arte: Call forth a thorny ivy to entwine enemies.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-04.png http://hyouta.com/vesperia/menu-icons/artes-04.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "TP usage: 16Learn with 50 usesAlters from Stone BlastGreat Deluge",
+    "Alter": "Stone Blast",
+    "Capacite": "Great Deluge"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Demon's Lance",
+    "Description": "Demon's LanceAltered Arte: Unleash a lance of evil at fullspeed at the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-06.png http://hyouta.com/vesperia/menu-icons/artes-04.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "TP usage: 20Learn with 50 usesAlters from Spread ZeroAlembic",
+    "Alter": "Spread Zero",
+    "Capacite": "Alembic"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Aqua Laser",
+    "Description": "Aqua LaserAltered Arte: Cause a stream of water frombeneath to wash away enemies.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-05.png http://hyouta.com/vesperia/menu-icons/artes-05.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "TP usage: 32Learn with 50 usesAlters from SplashDispersion",
+    "Alter": "Splash",
+    "Capacite": "Dispersion"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Freeze Lancer",
+    "Description": "Freeze LancerAltered Arte: Unleash spears of ice on the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/text-icons/icon-element-05.png http://hyouta.com/vesperia/menu-icons/artes-05.png http://hyouta.com/vesperia/skill-icons/category-2.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 28Learn with 50 usesAlters from SplashGaleChain",
+    "Alter": "Splash",
+    "Capacite": "Gale Chain"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Riot Horn",
+    "Description": "Riot HornAltered Arte: Cause sharp rocks to runbeneath enemies.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-04.png http://hyouta.com/vesperia/menu-icons/artes-05.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 36Learn with 50 usesAlters from StalagmiteAthenor",
+    "Alter": "Stalagmite",
+    "Capacite": "Athenor"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Gold Cat",
+    "Description": "Gold CatAltered Arte: Drop a large golden cat on enemies. Coinsscattered depends on the amount of Gald in possession.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/text-icons/icon-element-04.png http://hyouta.com/vesperia/menu-icons/artes-05.png http://hyouta.com/vesperia/skill-icons/category-0.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 46Learn with 50 usesAlters from Tractor BeamHell FireAthenor",
+    "Alter": "Tractor Beam",
+    "Capacite": "Hell Fire Athenor"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Flame Dragon",
+    "Description": "Flame DragonAltered Arte: Summon a fire dragon to ripthrough enemies.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/menu-icons/artes-05.png http://hyouta.com/vesperia/skill-icons/category-2.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 30Learn with 50 usesAlters from Spiral FlareAlembicCrucible",
+    "Alter": "Spiral Flare",
+    "Capacite": "Alembic Crucible"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Bloody Howling",
+    "Description": "Bloody HowlingAltered Arte: Summon the force of darknessdestroying those that get caught in the force field.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-06.png http://hyouta.com/vesperia/menu-icons/artes-06.png http://hyouta.com/vesperia/skill-icons/category-3.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 58Learn with 50 usesAlters from Violent PainDispersionCrucible",
+    "Alter": "Violent Pain",
+    "Capacite": "Dispersion Crucible"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Thunder Blade",
+    "Description": "Thunder BladeAltered Arte: Calls a blade of thunder down onthe enemy and cause an explosion of lightning.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/menu-icons/artes-06.png http://hyouta.com/vesperia/skill-icons/category-0.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "TP usage: 68Learn with 50 usesAlters from Blade RollHell FireGale",
+    "Alter": "Blade Roll",
+    "Capacite": "Hell Fire Gale"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Burning Strike",
+    "Description": "Burning StrikeAltered Arte: A title skill utilizing magic wielded by anamnesiac who was the life and soul of the party.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/menu-icons/artes-05.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 40Learn with 20 usesAlters from Negative GateLegacy Costume Skill (Rita)",
+    "Alter": "Negative Gate",
+    "Capacite": "Legacy Costume Skill (Rita)"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Mystic Drive",
+    "Description": "Mystic DriveBurst Arte: Summon a powerful force frombeneath the enemy and attack with bursts of light.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "Level 23",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Raging Drive",
+    "Description": "Raging Drive",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-0.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "Alters from Mystic DriveHell FireChain",
+    "Alter": "Mystic Drive",
+    "Capacite": "Hell Fire Chain"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Ruinous Drive",
+    "Description": "Ruinous Drive",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-04.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-1.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "Alters from Mystic DriveAthenorCrucible",
+    "Alter": "Mystic Drive",
+    "Capacite": "Athenor Crucible"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Fleeting Drive",
+    "Description": "Fleeting Drive",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-2.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "Alters from Mystic DriveGaleAlembic",
+    "Alter": "Mystic Drive",
+    "Capacite": "Gale Alembic"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Diffusional Drive",
+    "Description": "Diffusional Drive",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-05.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-3.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "Alters from Mystic DriveGreat DelugeDispersion",
+    "Alter": "Mystic Drive",
+    "Capacite": "Great Deluge Dispersion"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Ancient Catastrophe",
+    "Description": "Ancient Catastrophe",
+    "Detail": "",
+    "TP_Level": "",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RIT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Indignation",
+    "Description": "Indignation",
+    "Detail": "http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/text-icons/icon-element-01.png",
+    "TP_Level": "",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Rain",
+    "Description": "RainBase Arte: Fire an arrow of light at enemies in front.Cause an explosion on enemies with Guard Break.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 8Level 1",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Bouquet",
+    "Description": "BouquetBase Arte: Shoot an arrow through the enemy'sheart. Temporarily inflicts Charm on the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 12Level 15",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Serpent",
+    "Description": "SerpentBase Arte: Fire a magic arrow in the ground to setoff an explosion when enemies move over the area.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-04.png",
+    "TP_Level": "TP usage: 11Level 21",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Glimmer of Heaven",
+    "Description": "Glimmer of HeavenBase Arte: Shoot an arrow to the sky and haveit fall back down on an enemy moments later.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 15Level 25",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Around",
+    "Description": "AroundBase Arte: Double slash with your knife and blade.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 13Level 30",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Love Shot",
+    "Description": "Love ShotBase Arte: Send an arrow to cure an allylow in HP. Can you feel the love?",
+    "Detail": "",
+    "TP_Level": "TP usage: 18Level 31Usable outside of battle",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Dark Chase",
+    "Description": "Dark ChaseBase Arte: Send an arrow to slowly chaseafter an enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 16Level 33",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Violet Snake",
+    "Description": "Violet SnakeBase Arte: Crouch and fire an arrow at an enemy.Attack changes with distance when a certain skill is set.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 12Level 36",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Just Like Dancing",
+    "Description": "Just Like DancingArcane Arte: Twirl and slash with your knife and blade.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 24Level 23",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Cyan Instant",
+    "Description": "Cyan InstantArcane Arte: Shoot arrows around you toattack all enemies in the way.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 18Level 27",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Heaven's Tear",
+    "Description": "Heaven's TearArcane Arte: Send an enemy in the air with yourblade, then follow by an arrow attack.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 18Level 34",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Falling",
+    "Description": "FallingArcane Arte: Jump and fire an arrow at the enemy.Attack changes with distance when a certain skill is set.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 28Level 39",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Azure Heavens",
+    "Description": "Azure HeavensArcane Arte: Shoot an arrow high up into the sky tocause multiple arrows to fall onto enemies in the area.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 23Level 43",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Falling Stars",
+    "Description": "Falling StarsArcane Arte: Fire an arrow that graduallygains speed and power at an enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 21Level 47",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Crime",
+    "Description": "CrimeArcane Arte: Fire a series of arrows at the enemy.Attack changes with distance when a certain skill is set.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 26Level 52",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "The Wind's Howl",
+    "Description": "The Wind's HowlArcane Arte: Fire a swift, powerful arrow at the enemy.Attack changes with distance when a certain skill is set.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-01.png",
+    "TP_Level": "TP usage: 23Level 58",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Rainsong",
+    "Description": "RainsongAltered Arte: Cause arrows shot during GuardBreak to explode with Taunt.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 8Learn with 100 usesAlters from RainCrucible",
+    "Alter": "Rain",
+    "Capacite": "Crucible"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Firefly",
+    "Description": "FireflyAltered Arte: Jump and fire a special arrow thatexplodes when an enemy gets near it.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "TP usage: 16Learn with 100 usesAlters from SerpentAlembic",
+    "Alter": "Serpent",
+    "Capacite": "Alembic"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Rain Down",
+    "Description": "Rain DownAltered Arte: Fire an arrow high in the sky andwait patiently for the arrow to hit the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "TP usage: 18Learn with 100 usesAlters from Glimmer of HeavenGale",
+    "Alter": "Glimmer of Heaven",
+    "Capacite": "Gale"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Around and Around",
+    "Description": "Around and AroundAltered Arte: Double slash with your blade andknife, then continue to swirl and slash.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 15Learn with 100 usesAlters from AroundChain",
+    "Alter": "Around",
+    "Capacite": "Chain"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Crimson Helix",
+    "Description": "Crimson HelixAltered Arte: Shoot swirling fireballs around you.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 18Learn with 100 usesAlters from Cyan InstantHell Fire",
+    "Alter": "Cyan Instant",
+    "Capacite": "Hell Fire"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Rain of Heaven's Tears",
+    "Description": "Rain of Heaven's TearsAltered Arte: Slash an enemy repeatedly in midair.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-2.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 20Learn with 100 usesAlters from Heaven's TearGaleChain",
+    "Alter": "Heaven's Tear",
+    "Capacite": "Gale Chain"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Cloud of Heaven's Tears",
+    "Description": "Cloud of Heaven's TearsAltered Arte: Acrobatically slash an enemy in midair.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-2.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 20Learn with 100 usesAlters from Heaven's TearAlembicCrucible",
+    "Alter": "Heaven's Tear",
+    "Capacite": "Alembic Crucible"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Falling Further",
+    "Description": "Falling FurtherAltered Arte: Jump in the air to fire an arrowpowerful enough to break the ground to pieces.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-1.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 30Learn with 100 usesAlters from FallingCrucibleAthenor",
+    "Alter": "Falling",
+    "Capacite": "Crucible Athenor"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "The Growing World",
+    "Description": "The Growing WorldAltered Arte:  Arrows hitting the enemy will breakoff into smaller arrows, hitting nearby targets.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "TP usage: 18Learn with 100 usesAlters from Falling StarsDispersion",
+    "Alter": "Falling Stars",
+    "Capacite": "Dispersion"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Elemental Master",
+    "Description": "Elemental MasterAltered Arte: A title skill for consecutive projectile weapons.Originally used by a real shrewd hitman.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 30Learn with 50 usesAlters from Dark ChaseLegacy Costume Skill (Raven)",
+    "Alter": "Dark Chase",
+    "Capacite": "Legacy Costume Skill (Raven)"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-04.png",
+    "Name": "Wind Blade",
+    "Description": "Wind BladeNovice Spell: Slash and crush enemies with a wind blade.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-01.png",
+    "TP_Level": "TP usage: 10Level 8",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-05.png",
+    "Name": "Arrivederci",
+    "Description": "ArrivederciIntermediate Spell: Cause a small whirlwind tosend enemies flying.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-01.png",
+    "TP_Level": "TP usage: 22Learn via Event",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-06.png",
+    "Name": "Havoc Gale",
+    "Description": "Havoc GaleAdvanced Spell: Send a violent tornado that blockenemy movement then crushes with inner air pressure.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-01.png",
+    "TP_Level": "TP usage: 40Level 56",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-06.png",
+    "Name": "Vanji Lost",
+    "Description": "Vanji LostAdvanced Spell: Hit enemies with a ray of lightand temporarily inflict Charm.",
+    "Detail": "",
+    "TP_Level": "TP usage: 60Learn via Event",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Air Thrust",
+    "Description": "Air ThrustAltered Arte: Harness the wind to create high-speedspinning blades that slice and dice the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/menu-icons/artes-04.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 28Learn with 50 usesAlters from Wind BladeAthenor",
+    "Alter": "Wind Blade",
+    "Capacite": "Athenor"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Inverno",
+    "Description": "InvernoAltered Arte: Bring forth a sharp glacier frombeneath the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/text-icons/icon-element-05.png http://hyouta.com/vesperia/menu-icons/artes-05.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "TP usage: 34Learn with 50 usesAlters from ArrivederciGreat Deluge",
+    "Alter": "Arrivederci",
+    "Capacite": "Great Deluge"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Tempest",
+    "Description": "TempestAltered Arte: Call forth a huge hurricane andlightning to strike the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/menu-icons/artes-06.png http://hyouta.com/vesperia/skill-icons/category-0.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 52Learn with 50 usesAlters from Havoc GaleHell FireCrucible",
+    "Alter": "Havoc Gale",
+    "Capacite": "Hell Fire Crucible"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Stop Flow",
+    "Description": "Stop FlowAltered Arte: Interference with aer stopstime temporarily.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-06.png http://hyouta.com/vesperia/skill-icons/category-0.png http://hyouta.com/vesperia/skill-icons/category-1.png http://hyouta.com/vesperia/skill-icons/category-2.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "TP usage: 100Learn with 50 usesAlters from Vanji LostHell FireAthenorGaleGreat Deluge",
+    "Alter": "Vanji Lost",
+    "Capacite": "Hell Fire Athenor Gale Great Deluge"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Fury Blast",
+    "Description": "Fury BlastBurst Arte: Charge up while firing arrows consecutively,then a final blow with the charged energy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "TP_Level": "Level 23Just Like Dancing, 1 uses",
+    "Alter": "Just Like Dancing",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Chaotic Fury",
+    "Description": "Chaotic Fury",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-0.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "Alters from Fury BlastHell FireChain",
+    "Alter": "Fury Blast",
+    "Capacite": "Hell Fire Chain"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Garnet Chaos",
+    "Description": "Garnet Chaos",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-04.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-1.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "Alters from Fury BlastAthenorCrucible",
+    "Alter": "Fury Blast",
+    "Capacite": "Athenor Crucible"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Kamikaze Fury",
+    "Description": "Kamikaze Fury",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-2.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "Alters from Fury BlastGaleAlembic",
+    "Alter": "Fury Blast",
+    "Capacite": "Gale Alembic"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Storm of Chaos",
+    "Description": "Storm of Chaos",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-05.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-3.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "Alters from Fury BlastGreat DelugeDispersion",
+    "Alter": "Fury Blast",
+    "Capacite": "Great Deluge Dispersion"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Blast Heart",
+    "Description": "Blast Heart",
+    "Detail": "",
+    "TP_Level": "",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Crisis Rain",
+    "Description": "Crisis Rain",
+    "Detail": "",
+    "TP_Level": "",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Crescent Moon",
+    "Description": "Crescent MoonBase Arte: Charge at the enemy hit themwith a kick.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 6Level 1",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Luna Fang",
+    "Description": "Luna FangBase Arte: Jump into the air and land on the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 8Level 12",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Moonlight Havoc",
+    "Description": "Moonlight HavocBase Arte: Deliver a roundhouse kick in theair, then finish with another kick as you land.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 7Level 14",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "New Moon Blade",
+    "Description": "New Moon BladeBase Arte: Charge forward to attack with your lance.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 11Level 21",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Crescent Strike",
+    "Description": "Crescent StrikeBase Arte: Swing your lance like the full moon,then slash as if slashing the moon in half.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 12Level 26",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Luna Rise",
+    "Description": "Luna RiseBase Arte: Spin in the air while slashing,then finish off with a kick.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 17Level 29",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Moonlight Talon",
+    "Description": "Moonlight TalonBase Arte: Perform an uppercut slash tosend an enemy in the air.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 9Learn via Event",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Dawn Moon",
+    "Description": "Dawn MoonBase Arte: Jump, then quickly dive at the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 10Level 35",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Crescent Moon Blade",
+    "Description": "Crescent Moon BladeBase Arte: Use your weapon to send enemiesin all directions flying.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 12Level 37",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Moonlight Blast",
+    "Description": "Moonlight BlastBase Arte: Spin around and knock the enemydown with the handle of your lance.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 14Level 41",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Luna Storm",
+    "Description": "Luna StormBase Arte: Cause a whirlwind with your lance.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-01.png",
+    "TP_Level": "TP usage: 16Level 47",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Piercing Moon",
+    "Description": "Piercing MoonBase Arte: Perform a quick uppercut as ifaiming for the moon.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 15Level 54",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Luna Gale",
+    "Description": "Luna GaleArcane Arte: Continuously kick the enemyin midair during an upside-down spin.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 22Level 18",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Luna Ascendent",
+    "Description": "Luna AscendentArcane Arte: Rush and attack with an uppercut slash.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "TP_Level": "TP usage: 20Level 23Crescent Moon, 40 usesNew Moon Blade, 30 uses",
+    "Alter": "Crescent Moon",
+    "Capacite": "New Moon Blade"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Luna Rondo",
+    "Description": "Luna RondoArcane Arte: Spin and slash enemies withinrange. Executable only in midair.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 23Level 32",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Rising Moonlight Havoc",
+    "Description": "Rising Moonlight HavocArcane Arte: Toss the enemy in the air,then do a combination of slashes and kicks.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "TP_Level": "TP usage: 22Level 38Moonlight Havoc, 50 usesMoonlight Talon, 50 uses",
+    "Alter": "Moonlight Havoc",
+    "Capacite": "Moonlight Talon"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Moonbeam",
+    "Description": "MoonbeamArcane Arte: Teleport above the enemy,then strike down with your lance.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 24Level 44",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Luna Crush",
+    "Description": "Luna CrushArcane Arte: Jump and strike down yourlance with all your might.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 28Level 51",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Thunder Moon Rising",
+    "Description": "Thunder Moon RisingArcane Arte: A combination of Luna Rise andThunder Moon.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "TP_Level": "TP usage: 23Level 57Luna Rise, 50 usesThunder Moon, 50 uses",
+    "Alter": "Luna Rise",
+    "Capacite": "Thunder Moon"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Luna Havoc",
+    "Description": "Luna HavocArcane Arte: Jump high in the air and senda flying kick to the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 30Level 60",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Sundering Moon",
+    "Description": "Sundering MoonArcane Arte: Bring down your lance with aforce that can bring down the moon.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 29Learn via Event",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Moon Glare",
+    "Description": "Moon GlareArcane Arte: Swing and slash your lance inthe image of the moon.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 36Level 64",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Luna Talon",
+    "Description": "Luna TalonAltered Arte: Jump in the air and land witha force to take down surrounding enemies.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 11Learn with 100 usesAlters from Luna FangAthenor",
+    "Alter": "Luna Fang",
+    "Capacite": "Athenor"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Guiding Moon",
+    "Description": "Guiding MoonAltered Arte: Draw a moon that restores TP.The longer you hold the button, the more TP is restored.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "TP usage: 10Learn with 100 usesAlters from Crescent StrikeGreat Deluge",
+    "Alter": "Crescent Strike",
+    "Capacite": "Great Deluge"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Moonlit Knife",
+    "Description": "Moonlit KnifeAltered Arte: Charge your energy, then unleash a powerful thrust.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-04.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 27Learn with 100 usesAlters from New Moon BladeCrucible",
+    "Alter": "New Moon Blade",
+    "Capacite": "Crucible"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Moonlight Drop",
+    "Description": "Moonlight DropAltered Arte: Spin and slash in midair.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 12Learn with 100 usesAlters from Moonlight TalonChain",
+    "Alter": "Moonlight Talon",
+    "Capacite": "Chain"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Dawn Moon Falcon",
+    "Description": "Dawn Moon FalconAltered Arte: Change your trajectory mid-jump to dropon the enemy knee first, mowing them down.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "TP usage: 16Learn with 100 usesAlters from Dawn MoonAlembic",
+    "Alter": "Dawn Moon",
+    "Capacite": "Alembic"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Raging Luna Storm",
+    "Description": "Raging Luna StormAltered Arte: Cause a whirlwind to slash nearbyenemies, then send it to attack a far away enemy",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "TP usage: 19Learn with 100 usesAlters from Luna StormGale",
+    "Alter": "Luna Storm",
+    "Capacite": "Gale"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Rising Luna Rondo",
+    "Description": "Rising Luna RondoAltered Arte: Spin and slash enemies withinrange, then send them flying with the final blow.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "TP usage: 26Learn with 100 usesAlters from Luna RondoDispersion",
+    "Alter": "Luna Rondo",
+    "Capacite": "Dispersion"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Moonbeam - Bird",
+    "Description": "Moonbeam - BirdAltered Arte: Jump back and launch a flameprojectile at the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 26Learn with 100 usesAlters from MoonbeamHell Fire",
+    "Alter": "Moonbeam",
+    "Capacite": "Hell Fire"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Thunder Moon",
+    "Description": "Thunder MoonAltered Arte: Spin into the air and bring downa bolt of lightning on the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-0.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "TP usage: 21Learn with 100 usesAlters from Luna CrushHell FireGale",
+    "Alter": "Luna Crush",
+    "Capacite": "Hell Fire Gale"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Luna Storm",
+    "Description": "Luna StormAltered Arte: Jump quickly into the air andkick back down at lightning speed.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-0.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "TP usage: 34Learn with 100 usesAlters from Luna HavocHell FireAlembic",
+    "Alter": "Luna Havoc",
+    "Capacite": "Hell Fire Alembic"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Bloody Rose",
+    "Description": "Bloody RoseAltered Arte: A title skill that allows you unleasha combo attack. Originally used by an exiled miser.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 38Learn with 50 usesAlters from Luna AscendentLegacy Costume Skill (Judith)",
+    "Alter": "Luna Ascendent",
+    "Capacite": "Legacy Costume Skill (Judith)"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Ashen Moonlight",
+    "Description": "Ashen MoonlightBurst Arte: Seal enemies in a ball of light,then cause it to explode in midair.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "TP_Level": "Level 18Luna Gale, 1 uses",
+    "Alter": "Luna Gale",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Conflagration Blast",
+    "Description": "Conflagration Blast",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-0.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "Alters from Ashen MoonlightHell FireChain",
+    "Alter": "Ashen Moonlight",
+    "Capacite": "Hell Fire Chain"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Crushing Grave",
+    "Description": "Crushing Grave",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-04.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-1.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "Alters from Ashen MoonlightAthenorCrucible",
+    "Alter": "Ashen Moonlight",
+    "Capacite": "Athenor Crucible"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Quasi Seal",
+    "Description": "Quasi Seal",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-2.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "Alters from Ashen MoonlightGaleAlembic",
+    "Alter": "Ashen Moonlight",
+    "Capacite": "Gale Alembic"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Midnight Flood",
+    "Description": "Midnight Flood",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-05.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-3.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "Alters from Ashen MoonlightGreat DelugeDispersion",
+    "Alter": "Ashen Moonlight",
+    "Capacite": "Great Deluge Dispersion"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Radiant Moonlight",
+    "Description": "Radiant Moonlight",
+    "Detail": "http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/text-icons/icon-element-01.png",
+    "TP_Level": "",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/JUD.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Dragon's Moon Spear",
+    "Description": "Dragon's Moon Spear",
+    "Detail": "",
+    "TP_Level": "",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Sonic Dog",
+    "Description": "Sonic DogBase Arte: Send a series of sonic wavestoward the enemies.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 6Level 1",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Crescent Fang",
+    "Description": "Crescent FangBase Arte: Attack with an uppercut spin.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 8Level 7",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Punishing Fang",
+    "Description": "Punishing FangBase Arte: Spin sideways and slash at enemieswith a small knife.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 9Level 12",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Thievery",
+    "Description": "ThieveryBase Arte: Steal an item from an enemy.",
+    "Detail": "",
+    "TP_Level": "TP usage: 7Level 16",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Falling Leaf",
+    "Description": "Falling LeafBase Arte: Get behind an enemy. This attackdoes not inflict damage on the enemy.",
+    "Detail": "",
+    "TP_Level": "TP usage: 5Level 18",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Shadow Fang",
+    "Description": "Shadow FangBase Arte: Slash at an enemy repeatedlywith a small knife.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 11Level 24",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Demon Dog",
+    "Description": "Demon DogBase Arte: Send a sonic wave with your blade.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 12Level 29",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Gale Dog",
+    "Description": "Gale DogBase Arte: Distract enemies with a gush of wind.Temporarily blocks enemy attacks.",
+    "Detail": "",
+    "TP_Level": "TP usage: 14Level 34",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Shining Dog",
+    "Description": "Shining DogBase Arte: Spin to send a small cyclonetowards the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 15Level 38",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Sonic Return",
+    "Description": "Sonic ReturnArcane Arte: Charge at the enemy at sonicspeed, then quickly jump back.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 13Level 21",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Light Spear",
+    "Description": "Light SpearArcane Arte: Spin and slash up into the air.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 14Level 26",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Shadow Fang Punishment",
+    "Description": "Shadow Fang PunishmentArcane Arte: A combination of Shadow Fangand Punishing Fang.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "TP_Level": "TP usage: 18Level 32Shadow Fang, 50 usesPunishing Fang, 50 uses",
+    "Alter": "Shadow Fang",
+    "Capacite": "Punishing Fang"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Phantom Fang",
+    "Description": "Phantom FangArcane Arte: Spiral dive at the enemy thattouches your force field while lying down.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-04.png",
+    "TP_Level": "TP usage: 18Level 44",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Hell Hound",
+    "Description": "Hell HoundArcane Arte: Throw a fireball at an enemyfrom mid-air.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-02.png",
+    "TP_Level": "TP usage: 20Level 41",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Demon Spear",
+    "Description": "Demon SpearArcane Arte: A combination of Demon Dogand Light Spear.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-03.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "TP_Level": "TP usage: 17Level 36Demon Dog, 50 usesLight Spear, 50 uses",
+    "Alter": "Demon Dog",
+    "Capacite": "Light Spear"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Cyclone Shot",
+    "Description": "Cyclone ShotArcane Arte: Spin in the air to send enemies flying.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 22Level 47",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Hell Hound Return",
+    "Description": "Hell Hound ReturnArcane Arte: A combination of Sonic Returnand Hell Hound.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "TP_Level": "TP usage: 23Level 51Hell Hound, 50 usesSonic Return, 50 uses",
+    "Alter": "Hell Hound",
+    "Capacite": "Sonic Return"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Shining Fang",
+    "Description": "Shining FangArcane Arte: Continuously spin and attack in midair.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 28Learn via Event",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Ghost Wolf",
+    "Description": "Ghost WolfArcane Arte: Charge at full speed to leaveenemies spinning.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 25Level 58",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Lightning Dog",
+    "Description": "Lightning DogAltered Arte: Charge at the enemy as quickas lightning.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-0.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "TP usage: 8Learn with 100 usesAlters from Sonic DogHell FireGale",
+    "Alter": "Sonic Dog",
+    "Capacite": "Hell Fire Gale"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Punishing Air Fang",
+    "Description": "Punishing Air FangAltered Arte: Rise while spinning, then slashat the enemy with a small knife.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "TP usage: 13Learn with 100 usesAlters from Punishing FangDispersion",
+    "Alter": "Punishing Fang",
+    "Capacite": "Dispersion"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Snatch Item",
+    "Description": "Snatch ItemAltered Arte: Slash at the enemy, stealing an item in the process.If you miss though, you'll leave yourself wide open.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 12Learn with 100 usesAlters from ThieveryChain",
+    "Alter": "Thievery",
+    "Capacite": "Chain"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Swirling Nature",
+    "Description": "Swirling NatureAltered Arte: Dash behind the enemy, using themomentum to unleash an attack.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-05.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "TP usage: 15Learn with 100 usesAlters from Falling LeafGreat Deluge",
+    "Alter": "Falling Leaf",
+    "Capacite": "Great Deluge"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Demon Dog Rush",
+    "Description": "Demon Dog RushAltered Arte: Send a sonic wave and chargeforward to slash at an enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "TP usage: 14Learn with 100 usesAlters from Demon DogAlembic",
+    "Alter": "Demon Dog",
+    "Capacite": "Alembic"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Dense Demon Dog",
+    "Description": "Dense Demon DogAltered Arte: Use your spinning powers to unleash anexplosive shockwave that will knock down an enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 18Learn with 100 usesAlters from Demon DogCrucible",
+    "Alter": "Demon Dog",
+    "Capacite": "Crucible"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Illusory Dog",
+    "Description": "Illusory DogAltered Arte: Increase your sword's attack reach.Lasts until you take damage and are staggered.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 25Learn with 100 usesAlters from Gale DogHell Fire",
+    "Alter": "Gale Dog",
+    "Capacite": "Hell Fire"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Sonic Fang",
+    "Description": "Sonic FangAltered Arte: Spiral dive and slash at the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-0.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 15Learn with 100 usesAlters from Sonic ReturnChainCrucible",
+    "Alter": "Sonic Return",
+    "Capacite": "Chain Crucible"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Victory Light Spear",
+    "Description": "Victory Light SpearAltered Arte: Spin in the air and dive quicklydown at an enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-03.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 18Learn with 100 usesAlters from Light SpearAthenor",
+    "Alter": "Light Spear",
+    "Capacite": "Athenor"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Shadow Fang Wave",
+    "Description": "Shadow Fang WaveAltered Arte: A combination of Shadow Fang and Light Spear.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "TP usage: 20Learn with 100 usesAlters from Shadow Fang PunishmentGale",
+    "Alter": "Shadow Fang Punishment",
+    "Capacite": "Gale"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Phantom Glacier",
+    "Description": "Phantom GlacierAltered Arte: Cause a glacier from beneaththe enemy when they touch you while lying down.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/text-icons/icon-element-05.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-3.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "TP usage: 20Learn with 100 usesAlters from Phantom FangGreat DelugeGale",
+    "Alter": "Phantom Fang",
+    "Capacite": "Great Deluge Gale"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Beastly Blow",
+    "Description": "Beastly BlowAltered Arte: A title skill that allows you to unleash an uppercut.Originally used by a half-beast half-human boy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 15Learn with 50 usesAlters from Light SpearLegacy Costume Skill (Repede)",
+    "Alter": "Light Spear",
+    "Capacite": "Legacy Costume Skill (Repede)"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Divine Dog",
+    "Description": "Divine DogBurst Arte: Attack multiple times by somersaulting in midair.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "Level 22",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Divine Dog - Blaze",
+    "Description": "Divine Dog - Blaze",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-0.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "Alters from Divine DogHell FireChain",
+    "Alter": "Divine Dog",
+    "Capacite": "Hell Fire Chain"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Divine Dog - Tremble",
+    "Description": "Divine Dog - Tremble",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-04.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-1.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "Alters from Divine DogAthenorCrucible",
+    "Alter": "Divine Dog",
+    "Capacite": "Athenor Crucible"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Divine Dog - Savage",
+    "Description": "Divine Dog - Savage",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-2.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "Alters from Divine DogGaleAlembic",
+    "Alter": "Divine Dog",
+    "Capacite": "Gale Alembic"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Divine Dog - Whirlpool",
+    "Description": "Divine Dog - Whirlpool",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-05.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-3.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "Alters from Divine DogGreat DelugeDispersion",
+    "Alter": "Divine Dog",
+    "Capacite": "Great Deluge Dispersion"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Slash!!",
+    "Description": "Slash!!",
+    "Detail": "",
+    "TP_Level": "",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Lightning Flash",
+    "Description": "Lightning Flash",
+    "Detail": "",
+    "TP_Level": "",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Demon Fang",
+    "Description": "Demon FangBase Arte: Release a cutting shockwavealong the ground.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 5Level 1",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Sonic Thrust",
+    "Description": "Sonic ThrustBase Arte: A rapid flurry of powerful thrusts.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 7Level 8",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Tiger Blade",
+    "Description": "Tiger BladeBase Arte: Slice the enemy up, then cut them down.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 6Level 12",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Shining Falcon",
+    "Description": "Shining FalconBase Arte: Grab the enemy with a magic seal, then unleash an attack.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-03.png",
+    "TP_Level": "TP usage: 12Level 18",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Rising Falcon",
+    "Description": "Rising FalconBase Arte: A high-speed charge from the air.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 12Level 24",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Severing Blade",
+    "Description": "Severing BladeBase Arte: Send the enemy flying with a rising slash.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 12Level 29",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Sword Rain",
+    "Description": "Sword RainBase Arte: Cut the enemy to pieces with endless thrusts.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 15Level 36",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Demonic Chaos",
+    "Description": "Demonic ChaosArcane Arte: Release multiple cutting shockwaves along the ground.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 18Level 21",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Hell Fire Blade",
+    "Description": "Hell Fire BladeArcane Arte: Throw a fireball at an enemyfrom mid-air.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-02.png",
+    "TP_Level": "TP usage: 18Level 26",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Beast",
+    "Description": "BeastArcane Arte: Unleash the power of a lion tosend the enemy flying.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 15Level 32",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Dragon Swarm",
+    "Description": "Dragon SwarmArcane Arte: Repeatedly slash at the enemy using dance-like movements.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 20Level 41",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Dazzling Spin",
+    "Description": "Dazzling SpinArcane Arte: Grab the enemy with a magic seal, then unleash a reflected light-ball attack.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-03.png",
+    "TP_Level": "TP usage: 25Learn via Event",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Demonic Circle",
+    "Description": "Demonic CircleArcane Arte: Strike the enemy, knocking them down.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 22Level 47",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Guardian Field",
+    "Description": "Guardian FieldArcane Arte: Thrust weapon into the ground to attacknearby enemies while healing allies within area.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-03.png",
+    "TP_Level": "TP usage: 26Level 51",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Tiger Rage",
+    "Description": "Tiger RageAltered Arte: Perform a high-speed rising slash,followed by a combo attack.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-0.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "TP usage: 7Learn with 100 usesAlters from Tiger BladeChainGale",
+    "Alter": "Tiger Blade",
+    "Capacite": "Chain Gale"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Rising Phoenix",
+    "Description": "Rising PhoenixAltered Arte: Utilize the power of the phoenix toperform a high-speed charge at the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 14Learn with 100 usesAlters from Rising FalconHell Fire",
+    "Alter": "Rising Falcon",
+    "Capacite": "Hell Fire"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Fierce Hell Fire Blade",
+    "Description": "Fierce Hell Fire BladeAltered Arte: Utilize the power of fire to strike the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-1.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 11Learn with 100 usesAlters from Hell Fire BladeCrucibleHell Fire",
+    "Alter": "Hell Fire Blade",
+    "Capacite": "Crucible Hell Fire"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Shining Falcon - Dispersion",
+    "Description": "Shining Falcon - DispersionAltered Arte: Grab multiple enemies with a magic seal, then unleash an attack.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-03.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "TP usage: 24Learn with 100 usesAlters from Shining FalconDispersion",
+    "Alter": "Shining Falcon",
+    "Capacite": "Dispersion"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Rending Quake",
+    "Description": "Rending QuakeAltered Arte: Perform a hook and uppercut combo that creates ashockwave which sends the enemy flying.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-04.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 27Learn with 100 usesAlters from Demonic CircleAthenor",
+    "Alter": "Demonic Circle",
+    "Capacite": "Athenor"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Sword Rain: Alpha",
+    "Description": "Sword Rain: AlphaAltered Arte: Cut enemy to pieces with endless thrusts.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-2.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 26Learn with 100 usesAlters from Sword RainAlembicChain",
+    "Alter": "Sword Rain",
+    "Capacite": "Alembic Chain"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Distortion Blade",
+    "Description": "Distortion BladeAltered Arte: A title skill where you unleash a flamingstrike that was used by a benevolent swordsman.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 18Learn with 50 usesAlters from Severing BladeLegacy Costume Skill (Flynn)",
+    "Alter": "Severing Blade",
+    "Capacite": "Legacy Costume Skill (Flynn)"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-04.png",
+    "Name": "First Aid",
+    "Description": "First AidNovice Spell: Restore a small amount of HPto one ally.",
+    "Detail": "",
+    "TP_Level": "TP usage: 8Level 9Usable outside of battle",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-04.png",
+    "Name": "Luminant Scythe",
+    "Description": "Luminant ScytheNovice Spell: Summon a light spirit that attacks the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-03.png",
+    "TP_Level": "TP usage: 14Level 15",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-06.png",
+    "Name": "Divine Streak",
+    "Description": "Divine StreakAdvanced Spell: Produce a magic seal in front of youthat fires a beam of light.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-03.png",
+    "TP_Level": "TP usage: 58Level 54",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-06.png",
+    "Name": "Holy Lance",
+    "Description": "Holy LanceAdvanced Spell: Run an enemy through witha divine spear.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-03.png",
+    "TP_Level": "TP usage: 56Level 60",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Cure",
+    "Description": "CureAltered Arte: Restore a large amount of HP to an ally.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-04.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "TP usage: 16Learn with 50 usesAlters from First AidGreat DelugeUsable outside of battle",
+    "Alter": "First Aid",
+    "Capacite": "Great Deluge"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Mistral Soul",
+    "Description": "Mistral SoulAltered Arte: Summon a wind spirit that attacks the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/text-icons/icon-element-03.png http://hyouta.com/vesperia/menu-icons/artes-04.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "TP usage: 28Learn with 50 usesAlters from Luminant ScytheGale",
+    "Alter": "Luminant Scythe",
+    "Capacite": "Gale"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Blazing Pillar Smash",
+    "Description": "Blazing Pillar SmashBurst Arte: Attack the enemy with light magicand follow up with a huge slash attack.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "Level 22",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Blazing Pillar Smash - Fiery Lion",
+    "Description": "Blazing Pillar Smash - Fiery Lion",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-0.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "Alters from Blazing Pillar SmashHell FireChain",
+    "Alter": "Blazing Pillar Smash",
+    "Capacite": "Hell Fire Chain"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Blazing Pillar Smash - Earthquaker",
+    "Description": "Blazing Pillar Smash - Earthquaker",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-04.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-1.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "Alters from Blazing Pillar SmashAthenorCrucible",
+    "Alter": "Blazing Pillar Smash",
+    "Capacite": "Athenor Crucible"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Blazing Pillar Smash - Tornado Cutter",
+    "Description": "Blazing Pillar Smash - Tornado Cutter",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-2.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "Alters from Blazing Pillar SmashGaleAlembic",
+    "Alter": "Blazing Pillar Smash",
+    "Capacite": "Gale Alembic"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Blazing Pillar Smash - Bubble Bomber",
+    "Description": "Blazing Pillar Smash - Bubble Bomber",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-05.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-3.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "Alters from Blazing Pillar SmashGreat DelugeDispersion",
+    "Alter": "Blazing Pillar Smash",
+    "Capacite": "Great Deluge Dispersion"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Radiant Dragon Fang",
+    "Description": "Radiant Dragon Fang",
+    "Detail": "http://hyouta.com/vesperia/text-icons/icon-element-03.png",
+    "TP_Level": "",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Firebird Flight",
+    "Description": "Firebird Flight",
+    "Detail": "http://hyouta.com/vesperia/text-icons/icon-element-02.png",
+    "TP_Level": "",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Twin Wave",
+    "Description": "Twin Wave",
+    "Detail": "http://hyouta.com/vesperia/text-icons/icon-element-03.png http://hyouta.com/vesperia/text-icons/icon-element-06.png",
+    "TP_Level": "",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Form Change",
+    "Description": "Form ChangeBase Arte: Randomly assume one of four combat styles.Additional effects are added with each style.",
+    "Detail": "",
+    "TP_Level": "Level 1",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Variable Trigger",
+    "Description": "Variable TriggerBase Arte: Fire a bullet that varies depending on yourcombat style. \"Give them all a shot!",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 10Level 8",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Trick Trick",
+    "Description": "Trick TrickBase Arte: Attack using a jack-in-the-box. \"I wonderif there's really someone called Jack inside...",
+    "Detail": "",
+    "TP_Level": "TP usage: 12Level 12",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Clunky Bomb",
+    "Description": "Clunky BombBase Arte: Hurl a bomb, then explode it with a throwing knife.It may take multiple knives, though, depending on your luck.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-02.png",
+    "TP_Level": "TP usage: 8Level 28",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Random Fall",
+    "Description": "Random FallBase Arte: Throw a knife midair, then drop various objects on thehead of the enemy. \"It's raining more than cats and dogs!",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 9Level 36",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
+    "Name": "Search Gald",
+    "Description": "Search GaldBase Arte: Search for dropped gald.\"Hey. You gotta pay the bills, right?",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 10Learn via Event",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Little Big Chef",
+    "Description": "Little Big ChefArcane Arte: Taunt the enemy with a frying pan, and then use it to create food.You get different effects depending on the type of food made.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png",
+    "TP_Level": "TP usage: 22Level 24",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Risky Bet",
+    "Description": "Risky BetArcane Arte: Strike with a knife, then finish off with either a , , or , depending on your input.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 18Level 31",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Severed Fate",
+    "Description": "Severed FateArcane Arte: Jump in the air, strike with a knife, then finish off withone of the following midair attacks depending on your input: , , or .",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "TP usage: 20Level 39",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Welcome Dish",
+    "Description": "Welcome DishArcane Arte: Make a pot fall out of the sky, then take various things out of it.\"You want some of my cooking? Eat this!",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 16Level 42",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Dangerous Ladder",
+    "Description": "Dangerous LadderArcane Arte: Toss a card, then bet either high () or low ().The more you guess correctly, the more your damage gets boosted!",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-06.png",
+    "TP_Level": "TP usage: 21Level 47",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-01.png",
+    "Name": "Dream Star",
+    "Description": "Dream StarArcane Arte: Jump on a magically appearing rocketthat produces various effects when it disappears.",
+    "Detail": "http://hyouta.com/vesperia/text-icons/icon-element-03.png",
+    "TP_Level": "TP usage: 25Level 54",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Trigger Tune",
+    "Description": "Trigger TuneAltered Arte: Fire bullets that varydepending on your combat style.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 13Learn with 100 usesAlters from Variable TriggerChain",
+    "Alter": "Variable Trigger",
+    "Capacite": "Chain"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Trick or Treat",
+    "Description": "Trick or TreatAltered Arte: Pull out a gift box and use it to attack.\"This present's the bomb!",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 15Learn with 100 usesAlters from Trick TrickCrucible",
+    "Alter": "Trick Trick",
+    "Capacite": "Crucible"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Falling Ice",
+    "Description": "Falling IceAltered Arte: Throw a knife midair, then drop variousicicles on the head of the enemy.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/text-icons/icon-element-05.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "TP usage: 14Learn with 100 usesAlters from Random FallGreat Deluge",
+    "Alter": "Random Fall",
+    "Capacite": "Great Deluge"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Gald Steal",
+    "Description": "Gald StealAltered Arte: Bite the enemy and steal their gald.\"Oops! Sorry! I slipped!",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/menu-icons/artes-00.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "TP usage: 12Learn with 100 usesAlters from Search GaldAlembic",
+    "Alter": "Search Gald",
+    "Capacite": "Alembic"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Fire Big Chef",
+    "Description": "Fire Big ChefAltered Arte: Simmer the enemy in a big frying pan to create differentkinds of food. \"What treat will the chef cook up today?",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 28Learn with 100 usesAlters from Little Big ChefHell Fire",
+    "Alter": "Little Big Chef",
+    "Capacite": "Hell Fire"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Fatal Triangle",
+    "Description": "Fatal TriangleAltered Arte: Draw a triangular magic seal with a throwing knife,then finish off with either a , , or , depending on your input.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-03.png http://hyouta.com/vesperia/menu-icons/artes-01.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "TP usage: 24Learn with 100 usesAlters from Severed FateGale",
+    "Alter": "Severed Fate",
+    "Capacite": "Gale"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Happy Light",
+    "Description": "Happy LightAltered Arte: A fancy title skillused by an affable guardian.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/menu-icons/artes-04.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "TP usage: 12Learn with 50 usesAlters from Fancy ElementsLegacy Costume Skill (Patty)",
+    "Alter": "Fancy Elements",
+    "Capacite": "Legacy Costume Skill (Patty)"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-04.png",
+    "Name": "Risky Cast",
+    "Description": "Risky CastNovice Spell: Unleash magic at random.The type of magic depends on your combat style.",
+    "Detail": "",
+    "TP_Level": "TP usage: 10Level 12",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-04.png",
+    "Name": "Fancy Elements",
+    "Description": "Fancy ElementsNovice Spell: Add an elemental to an ally.Decided at random.",
+    "Detail": "",
+    "TP_Level": "TP usage: 12Level 34",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-06.png",
+    "Name": "Gamble Cast",
+    "Description": "Gamble CastAdvanced Spell: Get either  or  to unleasha random magic spell.",
+    "Detail": "",
+    "TP_Level": "TP usage: 50Level 43",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-06.png",
+    "Name": "Card Gamble",
+    "Description": "Card GambleAdvanced Spell: Deal damage according to your poker hand.\"No one can match my legendary gambling skills!",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png",
+    "TP_Level": "TP usage: 20Level 48",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-06.png",
+    "Name": "Critical Moment",
+    "Description": "Critical MomentAdvanced Spell: A forbidden spell where who knows what will happen?\"Even I don't know!",
+    "Detail": "",
+    "TP_Level": "TP usage: 60Learn via Event",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Big Risk",
+    "Description": "Big RiskAltered Arte: Unleash ranged magic at random.The type of magic depends on your combat style.",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-04.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "TP usage: 30Learn with 50 usesAlters from Risky CastDispersion",
+    "Alter": "Risky Cast",
+    "Capacite": "Dispersion"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-12.png",
+    "Name": "Mahjong",
+    "Description": "MahjongAltered Arte: Deal damage according to the mahjong tile that appears.\"Your skills are no match for my luck!",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/menu-icons/artes-06.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "TP usage: 40Learn with 50 usesAlters from Card GambleAthenor",
+    "Alter": "Card Gamble",
+    "Capacite": "Athenor"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Glittery Rain",
+    "Description": "Glittery RainBurst Arte: Draw a magic seal with your throwing knife, then completethe ritual with your gun, resulting in either an  or an .",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png",
+    "TP_Level": "Level 24",
+    "Alter": "",
+    "Capacite": ""
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Volcanic Blast",
+    "Description": "Volcanic Blast",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-02.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-0.png http://hyouta.com/vesperia/skill-icons/category-0.png",
+    "TP_Level": "Alters from Glittery RainHell FireChain",
+    "Alter": "Glittery Rain",
+    "Capacite": "Hell Fire Chain"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Grand Blow",
+    "Description": "Grand Blow",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-15.png http://hyouta.com/vesperia/text-icons/icon-element-04.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-1.png http://hyouta.com/vesperia/skill-icons/category-1.png",
+    "TP_Level": "Alters from Glittery RainAthenorCrucible",
+    "Alter": "Glittery Rain",
+    "Capacite": "Athenor Crucible"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Windy Rage",
+    "Description": "Windy Rage",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-14.png http://hyouta.com/vesperia/text-icons/icon-element-01.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-2.png http://hyouta.com/vesperia/skill-icons/category-2.png",
+    "TP_Level": "Alters from Glittery RainGaleAlembic",
+    "Alter": "Glittery Rain",
+    "Capacite": "Gale Alembic"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Hydraulic Raid",
+    "Description": "Hydraulic Raid",
+    "Detail": "http://hyouta.com/vesperia/menu-icons/artes-13.png http://hyouta.com/vesperia/text-icons/icon-element-05.png http://hyouta.com/vesperia/menu-icons/artes-02.png http://hyouta.com/vesperia/skill-icons/category-3.png http://hyouta.com/vesperia/skill-icons/category-3.png",
+    "TP_Level": "Alters from Glittery RainGreat DelugeDispersion",
+    "Alter": "Glittery Rain",
+    "Capacite": "Great Deluge Dispersion"
+  },
+  {
+    "Icon": "http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Type": "http://hyouta.com/vesperia/menu-icons/artes-02.png",
+    "Name": "Summon Friends",
+    "Description": "Summon Friends",
+    "Detail": "",
+    "TP_Level": "",
+    "Alter": "",
+    "Capacite": ""
+  }
+]
