@@ -1,3 +1,5 @@
+{
+"item":
 [
   {
     "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_APPLEGUMI_U_ITEM_APPLEGUMI.png",
@@ -235,3 +237,4 @@
     "Description": "A cozy barrier that can block out wind and rain.Fully restores HP and TP in luxury and peace."
   }
 ]
+}
