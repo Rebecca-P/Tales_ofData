@@ -1,6 +1,5 @@
 {
-"item":
-[
+"item": [
   {
     "Icon": "http://apps.lushu.org/vesperia/img/items/ic/ITEM_APPLEGUMI_U_ITEM_APPLEGUMI.png",
     "Name EN": "Apple Gel",
@@ -236,5 +235,5 @@
     "Name EN": "Barrier",
     "Description": "A cozy barrier that can block out wind and rain.Fully restores HP and TP in luxury and peace."
   }
-]
+  ]
 }
