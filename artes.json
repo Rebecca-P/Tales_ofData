@@ -1,4 +1,5 @@
-[
+{
+"artes":[
   {
     "Icon": "http://hyouta.com/vesperia/chara-icons/YUR.png",
     "Type": "http://hyouta.com/vesperia/menu-icons/artes-00.png",
@@ -3530,3 +3531,5 @@
     "Capacite": ""
   }
 ]
+  
+}
