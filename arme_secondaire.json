@@ -1,4 +1,5 @@
-[
+{
+  "secondaire":[
   {
     "Icon": "http://hyouta.com/vesperia/items/U_ITEM_BAG00.png",
     "Nom": "Normal Size Bag",
@@ -616,3 +617,5 @@
     "Synthese2": ""
   }
 ]
+  
+}
