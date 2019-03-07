@@ -1,4 +1,5 @@
-[
+{
+"chain":[
   {
     "Icon": "http://hyouta.com/vesperia/items/U_ITEM_CHA00.png",
     "Nom": "Chain",
@@ -341,3 +342,4 @@
     "Synthese2": ""
   }
 ]
+}
