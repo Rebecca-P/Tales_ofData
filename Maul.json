@@ -1,4 +1,5 @@
-[
+{
+  "maul":[
   {
     "Icon": "http://hyouta.com/vesperia/items/U_ITEM_HAM00.png",
     "Nom": "Wood Maul",
@@ -286,3 +287,4 @@
     "Synthese2": ""
   }
 ]
+}
