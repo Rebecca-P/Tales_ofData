@@ -1,4 +1,5 @@
-[
+{
+  "head":[
   {
     "Icon": "http://hyouta.com/vesperia/items/U_ITEM_BEL00.png",
     "Nom": "Knit Cap",
@@ -594,3 +595,4 @@
     "Synthese2": ""
   }
 ]
+}
