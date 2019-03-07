@@ -1,4 +1,5 @@
-[
+{
+  "body":[
   {
     "Icon": "http://hyouta.com/vesperia/items/U_ITEM_ARM00.png",
     "Nom": "Leather Mail",
@@ -1144,3 +1145,4 @@
     "Synthese2": ""
   }
 ]
+}
