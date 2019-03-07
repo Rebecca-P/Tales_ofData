@@ -1,4 +1,5 @@
-[
+{
+  "caracter":[
   {
     "Image":"https://vignette.wikia.nocookie.net/aselia/images/5/5f/Yuri_Lowell.jpg/revision/latest?cb=20081020204945",
     "Icon":"http://hyouta.com/vesperia/chara-icons/YUR.png",
@@ -99,3 +100,4 @@
     "Weapon": "Dagger (main)/Gun (sub)"
   }
 ]
+}
