@@ -1,4 +1,5 @@
-[
+{
+"spear":[
   {
     "Icon": "http://hyouta.com/vesperia/items/U_ITEM_SPE00.png",
     "Nom": "War Pike",
@@ -330,3 +331,4 @@
     "Synthese2": ""
   }
 ]
+}
