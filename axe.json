@@ -1,4 +1,5 @@
-[
+{
+  "axe":[
   {
     "Icon": "http://hyouta.com/vesperia/items/U_ITEM_AXE00.png",
     "Nom": "Hand Axe",
@@ -462,3 +463,4 @@
     "Synthese2": ""
   }
 ]
+}
