@@ -1,4 +1,5 @@
-[
+{
+"dagger":[
   {
     "Icon": "http://hyouta.com/vesperia/items/U_ITEM_DOS00.png",
     "Nom": "Kogarashi",
@@ -737,3 +738,4 @@
     "Synthese2": ""
   }
 ]
+}
