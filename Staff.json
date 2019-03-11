@@ -1,4 +1,5 @@
-[
+{
+"staff":[
   {
     "Icon": "http://hyouta.com/vesperia/items/U_ITEM_CLU00.png",
     "Nom": "Oar",
@@ -220,3 +221,4 @@
     "Synthese2": ""
   }
 ]
+}
