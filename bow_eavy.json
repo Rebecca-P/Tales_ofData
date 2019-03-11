@@ -1,4 +1,5 @@
-[
+{
+"eavy":[
   {
     "Icon": "http://hyouta.com/vesperia/items/U_ITEM_BOH00.png",
     "Nom": "Smash Bow",
@@ -330,3 +331,4 @@
     "Synthese2": ""
   }
 ]
+}
