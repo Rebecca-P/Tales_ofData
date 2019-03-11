@@ -1,4 +1,5 @@
-[
+{
+"knife":[
   {
     "Icon": "http://hyouta.com/vesperia/items/U_ITEM_KNI01.png",
     "Nom": "Pirate's Knife",
@@ -605,3 +606,4 @@
     "Synthese2": ""
   }
 ]
+}
