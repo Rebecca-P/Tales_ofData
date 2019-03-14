@@ -4,2815 +4,2815 @@
     "Name": "Strength",
     "Description EN": "Increases physical attack by 5%.Increase due to equipment not affected.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "3 SP100 LPSymbol Weight: 1"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "3 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Strength 2",
     "Description EN": "Increases physical attack by 10%.Increase due to equipment not affected.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Strength 3",
     "Description EN": "Increases physical attack by 15%.Increase due to equipment not affected.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "8 SP300 LPSymbol Weight: 3"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "8 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Strength 4",
     "Description EN": "Increases physical attack by 20%.Increase due to equipment not affected.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "10 SP400 LPSymbol Weight: 4"
+    "Info": "10 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "Strength T",
     "Description EN": "Increases physical attack by 25% when HP is over 75%.Increase due to equipment not affected.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "11 SP100 LPSymbol Weight: 2"
+    "Info": "11 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Magic",
     "Description EN": "Increases spell attack by 5%.Increase due to equipment not affected.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "3 SP100 LPSymbol Weight: 1"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "3 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Magic 2",
     "Description EN": "Increases spell attack by 10%.Increase due to equipment not affected.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Magic 3",
     "Description EN": "Increases spell attack by 15%.Increase due to equipment not affected.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "8 SP300 LPSymbol Weight: 3"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "8 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Magic 4",
     "Description EN": "Increases spell attack by 20%.Increase due to equipment not affected.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "10 SP400 LPSymbol Weight: 4"
+    "Info": "10 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "Magic T",
     "Description EN": "Increase spell attack by 25% only when TP over 75%Increase due to equipment not affected.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "11 SP100 LPSymbol Weight: 2"
+    "Info": "11 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Rise Attack",
     "Description EN": "Increases damage by consuming TP.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "3 SP200 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "3 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Heavy Hit",
     "Description EN": "Increases chance of stunning an enemywith a physical attack.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "3 SP200 LPSymbol Weight: 3"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "3 SP200 LPSymbol Weight: 3"
   },
   {
     "Name": "Swords Up",
     "Description EN": "Increases P. ATK when a sword is equipped.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "3 SP100 LPSymbol Weight: 1"
+    "Info": "3 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Axes Up",
     "Description EN": "Increases P. ATK when an axe is equipped.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "3 SP100 LPSymbol Weight: 1"
+    "Info": "3 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Combatir",
     "Description EN": "Increases the strength of an attackwhen an axe is equipped.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "5 SP100 LPSymbol Weight: 1"
+    "Info": "5 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Raynard",
     "Description EN": "Increases the strength of an attackwhen a hammer is equipped.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "5 SP100 LPSymbol Weight: 1"
+    "Info": "5 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Light Force",
     "Description EN": "Increases the strength of a spellwhen a light bow is equipped.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "3 SP100 LPSymbol Weight: 2"
+    "Info": "3 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Rival Surge",
     "Description EN": "Occasionally increases all stats temporarilywhen Yuri defeats an enemy in battle.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "10 SP500 LPSymbol Weight: 4"
+    "Info": "10 SP500 LPSymbol Weight: 4"
   },
   {
     "Name": "Rival Surge 2",
     "Description EN": "When Yuri enters Over Limit, occasionally enterthe same Over Limit level.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "20 SP800 LPSymbol Weight: 4"
+    "Info": "20 SP800 LPSymbol Weight: 4"
   },
   {
     "Name": "Assassin",
     "Description EN": "Increases attacks and lessen damagereceived against humanoid enemies.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "2 SP100 LPSymbol Weight: 1"
+    "Info": "2 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Bug Busters",
     "Description EN": "Increases the amount of damage dealtand received for insect type enemies.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "4 SP200 LPSymbol Weight: 2"
+    "Info": "4 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Hunter",
     "Description EN": "Increases attacks and lessen damagereceived against aerial enemies.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Aerial Force",
     "Description EN": "Increases damage by 1.2 times againstaerial enemies.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "10 SP100 LPSymbol Weight: 1"
+    "Info": "10 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Hero",
     "Description EN": "Increases attacks and lessen damagereceived against non-humanoid enemies.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Second Attack",
     "Description EN": "Karol’s attacks inflict more damageon the enemy after the 2nd hit.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "8 SP200 LPSymbol Weight: 2"
+    "Info": "8 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Critical",
     "Description EN": "Increases the chance of inflicting critical damage.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "6 SP100 LPSymbol Weight: 2"
+    "Info": "6 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Critical Break",
     "Description EN": "Increases chance of guard breaks.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "7 SP100 LPSymbol Weight: 2"
+    "Info": "7 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Sustained Critical",
     "Description EN": "All attacks inflict critical damage during Over Limit.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "22 SP600 LPSymbol Weight: 6"
+    "Info": "22 SP600 LPSymbol Weight: 6"
   },
   {
     "Name": "Charming Thrust",
     "Description EN": "Occasionally inflicts Charm on an enemyupon a successful hit.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "6 SP200 LPSymbol Weight: 10"
+    "Info": "6 SP200 LPSymbol Weight: 10"
   },
   {
     "Name": "Sleepy Thrust",
     "Description EN": "Occasionally inflicts Sleep on an enemyupon a successful hit.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "6 SP200 LPSymbol Weight: 10"
+    "Info": "6 SP200 LPSymbol Weight: 10"
   },
   {
     "Name": "Stinger Blow",
     "Description EN": "Occasionally paralyzes an enemy with a normal attack.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "8 SP400 LPSymbol Weight: 2"
+    "Info": "8 SP400 LPSymbol Weight: 2"
   },
   {
     "Name": "TP Attack",
     "Description EN": "Inflicts damage on enemy TP with normal attacks.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "5 SP300 LPSymbol Weight: 3"
+    "Info": "5 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Elemental",
     "Description EN": "Occasionally increases effect of a physicalattack with elemental attributes.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "3 SP100 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "3 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Critical Magic",
     "Description EN": "Inflicts Critical Damage when casting a spell.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Stun Magic",
     "Description EN": "Increases chance of stunning an enemywith a spell attack.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "3 SP200 LPSymbol Weight: 3"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Info": "3 SP200 LPSymbol Weight: 3"
   },
   {
     "Name": "Shine",
     "Description EN": "Occasionally stuns an enemy duringOver Limit.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Heavy Magic",
     "Description EN": "Increases power of a spell. Also increasesTP consumption and cast time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "7 SP300 LPSymbol Weight: 3"
+    "Info": "7 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Light Magic",
     "Description EN": "Decreases TP consumption and cast time.Also decreases the spell’s power.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "10 SP400 LPSymbol Weight: 4"
+    "Info": "10 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "Over Cast",
     "Description EN": "Hold  after casting to increase theeffect of a novice spell while consuming TP.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "8 SP500 LPSymbol Weight: 5"
+    "Info": "8 SP500 LPSymbol Weight: 5"
   },
   {
     "Name": "Over Cast 2",
     "Description EN": "Hold  after casting to increase theeffect of an intermediate spell while consuming TP.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "12 SP500 LPSymbol Weight: 5"
+    "Info": "12 SP500 LPSymbol Weight: 5"
   },
   {
     "Name": "Over Cast 3",
     "Description EN": "Hold  after casting to increase theeffect of an advanced spell while consuming TP.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "16 SP500 LPSymbol Weight: 5"
+    "Info": "16 SP500 LPSymbol Weight: 5"
   },
   {
     "Name": "Aerial Artes",
     "Description EN": "Able to perform base artes in mid-air.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "4 SP600 LPSymbol Weight: 4"
+    "Info": "4 SP600 LPSymbol Weight: 4"
   },
   {
     "Name": "Aerial Artes 2",
     "Description EN": "Able to perform arcane artes in mid-air.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "6 SP600 LPSymbol Weight: 4"
+    "Info": "6 SP600 LPSymbol Weight: 4"
   },
   {
     "Name": "Aerial Artes 3",
     "Description EN": "Able to perform certain altered artes in mid-air.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "8 SP600 LPSymbol Weight: 4"
+    "Info": "8 SP600 LPSymbol Weight: 4"
   },
   {
     "Name": "Aerial Finish",
     "Description EN": "Increases the bonus for a blue Fatal Strike.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "8 SP100 LPSymbol Weight: 2"
+    "Info": "8 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "High Combo",
     "Description EN": "Links a jump attack and a ground attack.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "7 SP300 LPSymbol Weight: 2"
+    "Info": "7 SP300 LPSymbol Weight: 2"
   },
   {
     "Name": "Change Style",
     "Description EN": "Changes a normal attack depending on thedistance between enemies.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "11 SP600 LPSymbol Weight: 6"
+    "Info": "11 SP600 LPSymbol Weight: 6"
   },
   {
     "Name": "Change Style 2",
     "Description EN": "Changes an arte attack depending on thedistance between enemies.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "15 SP700 LPSymbol Weight: 7"
+    "Info": "15 SP700 LPSymbol Weight: 7"
   },
   {
     "Name": "Bullfight Mind",
     "Description EN": "Increases the power of close range normal attacksused with the Change Style skill.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "5 SP300 LPSymbol Weight: 3"
+    "Info": "5 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Steal Plus",
     "Description EN": "Increase the success rate of Thievery.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "4 SP100 LPSymbol Weight: 6"
+    "Info": "4 SP100 LPSymbol Weight: 6"
   },
   {
     "Name": "Combo Plus",
     "Description EN": "Adds 1 more hit to a regular attack.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "10 SP600 LPSymbol Weight: 10"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "10 SP600 LPSymbol Weight: 10"
   },
   {
     "Name": "Combo Plus 2",
     "Description EN": "Adds 2 more hits to a regular attack.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "14 SP900 LPSymbol Weight: 4"
+    "Info": "14 SP900 LPSymbol Weight: 4"
   },
   {
     "Name": "Combo Plus 3",
     "Description EN": "Adds 3 more hits to a regular attack.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "18 SP1200 LPSymbol Weight: 5"
+    "Info": "18 SP1200 LPSymbol Weight: 5"
   },
   {
     "Name": "Combo Plus Advance",
     "Description EN": "Adds one more hit to a normal attack when inAdvance or Critical Form.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "8 SP600 LPSymbol Weight: 4"
+    "Info": "8 SP600 LPSymbol Weight: 4"
   },
   {
     "Name": "Step Combo",
     "Description EN": "Press  during a backstepto perform a jump attack.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "4 SP200 LPSymbol Weight: 1"
+    "Info": "4 SP200 LPSymbol Weight: 1"
   },
   {
     "Name": "Dragon Buster",
     "Description EN": "Press  +  during a jump totrigger a Dragon Buster attack.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "4 SP100 LPSymbol Weight: 1"
+    "Info": "4 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Mighty Charge",
     "Description EN": "Press and hold  to increase the strength of an attack on the first hit.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "5 SP200 LPSymbol Weight: 3"
+    "Info": "5 SP200 LPSymbol Weight: 3"
   },
   {
     "Name": "Charge Hold",
     "Description EN": "Maintain a charged Mighty Charge even aftera missed attempt.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "8 SP100 LPSymbol Weight: 1"
+    "Info": "8 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Charge Hold 2",
     "Description EN": "Maintain a charged Mighty Charge for a fixed amount of time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "14 SP700 LPSymbol Weight: 7"
+    "Info": "14 SP700 LPSymbol Weight: 7"
   },
   {
     "Name": "Speed Charge",
     "Description EN": "Increases the speed of charging up a Mighty Charge.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "14 SP400 LPSymbol Weight: 4"
+    "Info": "14 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "Charge Smash",
     "Description EN": "Guard Break enemy defenses duringMighty Charge. Super Armor excluded.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "20 SP500 LPSymbol Weight: 5"
+    "Info": "20 SP500 LPSymbol Weight: 5"
   },
   {
     "Name": "Attack Arte Charge",
     "Description EN": "Able to store up attacks for offensive artes.Must have Mighty Charge set.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "8 SP500 LPSymbol Weight: 5"
+    "Info": "8 SP500 LPSymbol Weight: 5"
   },
   {
     "Name": "Endless Shot",
     "Description EN": "Release arrows continuously by holding .Occasionally knocks back enemies.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "20 SP300 LPSymbol Weight: 3"
+    "Info": "20 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Combo Voltage",
     "Description EN": "Recovers TP after 2 consecutive 3-hit combos.Also recovers after combos in multiples of 3.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "5 SP100 LPSymbol Weight: 1"
+    "Info": "5 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Combination",
     "Description EN": "Increases damage once for a combo: 3-hit normal → base → arcane",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "2 SP200 LPSymbol Weight: 1"
+    "Info": "2 SP200 LPSymbol Weight: 1"
   },
   {
     "Name": "Combination 2",
     "Description EN": "Increases damage and OL Gauge once for a combo: 3-hit normal → base → altered → arcane",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "3 SP300 LPSymbol Weight: 2"
+    "Info": "3 SP300 LPSymbol Weight: 2"
   },
   {
     "Name": "Combination 3",
     "Description EN": "Increases damage and recovers TP for a combo: 3-hit normal → base → altered → arcane → mystic",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "4 SP400 LPSymbol Weight: 3"
+    "Info": "4 SP400 LPSymbol Weight: 3"
   },
   {
     "Name": "High Tension",
     "Description EN": "Fills the Over Limit gauge to Lv. 1 with a 28-hit combo.Duration of the Over Limit only lasts half the normal time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "2 SP400 LPSymbol Weight: 3"
+    "Info": "2 SP400 LPSymbol Weight: 3"
   },
   {
     "Name": "Hyper Tension",
     "Description EN": "Fills the Over Limit gauge to Lv. 2 with a 50-hit combo.Duration of the Over Limit only lasts half the normal time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "4 SP500 LPSymbol Weight: 3"
+    "Info": "4 SP500 LPSymbol Weight: 3"
   },
   {
     "Name": "Ultimate Tension",
     "Description EN": "Fills the Over Limit gauge to Lv. 3 with a 72-hit combo.Duration of the Over Limit only lasts half the normal time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "5 SP600 LPSymbol Weight: 4"
+    "Info": "5 SP600 LPSymbol Weight: 4"
   },
   {
     "Name": "Perfect Tension",
     "Description EN": "Fills the Over Limit gauge to Lv. 4 with a 96-hit combo.Duration of the Over Limit only lasts half the normal time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "9 SP700 LPSymbol Weight: 7"
+    "Info": "9 SP700 LPSymbol Weight: 7"
   },
   {
     "Name": "High Fatal Tension",
     "Description EN": "Enter Over Limit Lv. 1 when an FS is used in an FS chain of 4 or higher.Duration of the Over Limit only lasts half the normal time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "5 SP400 LPSymbol Weight: 4"
+    "Info": "5 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "Hyper Fatal Tension",
     "Description EN": "Enter Over Limit Lv. 2 when an FS is used in an FS chain of 7 or higher.Duration of the Over Limit only lasts half the normal time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "7 SP600 LPSymbol Weight: 6"
+    "Info": "7 SP600 LPSymbol Weight: 6"
   },
   {
     "Name": "High Magic Tension",
     "Description EN": "Fills the Over Limit gauge to Lv. 1 with a 48-hit combo using only spells.Duration of the Over Limit only lasts half the normal time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "6 SP400 LPSymbol Weight: 4"
+    "Info": "6 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "Hyper Magic Tension",
     "Description EN": "Fills the Over Limit gauge to Lv. 2 with a 96-hit combo using only spells.Duration of the Over Limit only lasts half the normal time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "8 SP600 LPSymbol Weight: 6"
+    "Info": "8 SP600 LPSymbol Weight: 6"
   },
   {
     "Name": "High Aerial Tension",
     "Description EN": "Fills the Over Limit gauge to Lv. 1 with a 16-hit combo in mid-air.Duration of the Over Limit only lasts half the normal time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "10 SP500 LPSymbol Weight: 5"
+    "Info": "10 SP500 LPSymbol Weight: 5"
   },
   {
     "Name": "Hyper Aerial Tension",
     "Description EN": "Fills the Over Limit gauge to Lv. 2 with a 24-hit combo in mid-air.Duration of the Over Limit only lasts half the normal time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "12 SP600 LPSymbol Weight: 6"
+    "Info": "12 SP600 LPSymbol Weight: 6"
   },
   {
     "Name": "Cross Counter",
     "Description EN": "Damage increases when an attack hits anattacking enemy.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "3 SP200 LPSymbol Weight: 3"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "3 SP200 LPSymbol Weight: 3"
   },
   {
     "Name": "Safe Bet",
     "Description EN": "Neither the worst nor the best effects will occur when usingartes with random effects.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "6 SP300 LPSymbol Weight: 4"
+    "Info": "6 SP300 LPSymbol Weight: 4"
   },
   {
     "Name": "Gambler's Soul",
     "Description EN": "Increases the chance of activating both the best and the worsteffects for artes with random effects.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "8 SP300 LPSymbol Weight: 4"
+    "Info": "8 SP300 LPSymbol Weight: 4"
   },
   {
     "Name": "Critical Hitter",
     "Description EN": "Drastically increases the likelihood of entering Critical Formwhen using Form Change.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "22 SP1000 LPSymbol Weight: 4"
+    "Info": "22 SP1000 LPSymbol Weight: 4"
   },
   {
     "Name": "Reflect",
     "Description EN": "Reflects a certain amount of damagefrom an attack.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "5 SP300 LPSymbol Weight: 3"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "5 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "FS Bonus",
     "Description EN": "Recovers HP every time a Fatal Strikehits an enemy.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "7 SP300 LPSymbol Weight: 4"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "7 SP300 LPSymbol Weight: 4"
   },
   {
     "Name": "FS Bonus 2",
     "Description EN": "Recovers TP every time a Fatal Strikehits an enemy.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "9 SP400 LPSymbol Weight: 5"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "9 SP400 LPSymbol Weight: 5"
   },
   {
     "Name": "Fatal Exceed",
     "Description EN": "Increases damage dealt by a Fatal Strike toenemies that do not die from it.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "6 SP500 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "6 SP500 LPSymbol Weight: 2"
   },
   {
     "Name": "Hunter's Fang",
     "Description EN": "Increases the bonus for a green Fatal Strike attack.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "6 SP100 LPSymbol Weight: 6"
+    "Info": "6 SP100 LPSymbol Weight: 6"
   },
   {
     "Name": "BA Force",
     "Description EN": "Increases the effectiveness of Burst Artesattacks.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "9 SP400 LPSymbol Weight: 3"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "9 SP400 LPSymbol Weight: 3"
   },
   {
     "Name": "Burst Hold",
     "Description EN": "Over Limit will not end while using a burstarte.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "9 SP500 LPSymbol Weight: 5"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "9 SP500 LPSymbol Weight: 5"
   },
   {
     "Name": "Lucky Limit",
     "Description EN": "Occasionally fills the Over Limit gaugeafter a burst or mystic arte.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "6 SP300 LPSymbol Weight: 18"
+    "Info": "6 SP300 LPSymbol Weight: 18"
   },
   {
     "Name": "Limit Fever",
     "Description EN": "Occasionally restarts Over Limit after itends.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "15 SP600 LPSymbol Weight: 4"
+    "Info": "15 SP600 LPSymbol Weight: 4"
   },
   {
     "Name": "Special",
     "Description EN": "Trigger a mystic arte with Over Limit Lv. 3 or above.Hold  after an arcane arte or above.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "5 SP500 LPSymbol Weight: 5"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "5 SP500 LPSymbol Weight: 5"
   },
   {
     "Name": "Hit Plus",
     "Description EN": "Tap  repeatedly during a mystic arteto add hits to the attack.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "3 SP500 LPSymbol Weight: 3"
+    "Info": "3 SP500 LPSymbol Weight: 3"
   },
   {
     "Name": "Team Work",
     "Description EN": "After using a Mystic Arte, all party memberswill become Super Armed for 5 seconds.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "14 SP600 LPSymbol Weight: 6"
+    "Info": "14 SP600 LPSymbol Weight: 6"
   },
   {
     "Name": "HP Condition",
     "Description EN": "Increases physical attacks slightly whenHP is more than 75% of the max amount.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "8 SP200 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Info": "8 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "HP Condition 2",
     "Description EN": "Increases physical attacks whenHP is less than 25% of the max amount.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "10 SP300 LPSymbol Weight: 3"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Info": "10 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "HP Condition 3",
     "Description EN": "Increases spell attacks slightly whenHP is more than 75% of the max amount.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "8 SP200 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "8 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "HP Condition 4",
     "Description EN": "Increases spell attacks whenHP is less than 25% of the max amount.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "10 SP300 LPSymbol Weight: 3"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "10 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "One Man Show",
     "Description EN": "Defeat all enemies single-handedly toreceive extra EXP.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Arte Smash",
     "Description EN": "Increases Over Limit gauge when an enemy isdefeated with a base, arcane, or altered arte.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "6 SP400 LPSymbol Weight: 4"
+    "Info": "6 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "Magic Smash",
     "Description EN": "Increases Over Limit gauge when an enemyis defeated with magic.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "5 SP400 LPSymbol Weight: 4"
+    "Info": "5 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "Burst Smash",
     "Description EN": "Increases Over Limit gauge when an enemyis defeated with a burst arte.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "8 SP500 LPSymbol Weight: 6"
+    "Info": "8 SP500 LPSymbol Weight: 6"
   },
   {
     "Name": "Fighting Lens",
     "Description EN": "Automatically use a Magic Lens when Patty defeats an enemynot already registered in the Monster Book.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "4 SP400 LPSymbol Weight: 4"
+    "Info": "4 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "Half Damage",
     "Description EN": "Damage inflicted will be reduced to 1/2.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "1 SP100 LPSymbol Weight: 1"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "1 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Quarter Damage",
     "Description EN": "Damage inflicted will be reduced to 1/4.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "1 SP100 LPSymbol Weight: 1"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "1 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Minimum Damage",
     "Description EN": "Damage inflicted will be reduced to 1.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "1 SP100 LPSymbol Weight: 1"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "1 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Chain",
     "Description EN": "Changes an arte. Can be learnedif used repeatedly.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "4 SP300 LPSymbol Weight: 3"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "4 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Hell Fire",
     "Description EN": "Changes an arte. Can be learnedif used repeatedly.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-0.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "4 SP300 LPSymbol Weight: 3"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "4 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Defend",
     "Description EN": "Increases physical defense by 5%. Increase due to equipment not affected.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "2 SP100 LPSymbol Weight: 1"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "2 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Defend 2",
     "Description EN": "Increases physical defense by 10%. Increase due to equipment not affected.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "4 SP200 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "4 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Defend 3",
     "Description EN": "Increases physical defense by 15%.Increase due to equipment not affected.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "6 SP300 LPSymbol Weight: 3"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "6 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Defend 4",
     "Description EN": "Increases physical defense by 20%.Increase due to equipment not affected.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "8 SP400 LPSymbol Weight: 3"
+    "Info": "8 SP400 LPSymbol Weight: 3"
   },
   {
     "Name": "Defend T",
     "Description EN": "Increases physical defense by 25% only whenHP is over 75%. Increase due to equipment not affected.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "7 SP100 LPSymbol Weight: 3"
+    "Info": "7 SP100 LPSymbol Weight: 3"
   },
   {
     "Name": "Resist",
     "Description EN": "Increases magic defense by 5%. Increase due to equipment not affected.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "2 SP100 LPSymbol Weight: 1"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "2 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Resist 2",
     "Description EN": "Increases magic defense by 10%.Increase due to equipment not affected.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "4 SP200 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "4 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Resist 3",
     "Description EN": "Increases magic defense by 15%.Increase due to equipment not affected.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "6 SP300 LPSymbol Weight: 3"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "6 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Resist 4",
     "Description EN": "Increases magic defense by 20%.Increase due to equipment not affected.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "8 SP400 LPSymbol Weight: 3"
+    "Info": "8 SP400 LPSymbol Weight: 3"
   },
   {
     "Name": "Resist T",
     "Description EN": "Increases magic defense by 25% only when HP is over 75%. Increase due to equipment not affected.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "7 SP100 LPSymbol Weight: 3"
+    "Info": "7 SP100 LPSymbol Weight: 3"
   },
   {
     "Name": "Critical Guard",
     "Description EN": "Press  +  to guard while advancing.Nullifies enemy attacks if performed at the correct time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "3 SP100 LPSymbol Weight: 1"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "3 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Guard Impact",
     "Description EN": "Stuns and reflects enemy attacks for a shortperiod with the success of a Critical Guard.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "5 SP100 LPSymbol Weight: 1"
+    "Info": "5 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Magic Guard",
     "Description EN": "Press  +  to decrease magic damagetaken. Effective only while button is held down.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "4 SP200 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "4 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Aerial Guard",
     "Description EN": "Able to guard in mid-air.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "6 SP300 LPSymbol Weight: 6"
+    "Info": "6 SP300 LPSymbol Weight: 6"
   },
   {
     "Name": "Aerial Magic Guard",
     "Description EN": "Able to use Magic Guard in mid-air.Stays in mid-air during the effect.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "7 SP100 LPSymbol Weight: 2"
+    "Info": "7 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Guard Plus",
     "Description EN": "Decreases the amount of damage takenwhile guarding.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "2 SP100 LPSymbol Weight: 1"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "2 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Guard Plus 2",
     "Description EN": "Decreases the amount of damage takenfrom the side or rear.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "4 SP200 LPSymbol Weight: 2"
+    "Info": "4 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Magic Guard Plus",
     "Description EN": "Reduces damage received while using Magic Guard.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "4 SP300 LPSymbol Weight: 3"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "4 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Guard Reflect",
     "Description EN": "Reflects 1/5 of the damage taken during guard.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "4 SP300 LPSymbol Weight: 5"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "4 SP300 LPSymbol Weight: 5"
   },
   {
     "Name": "Guard Artes",
     "Description EN": "Cancels guard motion and performs an arte.Invincible to attacks for a short period of time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "7 SP300 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "7 SP300 LPSymbol Weight: 2"
   },
   {
     "Name": "Guard Artes 2",
     "Description EN": "Recovers HP and TP when a Guard Artesskill hits an enemy.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "5 SP500 LPSymbol Weight: 4"
+    "Info": "5 SP500 LPSymbol Weight: 4"
   },
   {
     "Name": "Extend Guard",
     "Description EN": "Gradually recovers HP during guard.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "6 SP200 LPSymbol Weight: 2"
+    "Info": "6 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Guard Supply",
     "Description EN": "Recovers TP if guarded from enemy attacks.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "10 SP400 LPSymbol Weight: 3"
+    "Info": "10 SP400 LPSymbol Weight: 3"
   },
   {
     "Name": "Roll",
     "Description EN": "Decreases damage taken by halfwhen staggering.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "2 SP100 LPSymbol Weight: 1"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "2 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Revenge Arrow",
     "Description EN": "Release an arrow as  is pressed while staggering.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "8 SP100 LPSymbol Weight: 3"
+    "Info": "8 SP100 LPSymbol Weight: 3"
   },
   {
     "Name": "Anti Element",
     "Description EN": "Occasionally decreases damage froman elemental attack by half.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "3 SP100 LPSymbol Weight: 1"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "3 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Anti Break",
     "Description EN": "Reduces the chance of Guard Break.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "6 SP200 LPSymbol Weight: 2"
+    "Info": "6 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Super Guard",
     "Description EN": "Reduce physical damage to 1 when guarding.Damage doubles if not guarding.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "8 SP300 LPSymbol Weight: 2"
+    "Info": "8 SP300 LPSymbol Weight: 2"
   },
   {
     "Name": "Super Resist",
     "Description EN": "Reduce magic damage to 1 when guarding.Damage doubles if not guarding.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "9 SP300 LPSymbol Weight: 2"
+    "Info": "9 SP300 LPSymbol Weight: 2"
   },
   {
     "Name": "Guarding Skill",
     "Description EN": "Reduces the chance of Guard Break even when continuingto guard.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "6 SP400 LPSymbol Weight: 4"
+    "Info": "6 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "Steel Defense",
     "Description EN": "Reduce damage received to 10% when near K.O.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "8 SP200 LPSymbol Weight: 4"
+    "Info": "8 SP200 LPSymbol Weight: 4"
   },
   {
     "Name": "Status Guard",
     "Description EN": "Reduces the effect of magical ailments.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Condition Guard",
     "Description EN": "Reduces the effects of certain physical ailments.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Immunity",
     "Description EN": "Reduces the chance of receiving status effects.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Lion Heart",
     "Description EN": "Greatly increases resistance for all negativestatus effects.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "6 SP400 LPSymbol Weight: 4"
+    "Info": "6 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "Cure Area",
     "Description EN": "Allies near Flynn automatically recoversfrom status effects occasionally.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "9 SP300 LPSymbol Weight: 3"
+    "Info": "9 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Cure Guard",
     "Description EN": "Recovers physical ailments by stayingin a guard position for a short period.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "8 SP300 LPSymbol Weight: 2"
+    "Info": "8 SP300 LPSymbol Weight: 2"
   },
   {
     "Name": "Guarding Cast",
     "Description EN": "Reduces the chance of staggering when casting a spell.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "10 SP400 LPSymbol Weight: 5"
+    "Info": "10 SP400 LPSymbol Weight: 5"
   },
   {
     "Name": "Endure",
     "Description EN": "Decreases the amount of time needed to recoverfrom a stagger hit.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "3 SP100 LPSymbol Weight: 1"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "3 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Void Attack",
     "Description EN": "Occasionally prevents staggeringwhen receiving a physical attack.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Void Magic",
     "Description EN": "Occasionally prevents staggeringwhen receiving a magic attack.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Step Away",
     "Description EN": "Avoid staggering when hit during Backstep.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "3 SP200 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "3 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Escape Step",
     "Description EN": "Nullifies all attacks during Backstep.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "15 SP100 LPSymbol Weight: 3"
+    "Info": "15 SP100 LPSymbol Weight: 3"
   },
   {
     "Name": "Guard All",
     "Description EN": "Occasionally auto-guard against attacks from the rear.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "7 SP300 LPSymbol Weight: 3"
+    "Info": "7 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Guard All 2",
     "Description EN": "Gain ability to use Magic Guard to block both physical andmagic damage from enemies.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "13 SP700 LPSymbol Weight: 7"
+    "Info": "13 SP700 LPSymbol Weight: 7"
   },
   {
     "Name": "Absorption",
     "Description EN": "Nullifies a spell attack when casting a spellof the same attribute.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "9 SP400 LPSymbol Weight: 4"
+    "Info": "9 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "Defend Artes",
     "Description EN": "Avoid staggering when hit during a base arte combo.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "8 SP500 LPSymbol Weight: 10"
+    "Info": "8 SP500 LPSymbol Weight: 10"
   },
   {
     "Name": "Defend Artes Advance",
     "Description EN": "Avoid staggering when hit during a base artecombo in Advance or Critical Form.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "7 SP300 LPSymbol Weight: 4"
+    "Info": "7 SP300 LPSymbol Weight: 4"
   },
   {
     "Name": "Burst Guard",
     "Description EN": "Reduces the chance of staggering during burstartes.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "8 SP500 LPSymbol Weight: 5"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "8 SP500 LPSymbol Weight: 5"
   },
   {
     "Name": "Recovering Guard",
     "Description EN": "Reduces the chance of staggering when usingRecover.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "6 SP400 LPSymbol Weight: 6"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "6 SP400 LPSymbol Weight: 6"
   },
   {
     "Name": "Resilience",
     "Description EN": "Avoid staggering while casting a spell.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "26 SP1400 LPSymbol Weight: 7"
+    "Info": "26 SP1400 LPSymbol Weight: 7"
   },
   {
     "Name": "Brainiac Grace",
     "Description EN": "Avoid staggering while casting a spell in Brainiacor Critical Form.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "24 SP800 LPSymbol Weight: 4"
+    "Info": "24 SP800 LPSymbol Weight: 4"
   },
   {
     "Name": "Anti Magic",
     "Description EN": "Resist all magic effects. Recover, attack andenhance magic are all nullified.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "9 SP300 LPSymbol Weight: 2"
+    "Info": "9 SP300 LPSymbol Weight: 2"
   },
   {
     "Name": "Perfect Magic",
     "Description EN": "Consumes TP gradually while all enemyspells are nullified.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "16 SP700 LPSymbol Weight: 7"
+    "Info": "16 SP700 LPSymbol Weight: 7"
   },
   {
     "Name": "Aerial Armor",
     "Description EN": "Avoids staggering when hit while jumping.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "28 SP600 LPSymbol Weight: 12"
+    "Info": "28 SP600 LPSymbol Weight: 12"
   },
   {
     "Name": "Mobile Armor",
     "Description EN": "Avoid staggering when hit during Free Run.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "24 SP600 LPSymbol Weight: 30"
+    "Info": "24 SP600 LPSymbol Weight: 30"
   },
   {
     "Name": "Glory",
     "Description EN": "Avoid staggering for any kind of attacks.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "30 SP1600 LPSymbol Weight: 21"
+    "Info": "30 SP1600 LPSymbol Weight: 21"
   },
   {
     "Name": "Escape Jump",
     "Description EN": "Able to jump when cancelling guard.Becomes invincible for a short time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "5 SP100 LPSymbol Weight: 2"
+    "Info": "5 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "TP Condition",
     "Description EN": "Increases physical defense slightlywhen TP is more than 75% of the max amount.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "TP Condition 2",
     "Description EN": "Increases physical defense when TP isless than 25% of the max amount.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "3 SP300 LPSymbol Weight: 3"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "3 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "TP Condition 3",
     "Description EN": "Increases magic defense slightlywhen TP is more than 75% of the max amount.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "TP Condition 4",
     "Description EN": "Increases magic defense when TP isless than 25% of the max amount.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "3 SP300 LPSymbol Weight: 3"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "3 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Guardian",
     "Description EN": "Reduces damage taken by allies when theyare guarding.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "6 SP400 LPSymbol Weight: 3"
+    "Info": "6 SP400 LPSymbol Weight: 3"
   },
   {
     "Name": "Survive",
     "Description EN": "Cannot be KO’ed by any attacks while guarding.HP will always be at 1 while guarding.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "18 SP500 LPSymbol Weight: 4"
+    "Info": "18 SP500 LPSymbol Weight: 4"
   },
   {
     "Name": "Break Down",
     "Description EN": "Hit a stunned enemy to extend Stun once.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "10 SP200 LPSymbol Weight: 4"
+    "Info": "10 SP200 LPSymbol Weight: 4"
   },
   {
     "Name": "Down Hit",
     "Description EN": "Inflicts 1.2 times more damage when attackingan enemy that has been knocked down.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "9 SP100 LPSymbol Weight: 2"
+    "Info": "9 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Heavy Weight",
     "Description EN": "Body becomes heavy to prevent staggering.It also decreases speed.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "5 SP200 LPSymbol Weight: 4"
+    "Info": "5 SP200 LPSymbol Weight: 4"
   },
   {
     "Name": "Healing Arte Charge",
     "Description EN": "Able to use charge attacks for healing artesonly when Mighty Charge is set.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "7 SP500 LPSymbol Weight: 10"
+    "Info": "7 SP500 LPSymbol Weight: 10"
   },
   {
     "Name": "Elemental Effect",
     "Description EN": "Weather and climate will have a greatereffect on spells.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "3 SP200 LPSymbol Weight: 4"
+    "Info": "3 SP200 LPSymbol Weight: 4"
   },
   {
     "Name": "Heavy Arrow",
     "Description EN": "Increases the effect of an arrow attack while the interval decreases. Limited to normal attacks.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "10 SP200 LPSymbol Weight: 6"
+    "Info": "10 SP200 LPSymbol Weight: 6"
   },
   {
     "Name": "Power Shot",
     "Description EN": "Increases enemy staggering time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "14 SP300 LPSymbol Weight: 9"
+    "Info": "14 SP300 LPSymbol Weight: 9"
   },
   {
     "Name": "Heavy Energy",
     "Description EN": "Raises physical defense whena heavy bow is equipped.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "3 SP100 LPSymbol Weight: 3"
+    "Info": "3 SP100 LPSymbol Weight: 3"
   },
   {
     "Name": "Spear Master",
     "Description EN": "Increases magic defense whena spear is equipped.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "6 SP200 LPSymbol Weight: 4"
+    "Info": "6 SP200 LPSymbol Weight: 4"
   },
   {
     "Name": "Rod Master",
     "Description EN": "Increases physical defense whena rod is equipped.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "6 SP200 LPSymbol Weight: 4"
+    "Info": "6 SP200 LPSymbol Weight: 4"
   },
   {
     "Name": "OVL Concentrate",
     "Description EN": "Cannot be stunned during Over Limit.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "10 SP500 LPSymbol Weight: 5"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "10 SP500 LPSymbol Weight: 5"
   },
   {
     "Name": "Hyper Guard",
     "Description EN": "Enter Over Limit Lv. 1 once when guarding against a physical attack.Duration of the Over Limit only lasts half the normal time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "7 SP600 LPSymbol Weight: 4"
+    "Info": "7 SP600 LPSymbol Weight: 4"
   },
   {
     "Name": "Hyper Magic Guard",
     "Description EN": "Enter Over Limit Lv. 1 once when guarding against a magic attack.Duration of the Over Limit only lasts half the normal time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "5 SP400 LPSymbol Weight: 4"
+    "Info": "5 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "Shield",
     "Description EN": "Occasionally nullifies a physical attack.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "8 SP300 LPSymbol Weight: 3"
+    "Info": "8 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Magic Shield",
     "Description EN": "Occasionally nullifies a spell attack.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "8 SP300 LPSymbol Weight: 3"
+    "Info": "8 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Devotion",
     "Description EN": "Receive half the damage of a nearby ally during battle.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "3 SP100 LPSymbol Weight: 1"
+    "Info": "3 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Energy Coat",
     "Description EN": "Reduces damage of a physical attack.Consumes TP for every hit received.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "15 SP500 LPSymbol Weight: 5"
+    "Info": "15 SP500 LPSymbol Weight: 5"
   },
   {
     "Name": "Crucible",
     "Description EN": "Changes an arte. Arte can be learned if used repeatedly.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "4 SP300 LPSymbol Weight: 3"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "4 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Athenor",
     "Description EN": "Changes an arte. Arte can be learned if used repeatedly.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-1.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "4 SP300 LPSymbol Weight: 3"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "4 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Evade",
     "Description EN": "Increases agility by 5%.Increase due to equipment not affected.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "2 SP100 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "2 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Evade 2",
     "Description EN": "Increases agility by 10%.Increase due to equipment not affected.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "4 SP200 LPSymbol Weight: 4"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "4 SP200 LPSymbol Weight: 4"
   },
   {
     "Name": "Evade 3",
     "Description EN": "Increases agility by 15%.Increase due to equipment not affected.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "6 SP300 LPSymbol Weight: 6"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "6 SP300 LPSymbol Weight: 6"
   },
   {
     "Name": "Evade 4",
     "Description EN": "Increases agility by 20%.Increase due to equipment not affected.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "8 SP400 LPSymbol Weight: 3"
+    "Info": "8 SP400 LPSymbol Weight: 3"
   },
   {
     "Name": "Just Soul",
     "Description EN": "Temporarily increases physical and magic defense when afflictedwith status effects.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "6 SP700 LPSymbol Weight: 5"
+    "Info": "6 SP700 LPSymbol Weight: 5"
   },
   {
     "Name": "Item Thrower",
     "Description EN": "Able to use items on an ally.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "7 SP300 LPSymbol Weight: 3"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "7 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Item Pro",
     "Description EN": "Decreases the amount of time character is unableto move after using items.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "3 SP100 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "3 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Item Pro 2",
     "Description EN": "Allows character to move immediately after using an item.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "6 SP500 LPSymbol Weight: 4"
+    "Info": "6 SP500 LPSymbol Weight: 4"
   },
   {
     "Name": "Speedy Item",
     "Description EN": "Items can be used immediately in a rowwithout cooldown time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "16 SP500 LPSymbol Weight: 3"
+    "Info": "16 SP500 LPSymbol Weight: 3"
   },
   {
     "Name": "In Step",
     "Description EN": "Increases the advancing distance duringa Critical Guard.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "5 SP100 LPSymbol Weight: 2"
+    "Info": "5 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Backstep",
     "Description EN": "Press  +  to Backstep.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "3 SP100 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "3 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Landing Step",
     "Description EN": "Able to cancel action with a Backstep uponlanding. Can also Backstep repeatedly.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "5 SP300 LPSymbol Weight: 3"
+    "Info": "5 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Long Step",
     "Description EN": "Increases the Backstep distance.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "4 SP100 LPSymbol Weight: 2"
+    "Info": "4 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Step Cancel",
     "Description EN": "Able to cancel actions with Backstep.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "12 SP100 LPSymbol Weight: 2"
+    "Info": "12 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Step Cancel F",
     "Description EN": "Allows the delay after Form Change to be canceledwith Backstep.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "3 SP100 LPSymbol Weight: 2"
+    "Info": "3 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Recover",
     "Description EN": "While staggering, prevent being knockeddown by a hit with the guard button.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "3 SP100 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "3 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Recovery Artes",
     "Description EN": "Able to move in mid-air after Recover.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "8 SP100 LPSymbol Weight: 2"
+    "Info": "8 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Form Selection",
     "Description EN": "Gain ability to select form when using Form Change.Press  for Advance,  for Brainiac, and  for Normal.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "5 SP700 LPSymbol Weight: 4"
+    "Info": "5 SP700 LPSymbol Weight: 4"
   },
   {
     "Name": "Form Hold",
     "Description EN": "Begin the next battle with the previously used formwhen Patty delivers the finishing blow.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "5 SP700 LPSymbol Weight: 4"
+    "Info": "5 SP700 LPSymbol Weight: 4"
   },
   {
     "Name": "Dash",
     "Description EN": "Increases moving speed during battle.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "3 SP100 LPSymbol Weight: 1"
+    "Info": "3 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Dash Cancel",
     "Description EN": "Able to cancel actions with free run.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "12 SP400 LPSymbol Weight: 3"
+    "Info": "12 SP400 LPSymbol Weight: 3"
   },
   {
     "Name": "Quick Turn",
     "Description EN": "Able to turn around instantly even when dashing.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "8 SP200 LPSymbol Weight: 2"
+    "Info": "8 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Runners",
     "Description EN": "Recovers HP gradually during free run.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "7 SP300 LPSymbol Weight: 3"
+    "Info": "7 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Runners 2",
     "Description EN": "Recovers TP gradually during free run.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "9 SP400 LPSymbol Weight: 3"
+    "Info": "9 SP400 LPSymbol Weight: 3"
   },
   {
     "Name": "Run",
     "Description EN": "Decreases the amount of time needed to escape.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "8 SP100 LPSymbol Weight: 3"
+    "Info": "8 SP100 LPSymbol Weight: 3"
   },
   {
     "Name": "Aerial Jump",
     "Description EN": "Able to add a jump in mid-air.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "5 SP400 LPSymbol Weight: 5"
+    "Info": "5 SP400 LPSymbol Weight: 5"
   },
   {
     "Name": "Aerial Jump 2",
     "Description EN": "Able to add 2 more jumps in mid-air.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "6 SP500 LPSymbol Weight: 6"
+    "Info": "6 SP500 LPSymbol Weight: 6"
   },
   {
     "Name": "Jump Cancel",
     "Description EN": "Able to cancel actions with a jump.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "6 SP100 LPSymbol Weight: 2"
+    "Info": "6 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Aerial OVL",
     "Description EN": "Able to use Over Limits in mid-air.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "5 SP200 LPSymbol Weight: 3"
+    "Info": "5 SP200 LPSymbol Weight: 3"
   },
   {
     "Name": "Aerial Step",
     "Description EN": "While in mid-air, press  + to back dash once.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "6 SP200 LPSymbol Weight: 3"
+    "Info": "6 SP200 LPSymbol Weight: 3"
   },
   {
     "Name": "Aerial Dash",
     "Description EN": "While in mid-air, press  + to dash once.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "6 SP100 LPSymbol Weight: 2"
+    "Info": "6 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Touch Down",
     "Description EN": "Press  to land immediately whilein mid-air.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "7 SP300 LPSymbol Weight: 4"
+    "Info": "7 SP300 LPSymbol Weight: 4"
   },
   {
     "Name": "Landing",
     "Description EN": "Reduces the amount of time character isunable to move after landing.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "8 SP100 LPSymbol Weight: 2"
+    "Info": "8 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Levitation",
     "Description EN": "Press  to fly during a jump. Use  or while moving to rise or fall and  to land.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "12 SP100 LPSymbol Weight: 1"
+    "Info": "12 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Combo Force",
     "Description EN": "Mitigates damage from a basic combo attack.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "6 SP100 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "6 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Extra Combo I",
     "Description EN": "Press  at just the right time at the end ofa combo to inflict an extra hit on the enemy.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "10 SP400 LPSymbol Weight: 4"
+    "Info": "10 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "Extra Combo II",
     "Description EN": "Press  at just the right time at the end of Extra Combo I to inflict another hit on your enemy.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "12 SP500 LPSymbol Weight: 5"
+    "Info": "12 SP500 LPSymbol Weight: 5"
   },
   {
     "Name": "Extra Combo III",
     "Description EN": "Press  at just the right time at the end of Extra Combo II to inflict another hit on your enemy.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "14 SP600 LPSymbol Weight: 6"
+    "Info": "14 SP600 LPSymbol Weight: 6"
   },
   {
     "Name": "Aerial Combo",
     "Description EN": "Adds 1 more hit to an aerial attack.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "7 SP500 LPSymbol Weight: 6"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "7 SP500 LPSymbol Weight: 6"
   },
   {
     "Name": "Aerial Combo 2",
     "Description EN": "Adds 2 more hits to an aerial attack.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "10 SP800 LPSymbol Weight: 6"
+    "Info": "10 SP800 LPSymbol Weight: 6"
   },
   {
     "Name": "Aerial Combo 3",
     "Description EN": "Adds 3 more hits to an aerial attack.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "24 SP1000 LPSymbol Weight: 7"
+    "Info": "24 SP1000 LPSymbol Weight: 7"
   },
   {
     "Name": "Quick Arrow",
     "Description EN": "Shortens the amount of time needed tofire an arrow for normal attacks. But power decreases.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "11 SP200 LPSymbol Weight: 4"
+    "Info": "11 SP200 LPSymbol Weight: 4"
   },
   {
     "Name": "Long Range",
     "Description EN": "Extends the attack range for bow & arrows.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "10 SP100 LPSymbol Weight: 2"
+    "Info": "10 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Headhunter",
     "Description EN": "Drastically increases the chance of stunning an airborneenemy when hitting it with an arrow.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "8 SP400 LPSymbol Weight: 5"
+    "Info": "8 SP400 LPSymbol Weight: 5"
   },
   {
     "Name": "Magic Combo",
     "Description EN": "No casting time required when casting an altered arte immediately following the base spell.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "10 SP700 LPSymbol Weight: 5"
+    "Info": "10 SP700 LPSymbol Weight: 5"
   },
   {
     "Name": "Liner Shot",
     "Description EN": "Basic attack will change to small energy shots.Capable of ranged attacks.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "8 SP100 LPSymbol Weight: 1"
+    "Info": "8 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Spell Charge",
     "Description EN": "Hold  after casting a novice spellto move freely while delaying the spell.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "9 SP400 LPSymbol Weight: 3"
+    "Info": "9 SP400 LPSymbol Weight: 3"
   },
   {
     "Name": "Spell Charge 2",
     "Description EN": "Hold  after casting an intermediatespell to move freely while delaying the spell.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "12 SP500 LPSymbol Weight: 3"
+    "Info": "12 SP500 LPSymbol Weight: 3"
   },
   {
     "Name": "Spell Charge 3",
     "Description EN": "Hold  after casting an advanced spellto move freely while delaying the spell.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "15 SP600 LPSymbol Weight: 4"
+    "Info": "15 SP600 LPSymbol Weight: 4"
   },
   {
     "Name": "Rhythm",
     "Description EN": "Tap  repeatedly while casting spells to shorten casting time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "4 SP100 LPSymbol Weight: 1"
+    "Info": "4 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Randomize",
     "Description EN": "Casting time of novice/intermediate spells willbe zero or doubled.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "5 SP500 LPSymbol Weight: 4"
+    "Info": "5 SP500 LPSymbol Weight: 4"
   },
   {
     "Name": "Recast",
     "Description EN": "Resume casting the same spell if the spellwas interrupted.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "8 SP200 LPSymbol Weight: 2"
+    "Info": "8 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Overheat",
     "Description EN": "No casting time, with 1/8 th TP consumption for novicespells only when HP is below 120 and TP is over 60.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "4 SP400 LPSymbol Weight: 3"
+    "Info": "4 SP400 LPSymbol Weight: 3"
   },
   {
     "Name": "Speed Cast",
     "Description EN": "Decreases spell casting time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "9 SP400 LPSymbol Weight: 3"
+    "Info": "9 SP400 LPSymbol Weight: 3"
   },
   {
     "Name": "Brainiac Speed Cast",
     "Description EN": "Decreases spell casting time in Brainiacor Critical Form.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "9 SP400 LPSymbol Weight: 4"
+    "Info": "9 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "Lucky End",
     "Description EN": "Occasionally allows player to moveright after casting a spell.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "5 SP100 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png",
+    "Info": "5 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Spell End",
     "Description EN": "Able to move immediately after casting a spell.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "4 SP600 LPSymbol Weight: 4"
+    "Info": "4 SP600 LPSymbol Weight: 4"
   },
   {
     "Name": "Pow Hammer Revenge",
     "Description EN": "Occasionally counter with Pow Hammerwhen attacked.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "8 SP200 LPSymbol Weight: 4"
+    "Info": "8 SP200 LPSymbol Weight: 4"
   },
   {
     "Name": "Revenge Spell",
     "Description EN": "No casting time if a novice spell is usedwhile staggering.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "8 SP300 LPSymbol Weight: 3"
+    "Info": "8 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Super Chain 4",
     "Description EN": "Able to link base and altered artes.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "8 SP600 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "8 SP600 LPSymbol Weight: 2"
   },
   {
     "Name": "Super Chain 5",
     "Description EN": "Able to link altered and arcane artes.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "10 SP600 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "10 SP600 LPSymbol Weight: 2"
   },
   {
     "Name": "Combo Magic",
     "Description EN": "Able to link novice spells and base artes.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "5 SP300 LPSymbol Weight: 3"
+    "Info": "5 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Combo Magic 2",
     "Description EN": "Able to link intermediate spells with altered and arcane artes.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "7 SP500 LPSymbol Weight: 5"
+    "Info": "7 SP500 LPSymbol Weight: 5"
   },
   {
     "Name": "Brainiac Combo Magic",
     "Description EN": "Able to link novice spells and base artes in Brainiacor Critical Form.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "4 SP400 LPSymbol Weight: 4"
+    "Info": "4 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "Brainiac Combo Magic 2",
     "Description EN": "Able to link advanced spells with altered and arcane artesin Brainiac or Critical Form.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "6 SP300 LPSymbol Weight: 4"
+    "Info": "6 SP300 LPSymbol Weight: 4"
   },
   {
     "Name": "Super Chain",
     "Description EN": "Able to link arcane and base artes.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "8 SP300 LPSymbol Weight: 2"
+    "Info": "8 SP300 LPSymbol Weight: 2"
   },
   {
     "Name": "Super Chain 2",
     "Description EN": "Able to link arcane and altered artes.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "12 SP600 LPSymbol Weight: 2"
+    "Info": "12 SP600 LPSymbol Weight: 2"
   },
   {
     "Name": "Super Chain 3",
     "Description EN": "Able to link altered and base artes.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "15 SP600 LPSymbol Weight: 2"
+    "Info": "15 SP600 LPSymbol Weight: 2"
   },
   {
     "Name": "Ability Plus",
     "Description EN": "Follow a base arte with a second basearte once per combo.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "12 SP800 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Info": "12 SP800 LPSymbol Weight: 2"
   },
   {
     "Name": "High Ability Plus",
     "Description EN": "Follow an altered arte with a second altered arte once per combo.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "13 SP900 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Info": "13 SP900 LPSymbol Weight: 2"
   },
   {
     "Name": "Hyper Ability Plus",
     "Description EN": "Follow an arcane arte with a second arcane arte once per combo.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "14 SP1000 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/FRE.png",
+    "Info": "14 SP1000 LPSymbol Weight: 2"
   },
   {
     "Name": "Aerial Ability Plus",
     "Description EN": "Follow a base arte with a second base arte once permid-air combo.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "8 SP700 LPSymbol Weight: 2"
+    "Info": "8 SP700 LPSymbol Weight: 2"
   },
   {
     "Name": "Aerial High Ability Plus",
     "Description EN": "Follow an altered arte with a second altered arte onceper mid-air combo.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "9 SP800 LPSymbol Weight: 2"
+    "Info": "9 SP800 LPSymbol Weight: 2"
   },
   {
     "Name": "Aerial Hyper Ability Plus",
     "Description EN": "Follow an arcane arte with a second arcane arte onceper mid-air combo.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "10 SP900 LPSymbol Weight: 2"
+    "Info": "10 SP900 LPSymbol Weight: 2"
   },
   {
     "Name": "Rallying Cast",
     "Description EN": "Healing artes require no casting time for a limited time afterrecovering from being knocked down.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "11 SP600 LPSymbol Weight: 6"
+    "Info": "11 SP600 LPSymbol Weight: 6"
   },
   {
     "Name": "O.L. Boost",
     "Description EN": "Increases the duration of Over Limit.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "9 SP400 LPSymbol Weight: 8"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "9 SP400 LPSymbol Weight: 8"
   },
   {
     "Name": "High Tension",
     "Description EN": "Increases rate at which Over Limit gauge fills.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "6 SP400 LPSymbol Weight: 8"
+    "Info": "6 SP400 LPSymbol Weight: 8"
   },
   {
     "Name": "High Taunt",
     "Description EN": "Occasionally enter Over Limit Lv. 1 after taunting.Duration of the Over Limit only lasts half the normal time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "8 SP400 LPSymbol Weight: 4"
+    "Info": "8 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "Taunt & Evade",
     "Description EN": "Taunt an enemy to avoid being targeted.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "6 SP100 LPSymbol Weight: 3"
+    "Info": "6 SP100 LPSymbol Weight: 3"
   },
   {
     "Name": "Taunt Gamble",
     "Description EN": "Taunt to raise or drop enemy status fora short time. There is a 50% chance of their status raising or falling.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "6 SP100 LPSymbol Weight: 3"
+    "Info": "6 SP100 LPSymbol Weight: 3"
   },
   {
     "Name": "Member Taunt",
     "Description EN": "Over Limit gauge fills more quickly whentaunting near an ally.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "8 SP200 LPSymbol Weight: 6"
+    "Info": "8 SP200 LPSymbol Weight: 6"
   },
   {
     "Name": "Double Appeal",
     "Description EN": "Taunt consecutively to fill Over Limit gaugemore quickly.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "3 SP100 LPSymbol Weight: 1"
+    "Info": "3 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Fatal Finish",
     "Description EN": "Recover full HP upon successfully completing aFatal Strike combo with a certain number of hits.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "4 SP200 LPSymbol Weight: 2"
+    "Info": "4 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Fatal Finish Plus",
     "Description EN": "Fully recovers HP and TP upon a successfulFatal Strike after a series of FS chains.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "5 SP300 LPSymbol Weight: 2"
+    "Info": "5 SP300 LPSymbol Weight: 2"
   },
   {
     "Name": "Speed Up",
     "Description EN": "Increases the speed of normal attacksduring Over Limit.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "12 SP300 LPSymbol Weight: 3"
+    "Info": "12 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Speed Up 2",
     "Description EN": "Increases the speed of arte attacksduring Over Limit.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "18 SP500 LPSymbol Weight: 5"
+    "Info": "18 SP500 LPSymbol Weight: 5"
   },
   {
     "Name": "High Mobility",
     "Description EN": "Enter Over Limit Lv. 1 once after running for a while.Duration of the Over Limit only lasts half the normal time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "8 SP700 LPSymbol Weight: 4"
+    "Info": "8 SP700 LPSymbol Weight: 4"
   },
   {
     "Name": "Link Slash",
     "Description EN": "Avoids entering a battle from a link encounter.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "6 SP100 LPSymbol Weight: 1"
+    "Info": "6 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Motion Change",
     "Description EN": "Changes standby and moving motion.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "5 SP100 LPSymbol Weight: 3"
+    "Info": "5 SP100 LPSymbol Weight: 3"
   },
   {
     "Name": "Play Dead",
     "Description EN": "Hold  while knocked down torecover your HP and TP.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "12 SP300 LPSymbol Weight: 9"
+    "Info": "12 SP300 LPSymbol Weight: 9"
   },
   {
     "Name": "Holy Breath",
     "Description EN": "Extends the amount of time Holy Bottle is in effect.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "3 SP100 LPSymbol Weight: 1"
+    "Info": "3 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Dark Breath",
     "Description EN": "Extends the amount of time Dark Bottle is in effect.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "3 SP100 LPSymbol Weight: 1"
+    "Info": "3 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Encounter Bonus",
     "Description EN": "Encounter an enemy symbol from the rear to occasionallyrecover the entire party's TP upon entering a battle.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "9 SP200 LPSymbol Weight: 2"
+    "Info": "9 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "OVL Boost Area",
     "Description EN": "The speed of the OVL gauge fills up accordingto the number of allies near Flynn during battle.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "S. Spell Area",
     "Description EN": "Decreases casting time when near Flynnduring battle.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "9 SP400 LPSymbol Weight: 4"
+    "Info": "9 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "Critical Upgrade",
     "Description EN": "Enter Critical Form after getting several jackpots fromusing artes with random effects.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "14 SP600 LPSymbol Weight: 4"
+    "Info": "14 SP600 LPSymbol Weight: 4"
   },
   {
     "Name": "Critical Upgrade 2",
     "Description EN": "Enter Critical Form after using a mystic arte.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "14 SP600 LPSymbol Weight: 4"
+    "Info": "14 SP600 LPSymbol Weight: 4"
   },
   {
     "Name": "High Form Change",
     "Description EN": "Enter Over Limit Lv. 1 when changing into Critical Form.Duration of the Over Limit only lasts half the normal time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "12 SP400 LPSymbol Weight: 4"
+    "Info": "12 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "Hyper Form Change",
     "Description EN": "Over Limit level increases by 1 when using Form Change duringOver Limit and entering Critical Form.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "18 SP500 LPSymbol Weight: 4"
+    "Info": "18 SP500 LPSymbol Weight: 4"
   },
   {
     "Name": "Advance Ability Plus",
     "Description EN": "Follow a base arte with a second base arte once per comboin Advance or Critical Form.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "9 SP500 LPSymbol Weight: 4"
+    "Info": "9 SP500 LPSymbol Weight: 4"
   },
   {
     "Name": "Brainiac Magic Combo",
     "Description EN": "No casting time required when casting an altered arte afterits original spell in Brainiac or Critical Form.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "7 SP600 LPSymbol Weight: 4"
+    "Info": "7 SP600 LPSymbol Weight: 4"
   },
   {
     "Name": "Brainiac Magic Selection",
     "Description EN": "Select offensive artes with  or healing/support spells with when using random spells in Brainiac or Critical Form.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "5 SP600 LPSymbol Weight: 4"
+    "Info": "5 SP600 LPSymbol Weight: 4"
   },
   {
     "Name": "OVL Gamble",
     "Description EN": "When activating Over Limit, occasionally enter Lv. 4 without depleting the gauge,or empty the entire gauge without entering Over Limit at all.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "10 SP500 LPSymbol Weight: 4"
+    "Info": "10 SP500 LPSymbol Weight: 4"
   },
   {
     "Name": "Female Company",
     "Description EN": "Increases physical and magic attack and defense when the battleparty is entirely female.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "5 SP300 LPSymbol Weight: 4"
+    "Info": "5 SP300 LPSymbol Weight: 4"
   },
   {
     "Name": "Kids' Association",
     "Description EN": "Increases the amount of Gald earned after battle when Karolis in the battle party.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "5 SP300 LPSymbol Weight: 4"
+    "Info": "5 SP300 LPSymbol Weight: 4"
   },
   {
     "Name": "Marksmen's Society",
     "Description EN": "Increases the rate at which the Over Limit gauge fills when Ravenis in the battle party.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "5 SP300 LPSymbol Weight: 4"
+    "Info": "5 SP300 LPSymbol Weight: 4"
   },
   {
     "Name": "Blonde Universe",
     "Description EN": "Increases resistance to status effects when Flynn is inthe battle party.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "5 SP300 LPSymbol Weight: 4"
+    "Info": "5 SP300 LPSymbol Weight: 4"
   },
   {
     "Name": "Dream Couple",
     "Description EN": "Decreases TP consumption when Yuri is in thebattle party.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "5 SP300 LPSymbol Weight: 4"
+    "Info": "5 SP300 LPSymbol Weight: 4"
   },
   {
     "Name": "Mascot Soul",
     "Description EN": "Increases item drop rate when Repede is in thebattle party.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "5 SP300 LPSymbol Weight: 4"
+    "Info": "5 SP300 LPSymbol Weight: 4"
   },
   {
     "Name": "Alembic",
     "Description EN": "Changes an arte. Can be learnedif used repeatedly.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "4 SP300 LPSymbol Weight: 6"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "4 SP300 LPSymbol Weight: 6"
   },
   {
     "Name": "Gale",
     "Description EN": "Changes an arte. Can be learnedif used repeatedly.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-2.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "4 SP300 LPSymbol Weight: 6"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "4 SP300 LPSymbol Weight: 6"
   },
   {
     "Name": "Vitality",
     "Description EN": "Increases Max HP by 200.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "2 SP100 LPSymbol Weight: 1"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "2 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Vitality 2",
     "Description EN": "Increases Max HP by 400.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "4 SP200 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "4 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Vitality 3",
     "Description EN": "Increases Max HP by 800.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "6 SP300 LPSymbol Weight: 3"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "6 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Vitality 4",
     "Description EN": "Increases Max HP by 1200.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "12 SP400 LPSymbol Weight: 5"
+    "Info": "12 SP400 LPSymbol Weight: 5"
   },
   {
     "Name": "Spirits",
     "Description EN": "Increases Max TP by 20.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "3 SP100 LPSymbol Weight: 1"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "3 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Spirits 2",
     "Description EN": "Increases Max TP by 50.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Spirits 3",
     "Description EN": "Increases Max TP by 100.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "7 SP300 LPSymbol Weight: 3"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "7 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Spirits 4",
     "Description EN": "Increases Max TP by 150.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "7 SP400 LPSymbol Weight: 4"
+    "Info": "7 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "Lucky Plus",
     "Description EN": "Increases default luck by 15.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "3 SP100 LPSymbol Weight: 1"
+    "Info": "3 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Lucky Plus 2",
     "Description EN": "Increases default luck by 30.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Defend Conversion",
     "Description EN": "Adds 25% of M. DEF value to P. DEF.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "5 SP300 LPSymbol Weight: 3"
+    "Info": "5 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Resist Conversion",
     "Description EN": "Adds 25% of P. DEF value to M. DEF.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "5 SP300 LPSymbol Weight: 3"
+    "Info": "5 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Combat Force",
     "Description EN": "Converts 25% of HP to the same amount of TP.If HP->75%, then TP->125%.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "3 SP300 LPSymbol Weight: 6"
+    "Info": "3 SP300 LPSymbol Weight: 6"
   },
   {
     "Name": "Item Amplifier",
     "Description EN": "Increases duration and effect of items usedduring battle.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Item Amplifier 2",
     "Description EN": "Increases duration and effect of items usedduring battle even more.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "7 SP300 LPSymbol Weight: 3"
+    "Info": "7 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Lucky Item",
     "Description EN": "Occasionally, item used will not be consumedafter it has been used.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "4 SP100 LPSymbol Weight: 1"
+    "Info": "4 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Multi-Item",
     "Description EN": "Single-target consumable healing items like gels and bottles affectall allies, however the effect is halved.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "16 SP1000 LPSymbol Weight: 5"
+    "Info": "16 SP1000 LPSymbol Weight: 5"
   },
   {
     "Name": "Full Check",
     "Description EN": "Able to see all enemy info with a singleMagic Lens.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "4 SP300 LPSymbol Weight: 3"
+    "Info": "4 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Scanning",
     "Description EN": "Displays remaining HP over enemy withMagic Lens.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "3 SP100 LPSymbol Weight: 1"
+    "Info": "3 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Inspector",
     "Description EN": "Able to view enemy details when switchingtargets without using Magic Lens.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "3 SP100 LPSymbol Weight: 1"
+    "Info": "3 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Aerial Tension",
     "Description EN": "Recovers TP for every 3-hit combos in midair.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "8 SP200 LPSymbol Weight: 6"
+    "Info": "8 SP200 LPSymbol Weight: 6"
   },
   {
     "Name": "Medical Boost",
     "Description EN": "Strength of cure spell proportional to remainingHP. Strength increases by 1.5 times with Max HP.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "12 SP200 LPSymbol Weight: 2"
+    "Info": "12 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Medical Smash",
     "Description EN": "Strength of heal arte proportional to remainingHP. Strength increases by 1.5 times with Max HP.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "12 SP200 LPSymbol Weight: 4"
+    "Info": "12 SP200 LPSymbol Weight: 4"
   },
   {
     "Name": "Heal Supply",
     "Description EN": "Heal an ally to recover some HP.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "7 SP300 LPSymbol Weight: 4"
+    "Info": "7 SP300 LPSymbol Weight: 4"
   },
   {
     "Name": "Eternal Support",
     "Description EN": "Effects of support magic occasionallylasts for duration of battle.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "9 SP200 LPSymbol Weight: 6"
+    "Info": "9 SP200 LPSymbol Weight: 6"
   },
   {
     "Name": "Eternal Weakness",
     "Description EN": "Effects of weakening spell occasionally lastsfor duration of battle.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "8 SP200 LPSymbol Weight: 4"
+    "Info": "8 SP200 LPSymbol Weight: 4"
   },
   {
     "Name": "Support Arte Charge",
     "Description EN": "Able to use charged attacks for supporttype artes. Only with Mighty Charge set.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "6 SP500 LPSymbol Weight: 6"
+    "Info": "6 SP500 LPSymbol Weight: 6"
   },
   {
     "Name": "Critical Recover",
     "Description EN": "Recovers TP upon a critical hit.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "7 SP100 LPSymbol Weight: 2"
+    "Info": "7 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Convert Absorption",
     "Description EN": "Gain TP equal to an enemy’s HP right beforebeing hit by a spell attack.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "8 SP300 LPSymbol Weight: 6"
+    "Info": "8 SP300 LPSymbol Weight: 6"
   },
   {
     "Name": "Healing Artes",
     "Description EN": "Occasionally casts healing spells withoutconsuming any TP.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Lucky Magic",
     "Description EN": "Occasionally decreases the amount ofTP consumption when casting a spell.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "3 SP100 LPSymbol Weight: 2"
+    "Info": "3 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Reducer",
     "Description EN": "Decreases TP consumption when same spellis used consecutively.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "5 SP300 LPSymbol Weight: 6"
+    "Info": "5 SP300 LPSymbol Weight: 6"
   },
   {
     "Name": "HP Recover",
     "Description EN": "Increases the amount of HP recovered.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "TP Recover",
     "Description EN": "Increases the amount of TP recovered.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Rebirth",
     "Description EN": "Gradually recover HP equal to half theamount of the last damage received.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "12 SP200 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "12 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Rebirth 2",
     "Description EN": "Gradually recover HP equal to 1/4 of theamount of the last combo damage received.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "5 SP300 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "5 SP300 LPSymbol Weight: 2"
   },
   {
     "Name": "Healing Arrow",
     "Description EN": "Recover HP when hitting an enemy with an arrow.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "11 SP500 LPSymbol Weight: 5"
+    "Info": "11 SP500 LPSymbol Weight: 5"
   },
   {
     "Name": "Healing Arrow 2",
     "Description EN": "Recover TP when hitting an enemy with an arrow.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "14 SP600 LPSymbol Weight: 6"
+    "Info": "14 SP600 LPSymbol Weight: 6"
   },
   {
     "Name": "Lucky Soul",
     "Description EN": "Occasionally recover TP when knockedto the ground.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Burst Security",
     "Description EN": "Occasionally avoid taking damage after a bad resultfrom a random technique.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "10 SP500 LPSymbol Weight: 4"
+    "Info": "10 SP500 LPSymbol Weight: 4"
   },
   {
     "Name": "Stat Boost",
     "Description EN": "Increases the effect of magical status boosts.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "3 SP100 LPSymbol Weight: 1"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "3 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "OVL Roulette: HP",
     "Description EN": "Chance of HP gradually increasing or decreasing duringOver Limit.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "7 SP200 LPSymbol Weight: 4"
+    "Info": "7 SP200 LPSymbol Weight: 4"
   },
   {
     "Name": "OVL Roulette: TP",
     "Description EN": "Chance of TP gradually increasing or decreasingduring Over Limit.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "9 SP200 LPSymbol Weight: 4"
+    "Info": "9 SP200 LPSymbol Weight: 4"
   },
   {
     "Name": "OVL Roulette: OVL",
     "Description EN": "Chance of Over Limit gauge gradually increasing ordecreasing during Over Limit.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "10 SP400 LPSymbol Weight: 4"
+    "Info": "10 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "Sleep 'n Heal",
     "Description EN": "Gradually recovers HP while under Sleepstatus.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "3 SP100 LPSymbol Weight: 1"
+    "Info": "3 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Auto Medicine",
     "Description EN": "Occasionally casts healing spells uponreceiving damage.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "6 SP100 LPSymbol Weight: 4"
+    "Info": "6 SP100 LPSymbol Weight: 4"
   },
   {
     "Name": "Auto Medicine 2",
     "Description EN": "Occasionally cast status recovery spells uponreceiving damage.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "4 SP300 LPSymbol Weight: 4"
+    "Info": "4 SP300 LPSymbol Weight: 4"
   },
   {
     "Name": "Spirit Absorb",
     "Description EN": "Occasionally recovers the same amount of TPused to cast a spell when hit by a spell attack.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RIT.png",
-    "Info": "5 SP200 LPSymbol Weight: 4"
+    "Info": "5 SP200 LPSymbol Weight: 4"
   },
   {
     "Name": "Lucky Call",
     "Description EN": "Occasionally revives from KO whenLuck is over 100.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "14 SP400 LPSymbol Weight: 4"
+    "Info": "14 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "Resurrect",
     "Description EN": "Occasionally revive from KO automatically.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "22 SP300 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "22 SP300 LPSymbol Weight: 2"
   },
   {
     "Name": "Angel's Tear",
     "Description EN": "Automatically revive from KO once per battle.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "24 SP500 LPSymbol Weight: 5"
+    "Info": "24 SP500 LPSymbol Weight: 5"
   },
   {
     "Name": "Reincarnation",
     "Description EN": "Occasionally enter Over Limit upon revival, butrevival spells and items might fail.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "8 SP300 LPSymbol Weight: 4"
+    "Info": "8 SP300 LPSymbol Weight: 4"
   },
   {
     "Name": "HP Surge",
     "Description EN": "Revive from KO with full HP regardless of revival method.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "12 SP800 LPSymbol Weight: 4"
+    "Info": "12 SP800 LPSymbol Weight: 4"
   },
   {
     "Name": "TP Surge",
     "Description EN": "Revive from KO with full TP regardless of revival method.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "18 SP1000 LPSymbol Weight: 4"
+    "Info": "18 SP1000 LPSymbol Weight: 4"
   },
   {
     "Name": "Loner",
     "Description EN": "All status increases if last one standing onthe battlefield.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "3 SP200 LPSymbol Weight: 8"
+    "Info": "3 SP200 LPSymbol Weight: 8"
   },
   {
     "Name": "Lovely Dog",
     "Description EN": "All status increases with Repede in theactive party.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "5 SP400 LPSymbol Weight: 8"
+    "Info": "5 SP400 LPSymbol Weight: 8"
   },
   {
     "Name": "Chivalry",
     "Description EN": "Parameters increase according to thenumber of female allies in battle.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "3 SP100 LPSymbol Weight: 4"
+    "Info": "3 SP100 LPSymbol Weight: 4"
   },
   {
     "Name": "Hunter 2",
     "Description EN": "Increases EXP earned after defeating anaerial enemy. (Applies to all allies in party.)",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "11 SP300 LPSymbol Weight: 6"
+    "Info": "11 SP300 LPSymbol Weight: 6"
   },
   {
     "Name": "Rod",
     "Description EN": "Reduces artes TP consumption when a rodis equipped.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "12 SP200 LPSymbol Weight: 6"
+    "Info": "12 SP200 LPSymbol Weight: 6"
   },
   {
     "Name": "Lucky Spear",
     "Description EN": "Occasionally increases the amount of EXPearned when a spear is equipped.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "12 SP200 LPSymbol Weight: 6"
+    "Info": "12 SP200 LPSymbol Weight: 6"
   },
   {
     "Name": "OVL Bonus",
     "Description EN": "Occasionally fully restores HP duringOver Limit.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "12 SP300 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "12 SP300 LPSymbol Weight: 2"
   },
   {
     "Name": "OVL Bonus 2",
     "Description EN": "Occasionally fully restores TP duringOver Limit.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "14 SP400 LPSymbol Weight: 3"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "14 SP400 LPSymbol Weight: 3"
   },
   {
     "Name": "OVL Plus",
     "Description EN": "When entering Over Limit, the level entered will be one levelhigher than the amount of gauge used.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "20 SP600 LPSymbol Weight: 6"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png",
+    "Info": "20 SP600 LPSymbol Weight: 6"
   },
   {
     "Name": "OVL Plus 2",
     "Description EN": "When entering Over Limit, the level entered will be two levels higher than theamount of gauge used. Duration of the Over Limit is shorter than normal.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "23 SP700 LPSymbol Weight: 5"
+    "Info": "23 SP700 LPSymbol Weight: 5"
   },
   {
     "Name": "OVL Team",
     "Description EN": "When entering Over Limit Lv. 1, all nearby allies will also enter Lv. 1.Duration of the Over Limit only lasts half the normal time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "16 SP400 LPSymbol Weight: 4"
+    "Info": "16 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "OVL Team 2",
     "Description EN": "When entering Over Limit Lv. 2, all nearby allies will also enter Lv. 2.Duration of the Over Limit only lasts half the normal time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "20 SP700 LPSymbol Weight: 7"
+    "Info": "20 SP700 LPSymbol Weight: 7"
   },
   {
     "Name": "OVL Team 3",
     "Description EN": "When entering Over Limit Lv. 3, all nearby allies will also enter Lv. 3.Duration of the Over Limit only lasts half the normal time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "26 SP800 LPSymbol Weight: 8"
+    "Info": "26 SP800 LPSymbol Weight: 8"
   },
   {
     "Name": "High Heal",
     "Description EN": "Occasionally enter Over Limit Lv. 1 after healing 30,000 HP or more in one battle.Duration of Over Limit only lasts half the normal time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "5 SP300 LPSymbol Weight: 3"
+    "Info": "5 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "Hyper Heal",
     "Description EN": "Occasionally enter Over Limit Lv. 2 after healing 50,000 HP or more in one battle.Duration of the Over Limit only lasts half the normal time.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/EST.png",
-    "Info": "8 SP500 LPSymbol Weight: 5"
+    "Info": "8 SP500 LPSymbol Weight: 5"
   },
   {
     "Name": "OVL Recover",
     "Description EN": "Automatically recover from status effects when entering Over Limit.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "7 SP400 LPSymbol Weight: 4"
+    "Info": "7 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "Natural Recover",
     "Description EN": "Automatically recover from status effects after some time out of battle.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "8 SP500 LPSymbol Weight: 5"
+    "Info": "8 SP500 LPSymbol Weight: 5"
   },
   {
     "Name": "HP Relax",
     "Description EN": "Recovers HP gradually by not doing anything in battle.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "OVL Relax",
     "Description EN": "Fills the OVL gauge gradually by not doinganything in battle.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Taunt",
     "Description EN": "Taunt with  to fill the Over Limitgauge. Action differs from Taunt 2.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "2 SP100 LPSymbol Weight: 1"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "2 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "Taunt 2",
     "Description EN": "Taunt with  to fill the Over Limitgauge. Action differs from Taunt.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "2 SP100 LPSymbol Weight: 1"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "2 SP100 LPSymbol Weight: 1"
   },
   {
     "Name": "OVL Taunt",
     "Description EN": "Taunt during Over Limit to recover HP.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "3 SP200 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "3 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "OVL Taunt 2",
     "Description EN": "Taunt during Over Limit to recover TP.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "4 SP300 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "4 SP300 LPSymbol Weight: 2"
   },
   {
     "Name": "Appeal Target",
     "Description EN": "Increases the chance of being targetedby enemies with Taunt.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "3 SP100 LPSymbol Weight: 4"
+    "Info": "3 SP100 LPSymbol Weight: 4"
   },
   {
     "Name": "Temptation",
     "Description EN": "Occasionally inflict Confusion on enemyby taunting.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/JUD.png",
-    "Info": "14 SP100 LPSymbol Weight: 3"
+    "Info": "14 SP100 LPSymbol Weight: 3"
   },
   {
     "Name": "Bark",
     "Description EN": "Occasionally cancels all enemy and allyactions with Taunt.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "7 SP600 LPSymbol Weight: 6"
+    "Info": "7 SP600 LPSymbol Weight: 6"
   },
   {
     "Name": "Life Healer",
     "Description EN": "Recover HP after a battle.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Spirit Healer",
     "Description EN": "Increases TP recovered after battle.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "5 SP200 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "5 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "Life Up",
     "Description EN": "Occasionally increases Max HP after battle.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "12 SP400 LPSymbol Weight: 3"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "12 SP400 LPSymbol Weight: 3"
   },
   {
     "Name": "Mental Up",
     "Description EN": "Occasionally increases Max TP after battle.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "16 SP400 LPSymbol Weight: 3"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "16 SP400 LPSymbol Weight: 3"
   },
   {
     "Name": "Happiness",
     "Description EN": "Occasionally increases EXP earned.(Only for characters with this skill set.)",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "11 SP300 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "11 SP300 LPSymbol Weight: 2"
   },
   {
     "Name": "Happiness 2",
     "Description EN": "Occasionally increases LP earned.(Only for characters with this skill set.)",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "11 SP300 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "11 SP300 LPSymbol Weight: 2"
   },
   {
     "Name": "Happiness 3",
     "Description EN": "Occasionally increases the amount of Galdafter battle.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "8 SP300 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "8 SP300 LPSymbol Weight: 2"
   },
   {
     "Name": "Safety",
     "Description EN": "Occasionally earn more EXP by finishinga battle without taking any damage.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "8 SP100 LPSymbol Weight: 2"
+    "Info": "8 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Technical Half",
     "Description EN": "Receive extra TP by not taking damage inbattle. However, all status reduced to half.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "6 SP400 LPSymbol Weight: 8"
+    "Info": "6 SP400 LPSymbol Weight: 8"
   },
   {
     "Name": "Vacance",
     "Description EN": "Increases Max HP occasionally if battle iswon without attacking any enemies.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "13 SP300 LPSymbol Weight: 3"
+    "Info": "13 SP300 LPSymbol Weight: 3"
   },
   {
     "Name": "EXP Share",
     "Description EN": "Earn bonus EXP without taking part in battle.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "1 SP500 LPSymbol Weight: 3"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "1 SP500 LPSymbol Weight: 3"
   },
   {
     "Name": "Coward",
     "Description EN": "Avoids surprise encounters.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/KAR.png",
-    "Info": "8 SP100 LPSymbol Weight: 2"
+    "Info": "8 SP100 LPSymbol Weight: 2"
   },
   {
     "Name": "Cooking Plus",
     "Description EN": "Occasionally increases effect of autocooking after battles.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAV.png",
-    "Info": "5 SP100 LPSymbol Weight: 4"
+    "Info": "5 SP100 LPSymbol Weight: 4"
   },
   {
     "Name": "Treasure Fangs",
     "Description EN": "Occasionally receive items dropped byenemies even if escaped from battle.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/RAP.png",
-    "Info": "4 SP200 LPSymbol Weight: 2"
+    "Info": "4 SP200 LPSymbol Weight: 2"
   },
   {
     "Name": "TP Support",
     "Description EN": "TP consumption split with Flynn whenusing base artes near him during battle.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "8 SP400 LPSymbol Weight: 4"
+    "Info": "8 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "No Artes Plus",
     "Description EN": "Increases EXP earned for allies finishing battlewithout using any base or arcane artes.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/FRE.png",
-    "Info": "6 SP400 LPSymbol Weight: 4"
+    "Info": "6 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "Sticky Fingers",
     "Description EN": "Occasionally steal Gald when escaping from battle.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/PAT.png",
-    "Info": "4 SP400 LPSymbol Weight: 4"
+    "Info": "4 SP400 LPSymbol Weight: 4"
   },
   {
     "Name": "Stand Alone",
     "Description EN": "Only characters equipped with this skill will participate in battle(only works with active characters).",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "1 SP300 LPSymbol Weight: 0"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "1 SP300 LPSymbol Weight: 0"
   },
   {
     "Name": "Dispersion",
     "Description EN": "Changes an arte. Can be learnedif used repeatedly.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "4 SP300 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "4 SP300 LPSymbol Weight: 2"
   },
   {
     "Name": "Great Deluge",
     "Description EN": "Changes an arte. Can be learnedif used repeatedly.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
-    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "4 SP300 LPSymbol Weight: 2"
+    "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png http://hyouta.com/vesperia/chara-icons/EST.png http://hyouta.com/vesperia/chara-icons/KAR.png http://hyouta.com/vesperia/chara-icons/RIT.png http://hyouta.com/vesperia/chara-icons/RAV.png http://hyouta.com/vesperia/chara-icons/JUD.png http://hyouta.com/vesperia/chara-icons/RAP.png http://hyouta.com/vesperia/chara-icons/FRE.png http://hyouta.com/vesperia/chara-icons/PAT.png",
+    "Info": "4 SP300 LPSymbol Weight: 2"
   },
   {
     "Name": "Bastion",
     "Description EN": "Changes Crushing Eagle To Guardian Field.Can be learned if used repeatedly.",
     "Icon": "http://hyouta.com/vesperia/skill-icons/category-3.png",
     "Perso": "http://hyouta.com/vesperia/chara-icons/YUR.png",
-    "Info": "3 SP300 LPSymbol Weight: 3"
+    "Info": "3 SP300 LPSymbol Weight: 3"
   }
 ]
 }
