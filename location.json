@@ -1,0 +1,913 @@
+{
+"location":[
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_XTMD_D00.png",
+    "Lieu": "Necropolis of Nostalgia",
+    "Des": "Catacombs located beneath the Enduring Shrine of Zaude.The dead lay behind the walls.",
+    "Supp": ""
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_XTCT_T00.png",
+    "Lieu": "The City of the Waning Moon",
+    "Des": "A district located underneath a graveyard inhabited by people with pink hair. Though underground,a white moon shines upon it. Some call it paradise.",
+    "Supp": ""
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_XPTD_D00.png",
+    "Lieu": "Renansula Hollow",
+    "Des": "A cave in the sands where red flowers bloom. Gravestonesmark where the victims of an accident are buried.",
+    "Supp": ""
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_XLAD_D00.png",
+    "Lieu": "Sunken Grotto",
+    "Des": "An underground magma region connected to Aer Krene.It is said to go around the entire world.",
+    "Supp": "Flame Bird Flame Bat Strong Lizard Great Cockatrice Flame Spirit"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_XGUD_D00.png",
+    "Lieu": "The Sewer Tunnels of Promise",
+    "Des": "Sewer tunnels located beneath Dahngrest. A resistance grouponce holed up here while the town was being invaded.",
+    "Supp": "Albino Merfish Whitigle Red-eyed Bat"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_WOO_D00.png",
+    "Lieu": "Egothor Forest",
+    "Des": "Once a passage used for the pilgrimage toBaction. The bridge is remaining evidence.",
+    "Supp": "Clukkit Peepit Filifolia Puff Nuggethopper Insect Plant Mandrawigle Brucis"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_VSI_D01.png",
+    "Lieu": "Sands of Kogorh",
+    "Des": "A blazing desert stretching to the end of the horizon.Home to Phaeroh.",
+    "Supp": ""
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_VSI_D00.png",
+    "Lieu": "Sands of Kogorh",
+    "Des": "A blazing desert stretching to the end of the horizon.Temperatures drop to below zero at night.",
+    "Supp": "Green Spider Cactus Firebat Fire Spirit Firebird Red Roper Ice Bat Ice Spirit Dryad Superstar O Blue Roper Medusa Butterfly"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_VIL_T01.png",
+    "Lieu": "The Heartland Town, Yormgen",
+    "Des": "The current Yormgen is truly as it should be. Perhapsit was just an illusion the last time you visited...",
+    "Supp": ""
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_VIL_T00.png",
+    "Lieu": "The Heartland Town, Yormgen",
+    "Des": "A tranquil town that seems out of place inthe chaotic world. A town that seems surreal.",
+    "Supp": "General Store \"Polaris"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_UND_T00.png",
+    "Lieu": "The Rising City, Heliord",
+    "Des": "A flourishing new town built for nobles.It will take some time before the town is complete.",
+    "Supp": "Fortune's Market (Heliord)"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_TOG_T00.png",
+    "Lieu": "The Coliseum City, Nordopolica",
+    "Des": "A city governed by warriors. Built arounda coliseum, contests are always taking place here.",
+    "Supp": "Fortune's Market (Nordopolica)"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_SHA_T00.png",
+    "Lieu": "The Sealed City of Scholars, Aspio",
+    "Des": "A city where mages of the Empire gather forblastia research. It is secluded and lacks sunlight all year round.",
+    "Supp": "Fortune's Market (Aspio)"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_SEA_D00.png",
+    "Lieu": "The Enduring Shrine of Zaude",
+    "Des": "A fortress that sank to the bottom of the ocean.Alexei retrieved it to be used as a hoplon blastia.",
+    "Supp": "Knight Fencer A Knight Lancer A High Knight Bishop Knight Warrior A Perfect Murder Lizardman Gigafish Watergunner Poseidon Cuivre Argent Jons"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_RUI_D00.png",
+    "Lieu": "Shaikos Ruins",
+    "Des": "A sacred shrine once stood where ruins now stand.",
+    "Supp": "Superstar B Ribbit Polwigle Merfish Bat Golem"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_RUI_D00.png",
+    "Lieu": "Shaikos Ruins",
+    "Des": "Once a sacred shrine, this is where many blastia havebeen discovered. The underground level is not known by many.",
+    "Supp": ""
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_PORT_T00.png",
+    "Lieu": "Port of Capua Torim",
+    "Des": "A port on the second largest continent,Tolbyccia.Considered the rival to Capua Nor, guilds have a strong influence here.",
+    "Supp": "Fortune's Market (Torim)"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_PORR_D00.png",
+    "Lieu": "Port Capua Nor, Ragou's Residence",
+    "Des": "A secret room exists beneath Ragou's manor.Monsters run loose here.",
+    "Supp": "Black Basilisk Black Bat Black Wolf Black Rhino Val Susa Gilga"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_PORN_T00.png",
+    "Lieu": "Port of Capua Nor",
+    "Des": "A thriving port under the jurisdiction of the Empire. Passengerliners, freight vessels, and military vessels frequent this port.",
+    "Supp": "Fortune's Market (Nor)"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_ORG_D00.png",
+    "Lieu": "Relewiese Hollow",
+    "Des": "An uncharted, desolate continent. The sheercliffs and vicious monsters keep adventurers out.",
+    "Supp": "Great Cockatrice Roctus Strong Lizard Killing Cupid Spikadillo Roctoise Tiredillo"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_OAS_T00.png",
+    "Lieu": "The Desert Oasis, Mantaic",
+    "Des": "A desert town built around a giant oasis.Water is abundant and sufficient to maintain life.",
+    "Supp": "Fortune's Market (Mantaic)"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_NAM_T00.png",
+    "Lieu": "The Happy Place, Nam Cobanda Isle",
+    "Des": "A place that provides you with all sorts of entertainment. Enjoy!!?",
+    "Supp": ""
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_MYS_D00.png",
+    "Lieu": "The Forgotten Shrine, Baction",
+    "Des": "A shrine used for worship in the past.All the rooms look similar. There's a rumor that a secret room exists...",
+    "Supp": "Bunwigle Rabbio Uniceros Drillbeak Knight Halberd A Knight Warrior Knight Bishop Knight Fencer S Knight Lancer S Superstar G"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_MAN_D06.png",
+    "Lieu": "Aer Krene, Yurzorea",
+    "Des": "An aer krene spot on the Yurzorea continent.A place untouched by civilization.",
+    "Supp": ""
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_MAN_D04.png",
+    "Lieu": "Aer Krene, Desier",
+    "Des": "An aer krene spot on the Desier continent.A place untouched by civilization.",
+    "Supp": ""
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_MAN_D02.png",
+    "Lieu": "Aer Krene, Tolbyccia",
+    "Des": "An aer krene spot on the Tolbyccia continent.A place untouched by civilization.",
+    "Supp": ""
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_MAN_D00.png",
+    "Lieu": "Aer Krene, Ilyccia",
+    "Des": "An aer krene spot on the Ilyccia continent.A place untouched by civilization.",
+    "Supp": ""
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_LAS_D00.png",
+    "Lieu": "The Ancient Tower, Tarqaron",
+    "Des": "A city built by an ancient civilization. Revivedby Duke, the city now serves as a giant blastia.",
+    "Supp": "Grimza Fantail Schwert EX Unicorn Giant Mantis Hysteric Purple Gun Hornet Silver Stag Deathseeker Cannosso Hammer Golem"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_IEG_D00.png",
+    "Lieu": "Manor of the Wicked",
+    "Des": "Yeager's guild, the Leviathan's Claw�s hideout.A large amount of black market weapons are kept here.",
+    "Supp": "Plomb Fer"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_ICE_D01.png",
+    "Lieu": "The Blade Drifts of Zopheir",
+    "Des": "Cross the glaciers as a detour around northern Ilyccia.An aer krene lies in the middle of the glaciers.",
+    "Supp": ""
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_ICE_D00.png",
+    "Lieu": "The Blade Drifts of Zopheir",
+    "Des": "Cross the glaciers as a detour around northernIlyccia. Monsters live above and below the ice.",
+    "Supp": "Penguinist Rabbigo Electrifish Teethee Boost Merfish Limewreath Lupice Snow Spirit Ice Golem"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_HOW_D00.png",
+    "Lieu": "The Mobile Fortress, Heracles",
+    "Des": "A super gigantic magic weapon built by the empire. Since it was made in such a rush, various materials are gathered to be used as the armoring.",
+    "Supp": "Blade Murder Knight Halberd A Murder Knight Bishop Eon Raptor"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_HIS_D00.png",
+    "Lieu": "The Erealumen Crystallands",
+    "Des": "Formed from a large crystal that emergedfrom the ocean. It is made up of both hard and soft crystals.",
+    "Supp": "Crystal Spirit Cornus Cheiron Sworpion Maize Bre Piment Gingembre Fenrir Crystea Mounico"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_HIL_D01.png",
+    "Lieu": "Ehmead Hill",
+    "Des": "A passage between Halure and Capua Nor.It is blocked due to the broken shield blastia.",
+    "Supp": ""
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_HIL_D00.png",
+    "Lieu": "Ehmead Hill",
+    "Des": "A passage between Halure and Capua Nor.It is blocked due to the broken shield blastia.",
+    "Supp": "Seasidey Giant Beetle Chirpee Basilisk Gattuso Cub Gold Beetle Seasidey Basilisk Giant Beetle Chirpee Gattuso Cub"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_GUI_T00.png",
+    "Lieu": "The Den of Guilds, Dahngrest",
+    "Des": "A town made up of people from all backgrounds.The second largest city in the world. Revolves around the Union.",
+    "Supp": "Fortune's Market (Dahngrest)"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_GRO_D00.png",
+    "Lieu": "Quoi Woods",
+    "Des": "Known as the \"Forbidden Woods\", it is feared by nearbyvillagers. Rumor has it that a field of flowers exist...",
+    "Supp": "Wolf Axe Beak Mandragora Tuliper Chimera Butterfly Filifolia Bee Tweeny Rosa Camellia"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_GHO_D00.png",
+    "Lieu": "The Fallen City, Caer Bocram",
+    "Des": "Once a proud city, it is now abandoned andtaken over by monsters.",
+    "Supp": "Thornwigle Spikkit Howler Strange Bat Fancy Parasol Tortoise"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_FRI_T02.png",
+    "Lieu": "The Land of Hope, Aurnion",
+    "Des": "A town forging a new way of life that rejects blastia.Thanks to Flynn and the refugees, it's finally complete!",
+    "Supp": ""
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_FRI_T01.png",
+    "Lieu": "Northeastern Hypionia",
+    "Des": "A town comprised of Zaphian refugees seekinga new life. Politics heavily influenced by Flynn.",
+    "Supp": ""
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_FRI_T01.png",
+    "Lieu": "The Land of Hope, Aurnion",
+    "Des": "A town comprised of Zaphian refugees seekinga new life. Politics heavily influenced by Flynn.",
+    "Supp": ""
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_FRI_T00.png",
+    "Lieu": "Northeastern Hypionia",
+    "Des": "A town comprised of Zaphian refugees seekinga new life. Politics heavily influenced by Flynn.",
+    "Supp": "Fortune's Market"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_FOR_T00.png",
+    "Lieu": "Deidon Hold",
+    "Des": "A strong rock fort built to protect the Empirefrom monsters in the plains. It also serves as a check point.",
+    "Supp": "Vendor's Stall \"Vega"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_EXD_D00.png",
+    "Lieu": "Labyrinth of Memories",
+    "Des": "A reality? An illusion? A part of a dream?Where exactly is this place?And who am I?",
+    "Supp": "Erungar Memory Jugem Memory Johann Memory Adecor Memory Boccos Memory Timberey Blade Beak Ratwigle Wilted Filifolia Yeager Memory Gigalarva Memory Knight Fencer Knight Lancer Savage Helm Brucis Memory Zagi Memory Clint Memory Tison Memory Nan Memory Chimera Memory Dragon Gramps Blade Murder Knight Halberd A Murder Knight Bishop Eon Raptor"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_DRA_D00.png",
+    "Lieu": "Mt. Temza",
+    "Des": "A mountain destroyed by warfare in the past.Traces of the damage can still be seen.",
+    "Supp": "Orge Soya Ail Axigle Warrior Heavy Bottom Rabtor Deadwreath Pterobronc"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_DEV_T00.png",
+    "Lieu": "The Home of the Kritya, Myorzo",
+    "Des": "Home of the Kritya, an ancient civilization that invented the blastia.",
+    "Supp": "General Store \"Deneb"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_COG_D00.png",
+    "Lieu": "The Tower of Gears, Ghasfarost",
+    "Des": "A tower built from ruins. A device for causingtornadoes lies at the very top.",
+    "Supp": "Soldier Bandido Witch Scissorbeak Horse Raptor Gear Golem"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_CHE_T01.png",
+    "Lieu": "The City of Blossoms, Halure",
+    "Des": "A town where the three trees, Harmonea, Luluria,and Renen merged with the shield blastia.",
+    "Supp": ""
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_CHE_T00.png",
+    "Lieu": "The City of Blossoms, Halure",
+    "Des": "A town where the three trees, Harmonea, Luluria,and Renen merged with the shield blastia.",
+    "Supp": "General Store \"Regulus"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_CAV_D00.png",
+    "Lieu": "The Weasand of Cados",
+    "Des": "A cave in the Cados mountains. A nest tovicious monsters.",
+    "Supp": "Spider Wirbel Thunder Bat Agaric Beast Bear Quietta Knight Catcher Knight Guard Knight Halberd F Knight Fencer F Hermit Drill"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_CAPI_D00.png",
+    "Lieu": "The Imperial Capital Zaphias, Sewers",
+    "Des": "Passages located under the castle. Entry isprohibited. A place infested with rats.",
+    "Supp": "Ratwigle"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_CAP_T02.png",
+    "Lieu": "The Imperial Capital, Zaphias",
+    "Des": "A large amount of aer caused an abnormalplant growth in the capital.",
+    "Supp": ""
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_CAP_T01.png",
+    "Lieu": "The Imperial Capital, Zaphias",
+    "Des": "The largest city in the world. A strictly hierarchicalsociety with a vacant royal throne.",
+    "Supp": "Fortune's Market (Imperial Capital)"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_CAP_T00.png",
+    "Lieu": "The Imperial Capital, Zaphias",
+    "Des": "The state of the capital has returned to normalsince, but many left to seek refuge as a result.",
+    "Supp": ""
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_CAP_T00.png",
+    "Lieu": "The Imperial Capital, Zaphias",
+    "Des": "The state of the capital has returned to normal since, but many left to seek refuge as a result.",
+    "Supp": ""
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_BUG_D01.png",
+    "Lieu": "Forest of Keiv Moc",
+    "Des": "Trees as old as time stand towering againstthe sky. An aer krene fills the center of the trees.",
+    "Supp": ""
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_BUG_D00.png",
+    "Lieu": "Forest of Keiv Moc",
+    "Des": "The densest forest in Tolbyccia. Trees asold as time stand towering against the sky.",
+    "Supp": "Filihelia Grasshopper Beetle Leaf Bat Howler Trifid Popper Green Menace"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_BOA_T01.png",
+    "Lieu": "Hope and Glory, Fiertia",
+    "Des": "A ship that can now fly with the help of Ba'ul. (Tokunaga included)",
+    "Supp": ""
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_BOA_T00.png",
+    "Lieu": "Hope and Glory, Fiertia",
+    "Des": "A reward from Kaufman. (Tokunaga included.)It may look shabby, but it is a very sturdy ship!",
+    "Supp": ""
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_APH_D00.png",
+    "Lieu": "The Ghost Ship, Atherum",
+    "Des": "A ghost ship shrouded by an eerie fog.Invisible monsters lurk on the deck.",
+    "Supp": "Hawk Predafish Aquates Assassin Anchorgeist Poltergeist"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/worldmap/U_MENUWORLDMAP_AHO_T00.png",
+    "Lieu": "The Fount of Warmth, Yumanju",
+    "Des": "A luxury inn where travelers can relax innatural hot springs. Try the outdoor hot spring!?",
+    "Supp": "Fortune's Market (Yumanju)"
+  },
+  {
+    "Image": "",
+    "Lieu": "Mayoccia Plains",
+    "Des": "The area around Zaphias.",
+    "Supp": "Knight Fencer Knight Lancer Filifolia Bud Minicoid Audreitz Mandragora (Aersick) Axe Beak (Aersick) Giant Bee (Aersick) Wolf (Aersick) Egg Bear (Aersick)"
+  },
+  {
+    "Image": "",
+    "Lieu": "Northern Mayoccia Plains",
+    "Des": "The area between Zaphias and Deidon Hold.",
+    "Supp": "Minicoid Filifolia Bud Wolf Bee Tuliper Filifolia Rosa Camellia Audreitz Mandragora (Aersick) Axe Beak (Aersick) Giant Bee (Aersick) Wolf (Aersick) Egg Bear (Aersick)"
+  },
+  {
+    "Image": "",
+    "Lieu": "Northeast Mayoccia Plains",
+    "Des": "The area to the north of Deidon Hold.",
+    "Supp": "Minicoid Filifolia Bud Wolf Bee Tuliper Filifolia Rosa Camellia Audreitz"
+  },
+  {
+    "Image": "",
+    "Lieu": "Western Mayoccia Plains",
+    "Des": "The west coast plains of Ilyccia.",
+    "Supp": "Filifolia Bud Minicoid Audreitz Mandragora (Aersick) Axe Beak (Aersick) Giant Bee (Aersick) Wolf (Aersick) Egg Bear (Aersick)"
+  },
+  {
+    "Image": "",
+    "Lieu": "Southern Mayoccia Plains",
+    "Des": "An elevated plateau on south of Zaphias.This area cannot be reached on foot",
+    "Supp": "Wild Boar Squirrigle Gobley Minicoid Gobligle"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "Southeast Peyoccia Plains",
+    "Des": "A forest area on the outskirts of Quoi Woods.",
+    "Supp": "Minicoid Filifolia Bud Wolf Bee Tuliper Filifolia Rosa Camellia Audreitz"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "Central Peyoccia Plains",
+    "Des": "An area near Halure located in the centerof Peyoccia Plains.",
+    "Supp": "Bee Wolf Chirpee Treant Rhinossus Axe Beak Hammerbeak Generator Boar"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "Peyoccia Plains - Northern trails",
+    "Des": "A road between Halure and Aspio.",
+    "Supp": "Bee Wolf Chirpee Treant Rhinossus Axe Beak Hammerbeak Generator Boar"
+  },
+ 
+  {
+    "Image": "",
+    "Lieu": "Peyoccia Plains - Southern trails",
+    "Des": "A road between Deidon Hold and Halure.",
+    "Supp": "Bee Wolf Chirpee Treant Rhinossus Axe Beak Hammerbeak Generator Boar Brutal Rhinossus"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "Eastern Peyoccia Plains",
+    "Des": "The eastern plateau of the Peyoccia Plains.",
+    "Supp": "Bee Wolf Chirpee Treant Rhinossus Axe Beak Hammerbeak Generator Boar"
+  },
+
+  {
+    "Image": "",
+    "Lieu": "Northern Peyoccia Plains",
+    "Des": "A plateau north of Halure, City of Blossoms.",
+    "Supp": "Bee Wolf Chirpee Treant Rhinossus Axe Beak Hammerbeak Generator Boar"
+  },
+ 
+  {
+    "Image": "",
+    "Lieu": "Peyoccia Plains - Western trails",
+    "Des": "An area to the east of Ehmead Hill.",
+    "Supp": "Bee Wolf Chirpee Treant Rhinossus Axe Beak Hammerbeak Generator Boar"
+  },
+
+  {
+    "Image": "",
+    "Lieu": "Northeast Ilyccia",
+    "Des": "An area around Shaikos Ruins.",
+    "Supp": "Bee Wolf Chirpee Treant Rhinossus Axe Beak Hammerbeak Generator Boar"
+  },
+
+  {
+    "Image": "",
+    "Lieu": "Corridor Beach",
+    "Des": "A long stretch of beaches extending fromthe south to the north.",
+    "Supp": "Polwigle Treant Chirpee Tentacler Hammerbeak"
+  },
+ 
+  {
+    "Image": "",
+    "Lieu": "Eastern Muluroccia Peninsula",
+    "Des": "An area to the west of Ehmead Hill.",
+    "Supp": "Floating Filo Thief Sorceress Green Roper Rhybgaro"
+  },
+ 
+  {
+    "Image": "",
+    "Lieu": "Northern Muluroccia Peninsula",
+    "Des": "The northern region of the Muluroccia Peninsula.An area including Capua Nor.",
+    "Supp": "Floating Filo Thief Sorceress Green Roper Rhybgaro"
+  },
+ 
+  {
+    "Image": "",
+    "Lieu": "Southern Muluroccia Peninsula",
+    "Des": "A plateau to the south of Capua Nor.",
+    "Supp": "Floating Filo Thief Sorceress Green Roper Rhybgaro"
+  },
+
+  {
+    "Image": "",
+    "Lieu": "The Southeastern Plains of the Muluroccia Peninsula",
+    "Des": "These grasslands are unreachable on foot.",
+    "Supp": "Rhino Floating Filo"
+  },
+ 
+  {
+    "Image": "",
+    "Lieu": "Astefiellus Mountains",
+    "Des": "Home to the tallest mountain in the world.The severely cold climate keeps intruders out.",
+    "Supp": "Bee Wolf Chirpee Treant Rhinossus Axe Beak Hammerbeak Generator Boar"
+  },
+ 
+  {
+    "Image": "",
+    "Lieu": "The Eastern Island of Ilyccia",
+    "Des": "The largest island in the world located east of the Ilyccia continent.",
+    "Supp": "Polwigle Aquates Assassin Gobley Balloon Ghost Jet Balloon"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "Laulyse Island",
+    "Des": "A natural rocky reef.",
+    "Supp": "Gentleman Druid Gentlereplica"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "The Northern Blade Drifts of Zopheir",
+    "Des": "The northern most arctic region of Ilyccia.",
+    "Supp": "Penguinist Limewreath Ice Bat Ice Spirit Bugle Beak Lupice Teethee Electrifish"
+  },
+ 
+  {
+    "Image": "",
+    "Lieu": "The Blade Drifts of Zopheir",
+    "Des": "The freezing temperature of the glaciers is said to be coldenough to cut through bodies. Ilyccia's northern most region.",
+    "Supp": "Penguinist Limewreath Ice Bat Ice Spirit Bugle Beak Lupice Teethee Electrifish"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "The Eastern Plains of Tolbyccia",
+    "Des": "The only flat area on Tolbyccia stretching from Torim Harbor.It is separated by mountains and receives little rain.",
+    "Supp": "Thief Sorceress Basilisk Crab Man"
+  },
+ 
+  {
+    "Image": "",
+    "Lieu": "Eastern Tolbyccia",
+    "Des": "A large forest area in the middle of theTolbyccia continent. Tisbem Lake can be found in this area surrounded by mountains.",
+    "Supp": "Howler Basilisk Thornwigle Tortoise Honker"
+  },
+
+  {
+    "Image": "",
+    "Lieu": "Central Eastern Tolbyccia",
+    "Des": "A forested region with Heliord in the center.An area with plenty of rivers and waterfalls.",
+    "Supp": "Howler Basilisk Thornwigle Tortoise Honker"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "Northern Tolbyccia",
+    "Des": "With Dahngrest in the center, this area dividesbetween the plains and forest regions.",
+    "Supp": "Grasshopper Filihelia Black Basilisk Tortoise Honker"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "Central Western Tolbyccia",
+    "Des": "An area around the Forest of Keiv Moc.",
+    "Supp": "Grasshopper Filihelia Black Basilisk Tortoise Honker"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "Southwest Tolbyccia",
+    "Des": "A plateau on southwest Tolbyccia.",
+    "Supp": "Thornwigle Grasshopper Filihelia"
+  },
+ 
+  {
+    "Image": "",
+    "Lieu": "Western Tolbyccia",
+    "Des": "A forest on western Tolbyccia where theManor of the Wicked is located.",
+    "Supp": "Bronze Zinc Titane Etain Plomb Fer"
+  },
+ 
+  {
+    "Image": "",
+    "Lieu": "Southern Tolbyccia",
+    "Des": "An elevated forest unreachable on foot.",
+    "Supp": "Sawtosaw Beetle Druid Gentlematch"
+  },
+ 
+  {
+    "Image": "",
+    "Lieu": "Swendle Island",
+    "Des": "An island to the north of Tolbyccia.",
+    "Supp": "Bandido Horse Raptor Grasshopper Crab Man Rogue Spinosaurus"
+  },
+  {
+    "Image": "",
+    "Lieu": "Swendle Island",
+    "Des": "An island to the north of Tolbyccia.The Tower of Ghasfarost was once an island.",
+    "Supp": ""
+  },
+ 
+  {
+    "Image": "",
+    "Lieu": "Eastern Swendle Island",
+    "Des": "The eastern part of Swendle Island. This area did not becomea tropical rain forest due to the surrounding mountains.",
+    "Supp": "Bandido Horse Raptor Grasshopper Crab Man Rogue Spinosaurus"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "Carapuson Island",
+    "Des": "Islands between Tolbyccia and Yurzorea.",
+    "Supp": "Aquates Assassin Crab Man"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "Tolbyccia Southern Islands",
+    "Des": "An island off of the coast of southern Tolbyccia.",
+    "Supp": "Sonic Bee Bee"
+  },
+ 
+  {
+    "Image": "",
+    "Lieu": "Northern Tolbyccia",
+    "Des": "Ocean area located to the north of  Tolbyccia.",
+    "Supp": "Cornus Sworpion Crystal Spirit Yellow Roper"
+  },
+  {
+    "Image": "",
+    "Lieu": "The Erealumen Crystallands",
+    "Des": "A continent formed from sea crystals.",
+    "Supp": ""
+  },
+ 
+  {
+    "Image": "",
+    "Lieu": "Zadrack Peninsula",
+    "Des": "The peninsula where Nordopolica is located.",
+    "Supp": "Wirbel Hawk Death Mantis Squirrigle Gaina Firefly"
+  },
+ 
+  {
+    "Image": "",
+    "Lieu": "The Eastern Plains of Desier",
+    "Des": "The eastern part of Desier which includesthe plateau region and the road leading to Nordopolica.",
+    "Supp": "Wirbel Hawk Death Mantis Squirrigle Gaina Firefly"
+  },
+ 
+  {
+    "Image": "",
+    "Lieu": "The Mother Cados Mountains - Eastern Plains",
+    "Des": "The plains east of the \"Mother CadosMountains\"dividing the Desier continent.",
+    "Supp": "Wirbel Hawk Death Mantis Squirrigle Gaina Firefly"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "The Mother Cados Moutains - Western Desert",
+    "Des": "The desert region stretching from Cados to Mantaic.",
+    "Supp": "Green Spider Cactus"
+  },
+ 
+  {
+    "Image": "",
+    "Lieu": "The Mother Cados Moutains - Northern Desert",
+    "Des": "A desert to the north of the Cados Mountains.",
+    "Supp": "Green Spider Cactus Swordbeak Sand Thief Cockatrice Passion Cockatrice"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "Sands of Kogorh",
+    "Des": "A vast desert in the center of Desier.",
+    "Supp": "Green Spider Cactus Swordbeak Sand Thief Cockatrice Passion Cockatrice"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "Southern Sands of Kogorh",
+    "Des": "The southern region of the Kogorh desert.It is elevated above sea level.",
+    "Supp": "Green Spider Cactus Swordbeak Sand Thief Cockatrice Passion Cockatrice"
+  },
+ 
+  {
+    "Image": "",
+    "Lieu": "The Father Muzaeli Mountains - East Desert",
+    "Des": "A desert to the east of the Muzaeli Mountains.",
+    "Supp": "Green Spider Cactus Swordbeak Axigle Sand Thief Druid Dryad"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "North Father Muzaeli Mountains",
+    "Des": "A range of mountains where Mt. Temza is located.",
+    "Supp": "Green Spider Cactus Swordbeak Axigle Sand Thief Druid Dryad"
+  },
+ 
+  {
+    "Image": "",
+    "Lieu": "East Father Muzaeli Moutains",
+    "Des": "The eastern most area of the Muzaeli Mountains.",
+    "Supp": "Green Spider Cactus Swordbeak Axigle Sand Thief Druid Dryad"
+  },
+ 
+  {
+    "Image": "",
+    "Lieu": "Father Muzaeli Mountains",
+    "Des": "A steamy area in the Muzaeli Mountains.",
+    "Supp": "Gentleman Druid Gentlegolem"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "The Four Isles",
+    "Des": "A group of islands off of the southern coastof Desier.",
+    "Supp": "Wirbel Death Mantis Clappit Loewe"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "Sands of Kogorh, Southern Island",
+    "Des": "A desert island off of the southerncoast of Desier.",
+    "Supp": "Swordbeak Cockatrice Passion Cockatrice"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "Zadrack Island",
+    "Des": "A desert island.",
+    "Supp": "Swordbeak Deadwreath Superstar R"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "Myannema Twin Islands",
+    "Des": "Two identical islands surrounded by a shallow lagoon.",
+    "Supp": "Filifolia Filifolia Bud Alraune Floating Filo Rosa Gigantia"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "Northeast Hypionia",
+    "Des": "The northeast region of Hypionia.A small path lies deep within the mountains.",
+    "Supp": "Bunwigle Critis Burglar Square Shoulder Peepit Erdas Skinny"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "Eastern Hypionia",
+    "Des": "The eastern part of Hypionia is an areafilled with all types of terrain. Sakkel Bay is to the north.",
+    "Supp": "Bunwigle Critis Burglar Square Shoulder Peepit Erdas Skinny"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "Hypionia",
+    "Des": "The continent where Baction is located.",
+    "Supp": "Peepit Critis Bunwigle Rasslebit Erdas Mandrawigle Skinny"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "Southern Hypionia",
+    "Des": "An area filled with intricate terrain.",
+    "Supp": "Peepit Critis Bunwigle Rasslebit Erdas Mandrawigle Skinny"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "Western Hypionia",
+    "Des": "The area where the Egothor Forest is located.",
+    "Supp": "Peepit Critis Bunwigle Rasslebit Erdas Mandrawigle Skinny"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "Beldeabou Bay",
+    "Des": "An opposing bay to Sakkel Bay.",
+    "Supp": "Octopoise Aquicia"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "East Sulion Island",
+    "Des": "An island east of the group of islands offthe southern Hypionia coast.",
+    "Supp": "Rasslebit Burglar Bunwigle Square Shoulder Pearllit Skinny"
+  },
+ 
+  {
+    "Image": "",
+    "Lieu": "South Sulion Island",
+    "Des": "An island in the center of a group of islands.It is surrounded by mountains and is oddly shaped.",
+    "Supp": "Gentleman Druid Gentlesinger"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "West Sulion Island",
+    "Des": "An island west of the group of islands offthe southern Hypionia coast.",
+    "Supp": "Peepit Critis Rasslebit Erdas Bunwigle Pearllit Mandrawigle"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "Weccea",
+    "Des": "An uncharted continent.",
+    "Supp": "Roctoise Skunky Killer Bee Greater Skunky"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "Northeast Weccea",
+    "Des": "An island northeast of Weccea.",
+    "Supp": "Roctoise Skunky Killer Bee Greater Skunky"
+  },
+ 
+  {
+    "Image": "",
+    "Lieu": "Southeast Weccea",
+    "Des": "An island southeast of Weccea.",
+    "Supp": "Roctoise Skunky Killer Bee Greater Skunky Superstar D Bloody Beak"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "Southwest Weccea",
+    "Des": "An island southwest of Weccea.",
+    "Supp": "Roctoise Skunky Killer Bee Greater Skunky"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "Northern Sulzanni Islands",
+    "Des": "A chain of islands to the west of Yurzorea.",
+    "Supp": "Paincorn Flora Mantis Venomey EX Rhino Blooms Poisey Hippo"
+  },
+ 
+  {
+    "Image": "",
+    "Lieu": "The Sulzanni Island chains",
+    "Des": "A chain of islands to the west of Yurzorea.",
+    "Supp": "Paincorn Flora Mantis Venomey EX Rhino Blooms Poisey Hippo"
+  },
+  
+  {
+    "Image": "",
+    "Lieu": "South Sulzanni Islands",
+    "Des": "A chain of islands to the west of Yurzorea.",
+    "Supp": "Paincorn Flora Mantis Venomey EX Rhino Blooms Poisey Hippo"
+  },
+ 
+  {
+    "Image": "",
+    "Lieu": "Northern Yurzorea",
+    "Des": "A forest area on northern Yurzorea.The trees here are oddly shaped.",
+    "Supp": "Paincorn Flora Mantis Venomey EX Rhino Blooms Poisey Hippo"
+  },
+  {
+    "Image": "",
+    "Lieu": "Northeast Yurzorea",
+    "Des": "An elevated flat land surrounded by mountains.",
+    "Supp": "Paincorn Flora Mantis Venomey EX Rhino Blooms Poisey Hippo Griffin"
+  },
+  {
+    "Image": "",
+    "Lieu": "Truffdae Mountains",
+    "Des": "A mountain range in the center of Yurzorea.",
+    "Supp": "Paincorn Flora Mantis Venomey EX Rhino Blooms Poisey Hippo"
+  },
+  {
+    "Image": "",
+    "Lieu": "Southern Yurzorea",
+    "Des": "A land full of grasslands, forest, lakes and trails.",
+    "Supp": "Paincorn Flora Mantis Venomey EX Rhino Blooms Poisey Hippo"
+  },
+  {
+    "Image": "",
+    "Lieu": "Eastern Yurzorea",
+    "Des": "Grassland on the eastern side of the continent.",
+    "Supp": "Paincorn Flora Mantis Venomey EX Rhino Blooms Poisey Hippo"
+  },
+  {
+    "Image": "",
+    "Lieu": "Niffel Lake",
+    "Des": "The largest lake in the world.",
+    "Supp": "Gentleman Druid Gentlemieu"
+  },
+  {
+    "Image": "",
+    "Lieu": "Northern Isles, Yurzorea",
+    "Des": "Islands located north of Yurzorea.",
+    "Supp": "Paincorn Flora Mantis Venomey EX Rhino Blooms Poisey Hippo Judasey"
+  },
+  {
+    "Image": "",
+    "Lieu": "Nam Cobanda Isle",
+    "Des": "An island with a unique town located on the edge ofthe world map. The shape of the forest looks familiar...",
+    "Supp": "Bigger Balloon Superstar S"
+  },
+  {
+    "Image": "",
+    "Lieu": "Terca Lumireis",
+    "Des": "Located at the center of the world.",
+    "Supp": ""
+  },
+  {
+    "Image": "",
+    "Lieu": "The Inner Ocean",
+    "Des": "The ocean  surrounded by the 6 continents.",
+    "Supp": ""
+  },
+  {
+    "Image": "",
+    "Lieu": "The Outer Ocean",
+    "Des": "The ocean surrounding the 6 continents.",
+    "Supp": ""
+  }
+]
+}
