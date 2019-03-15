@@ -1,0 +1,774 @@
+{
+"synopsis":[
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0001.png",
+    "Titre": "Broken Aque Blastia",
+    "Synop": "The aque blastia in the lower quarter of the imperial capital broke this morning, flooding the entire plaza there. The townspeople are doing all they can to remove the water, but the situation has yet to improve.The flood is thought to be the fault of a Mr. Mordio, a mage who had come to repair the blastia, but ended up stealing the core that powers it instead.With this information in hand, Yuri, a youth from the lower quarter, is following Mordio back to the royal quarter to track the mage down."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0002.png",
+    "Titre": "Infiltrate the Royal Quarter!",
+    "Synop": "Yuri was arrested by knights of the Cumore Brigade after breaking into the residence of Mr. Mordio.He was also charged with theharassment of Sirs Adecor andBoccos, and is currently beingheld in the castle dungeon.The Knights planned on questioning Mordio as well, but the mage appears to have already left the imperial capital."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0003.png",
+    "Titre": "Dungeon Escape",
+    "Synop": "The alleged criminal, Yuri, made an escape from the castle dungeon last night.The suspect was last seen talking with the shady-looking man who occupied the neighboring cell.According to the guard on duty at the time, the two were discussing a \"statue of the goddess.\" By the time this information surfaced however, the mystery man who may hold the only clue to this case, had been released."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0004.png",
+    "Titre": "Meeting with a Mystery Girl",
+    "Synop": "Estellise, a young lady of the castle, was reported by her guards to have been accompanying the suspect, Yuri, last evening.It is assumed that the criminal took the young lady with him after subduing the knights who were her escort.Certain knights have claimed the young lady left the castle in search of a Lieutenant Flynn, but further details are as yet unknown."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0005.png",
+    "Titre": "Assassin's Strike",
+    "Synop": "Witnesses reported a scuffle between Yuri and a man identified only as \"Zagi\" in Lieutenant Flynn's chambers this morning before dawn. Both parties had apparently come in search of Flynn.The lieutenant is currently on a pilgrimage however, and was not present when the melee ensued.Rumors have circulated that Estellise was accompanying the fugitive, Yuri, following these events, but the head of security has stated that aside from going underground, escape from within the castle is impossible."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0006.png",
+    "Titre": "Secret Passage",
+    "Synop": "The Knights have announced the discovery of an underground passage leading from within the castle to the royal quarter. Both Yuri and Zagi are assumed to have used it as their means of escape. The Knights are focusing their search in the lower quarter, as Yuri is expected to return to his home there.A spokesperson from the Imperial Research Institute has speculated that \"the underground passage may have been intended as an escape route for the royal family in times of emergency."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0007.png",
+    "Titre": "Go North, Young Man",
+    "Synop": "Hanks, resident of the lower quarter, has stated that Yuri has successfully evaded the Knights and left the capital.Hanks claims that Yuri left in pursuit of the alleged blastia thief, a Mr. Mordio, and that a \"cute young thing, name of Estellise\" was with him at the time.If Yuri is truly in pursuit of this Mordio, he will most likely be headed for Aspio, a destination that would take him to the north."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0008.png",
+    "Titre": "Formidable Fort",
+    "Synop": "Deidon Hold is a fort that lies to the north of the capital. In the season that monsters prowl the northern plains, the gates are closed and passage through the Hold is forbidden.It would appear that Yuri, a young man who recently escaped from the capital, has made his way to the fort.It is not uncommon for merchants and travelers to conduct business at the Hold while they await its reopening.Yuri is assumed to be mingling with the other travelers in attempts to gather information and supplies."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0009.png",
+    "Titre": "Rescue Operations",
+    "Synop": "Just past noon today, Yuri and Estellise were involved in rescuing a number of people from a monster attack outside of Deidon Hold.With the closure of the Hold following this event, the pair were assumed to havereturned to the capital. Kaufman, the president of the Fortune's Market guild, is said to haveinformed them of an alternate route through the woods to the west.With all of the stories surroundingthe Quoi Woods, can the two reallybe planning to go there?"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0010.png",
+    "Titre": "The Forest Curse",
+    "Synop": "Yuri is supposed to have entered the Quoi Woods this afternoon.With the suspension of travel through Deidon Hold, Yuri was expected to abandon his plans to go to Aspio. His decision to brave the perils of the woods, however, may keep his hopes alive.According to Yuri's companion, Estellise, the Quoi Woods are plagued by a curse. Despite this, the two appear to have gathered up their courage and entered the forest."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0011.png",
+    "Titre": "The Swooning Maiden",
+    "Synop": "This afternoon, Estellise collapsed in the Quoi Woods after suffering a sudden turn in her disposition.Yuri did his best to take care of his companion, but the cause of her discomfort is unknown.The two noted that the broken blastia in the vicinity may have been to blame in some way. With his sights set on Aspio, Yuri has resolved to press deeper into the Quoi Woods."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0012.png",
+    "Titre": "Attack of the Hunter",
+    "Synop": "Late this afternoon, Yuri and Estellise were set upon by young Karol Capel, a member of the Hunting Blades.The conflict turned out to be a misunderstanding on Karol's part, and blows were thankfully avoided. Hopefully, this will serve as a reminder to other guild members not to jump to conclusions.Though Karol had just come from the town of Halure to the north, he appears to have returned there with Yuri and Estellise."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0013.png",
+    "Titre": "Trouble in the Town of Blossoms",
+    "Synop": "Sometime past noon yesterday, the town of Halure was attacked by monsters. The monsters were defeated by a knight on a pilgrimage, but many appear to have been injured in the struggle.The young healer Estellise, passing through the town by chance today, tended to the injured. However, the inactive barrier blastia has yet to be restored.The town has pinned its hopes on Yuri, who examined Halure's famous tree for some sign of a solution...But will he succeed?"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0014.png",
+    "Titre": "O Tree, Return to Beauty",
+    "Synop": "With a panacea bottle, the blighted soil causing the tree to rot may be cleansed...With these words, Karol has returned to the Quoi Woods with Yuri in hopes of finding the eggbear claw and nia fruit required to make the remedy.The mayor holds the luluria petal which the boy claims is the final ingredient."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0015.png",
+    "Titre": "Restoring the Tree",
+    "Synop": "This afternoon, Yuri and his friends found and defeated the eggbear of Quoi Woods.Karol smeared himself with some of the nia fruit's pungent juice to lure the eggbear out of hiding.Following this, the party returnedto town with the eggbear claw andthe nia fruit, and combined it withthe luluria petal to complete thepanacea bottle. Having received thisnews, the townspeople eagerly awaitedthe return of the blossoms."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0016.png",
+    "Titre": "The Girl who Makes Miracles",
+    "Synop": "Just after noontime today, the tree of Halure was returned to health. Spirits fell at first when the panacea bottle failed to have any effect, but then Estellise brought about a miracle.The power she used restored the tree, but just how she managed it remains unclear at this time.The young lady fled the town shortly after, to escape her pursuers. The mayor has said she will be remembered for generations to come as the girl who gave Halure a much-needed miracle."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0017.png",
+    "Titre": "Onward to Aspio",
+    "Synop": "According to the mayor, the target of Estellise's search, a Lieutenant Flynn, has made his way east.As Yuri's destination of Aspio alsolies in that direction, the two haveagreed to continue their travelstogether. The young Karol appears tohave gone with them in hopes ofrejoining his friends at the harbor."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0018.png",
+    "Titre": "The City Hidden in the Mountains",
+    "Synop": "Three people appeared with a dog at the gates of Aspio this morning requesting to meet with Flynn, though they lacked a passport. A young man in the group also expressed his desire to meet with a Mr. Mordio. The trio is said to have withdrawn after being refused entry by the guards, but did not appear willing to admit defeat.Anticipating the possibility of an illegal break-in, the city guard is expected to tighten security at the rear gate as well."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0019.png",
+    "Titre": "The Genius Mage of Aspio",
+    "Synop": "An explosion was reported on the outskirts of Aspio at around noon today. The blast came from the residence of one Rita Mordio. The incident is assumed to be linked to Yuri's pursuit of Mordio as the alleged blastia thief. Rita denies the charges, and has set out with the party for the Shaikos Ruins to the east to prove her innocence."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0020.png",
+    "Titre": "The Floating Ruins",
+    "Synop": "This afternoon, Rita paid a visit to the ruins of Shaikos to the east of Aspio, for research purposes. Recent excavations have uncovered vast caverns stretching out beneath the once-proud stone remains.The party has discovered numerous sets of footprints coming and going from the ruins. Now suspecting thievery herself, Rita has apparently led the party into the subterranean caverns."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0021.png",
+    "Titre": "Sentinel of the Depths",
+    "Synop": "Rita suffered mild injuries while investigating a humanoid blastia today, when it sprang suddenly to life and attacked. Estellise was on the scene as well and treated Rita's wounds with her healing artes.The blastia had been activated by a ransacking band of thieves. Hoping that pursuing them would lead to information about the stolen aque blastia, Yuri chased after the person they encountered, but not before toppling the guardian of the ruins."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0022.png",
+    "Titre": "Who's Afraid of a Band of Thieves?",
+    "Synop": "The ruin robber was captured yesterday in the pre-dawn hours. From him, the party learned that the recent blastia theft has been the work of a large-scale organization orchestrated by a single person. This kingpin was revealed to be a towering, one-eyed man based in the port town of Torim. To reach Torim on the neighboring continent, the party must first travel to the port of Nor, and they have returned to Aspio with this goal in mind.Now, the thief they caught is thought to have been turned over to the authorities in Aspio."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0023.png",
+    "Titre": "Genius Mages Need Friends Too",
+    "Synop": "The guards of Aspio made inquiries into the sudden disappearance of town eccentric, Rita Mordio. Last seen on her way out of the city, the mage is assumed to be setting off on a journey. Word has it that Rita was joined by Estellise, headed to Halure to meet up with her friend Flynn. The mage plans to confirm the safety of Halure's restored barrier blastia for herself.With Rita cleared of suspicion, Yuri even offered up a rare apology."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0024.png",
+    "Titre": "A Mage's Curiosity",
+    "Synop": "Rita, the blastia mage said to have left Aspio, was spotted today on the streets of Halure.Upon seeing the town's great tree, which Rita assumed to be withered, witnesses say the young mage was struck dumb with surprise.The restoration of Halure's tree seems to have touched off a spark of curiosity in Rita.Many have witnessed her busying herself at the tree's base, and she appears to be conducting her research in earnest."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0025.png",
+    "Titre": "Wanted Man",
+    "Synop": "Last evening, the Knights posted their latest list of wanted criminals, and Yuri Lowell's name appeared among them. So far, however, the young man has slipped easily through the fingers of Lieutenant Leblanc and his men.Yuri has set his sights on Nor, to the west, convinced that the one-eyed man is the missing piece in the puzzle of the stolen blastia. Word on the street says Estellise's chances of running into Flynn in Nor are high."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0026.png",
+    "Titre": "A Hill with a View",
+    "Synop": "The barrier blastia atop Ehmead Hill was destroyed suddenly today by the \"dragon rider\".No one was injured, but the Knights have set up a watch as the barrier is currently inoperable.The Knights responded to a second disturbance caused by a female mage who tried to approach the blastia. This mage is assumed to be none other than Rita Mordio. The young lady appears to have escaped with Yuri and her other companions to the top of the hill."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0027.png",
+    "Titre": "Over the Hill We Go",
+    "Synop": "Yuri and his party were assaulted by a gattuso this afternoon, as they attempted to cross over Ehmead Hill. The gattuso was among the monsters that had previously attacked the town of Halure.Fortunately, the party seems to have dispatched the beast without incident. With this, Halure should be safe from any further monster raids.After gazing down at the ocean from atop the hill, the party began their descent toward Nor."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0028.png",
+    "Titre": "Storms in the Harbor",
+    "Synop": "Today at noon, Yuri was attacked by a group of \"red eyes\" on one of Nor's many back alleys. Hearing the commotion, Flynn and his patrol joined the fray and dispersed the assailants.Having found Flynn in good health after her lengthy journey, Estellise went with the lieutenant to the inn to catch up on recent events.Yuri is doing his best to stay busy in town while waiting for their meeting to end."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0029.png",
+    "Titre": "A Strange Girl",
+    "Synop": "Today, just before noon, a girl pushedher way through to the front of themagistrate's mansion.Yuri, who was passing by, happened tosee her arguing with the gate guards.According to eyewitness testimony, thegirl released what looked like yellowsmoke and then vanished without a trace.Afterwards, Yuri headed to the inn."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0030.png",
+    "Titre": "The Tyrant Magistrate",
+    "Synop": "Estellise sought an audience with Nor's magistrate, Ragou, suspecting his rule to be unjust, but was denied.Having heard of the magistrate's desire for the horn of a monster called Rhybgaro, the party set out for the town's outlying areas in hopes of capturing the beast.Meanwhile, Flynn, accompanied by the mage Witcher from Aspio, is preparing to exercise his authority to investigate Ragou's mansion."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0031.png",
+    "Titre": "In Search of Rhybgaro",
+    "Synop": "Yuri and his companions defeated a golden monster on the plains outside Nor this afternoon.The creature was none other than Rhybgaro, who had been released into the wild by the harbor magistrate. The party collected the beast's horn, and then set it free.With the monster no longer of value, the magistrate has no reason to force those who fail to pay their taxes to hunt it."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0032.png",
+    "Titre": "Monsters in the Basement",
+    "Synop": "A brigand by the name of Raven stole into the magistrate's mansion earlier today. He seems to have managed the feat by using Yuri and his companions to create a diversion.In the ensuing turmoil, the party dispatched several of the mercenaries hired to guard the estate.Tricked by Raven, they eventually found themselves locked in the mansion's basement. The group saw signs of monsters being kept there, but to what purpose, they could not say. How will they get out of this mess?"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0033.png",
+    "Titre": "Reunion with the Girl",
+    "Synop": "This afternoon, Yuri and the othersfound themselves locked in the basementof the magistrate's mansion.They saved a young boy, as well as ayoung girl who was caught sneaking intothe mansion. The boy was named Pauly,while the girl, a young adventurer, wentby the name Patty. With the children intow, Yuri and the others continued toexplore the mansion basement."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0034.png",
+    "Titre": "Rumble at Ragou's Mansion",
+    "Synop": "Earlier this evening, a fire broke out at the magistrate's mansion.The blaze is thought to have started when the dragon rider destroyed a blastia at the estate.Lieutenant Flynn and his men happened to be on patrol nearby and discovered an illegal blastia in the magistrate's possession when he responded to the emergency. Before they could question the official, he boarded a ship and fled the scene.Rather than give chase, the Knights focused their efforts on subduing the fire, leaving Yuri and friends to pursue the runaway Ragou."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0035.png",
+    "Titre": "From a Sinking Ship",
+    "Synop": "Ragou's personal ship was sunk off the bay of Torim late this afternoon. The boss of the Blood Alliance, also aboard the vessel, was revealed to be the ringleader behind the theft of blastia cores.The magistrate and his crew made their escape in life boats, but Yuri and his companions were left aboard the sinking ship.The group was thankfully rescued by the Knights, and Yuri himself saved a young man who would have gone down with the ship. Eager to learn the details of the incident, Flynn awaits a meeting with Yuri at Torim's inn."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0036.png",
+    "Titre": "Unpunished Crimes",
+    "Synop": "The magistrate of Nor underwent questioning today at the hands of Lieutenant Flynn. The Knight charged the official with possession of illegal blastia and the alleged abduction of Prince Ioder, a candidate for the throne. Due to lack of evidence, however, Ragou was set free.After receiving a tip about a band of fighters believed to be Barbos's Blood Alliance, Yuri and his companions have set out for a town northwest of Torim."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0037.png",
+    "Titre": "Warning from the Hunting Blades",
+    "Synop": "The city of Caer Bocram on the Tolbyccian continent was placed under the control of the Hunting Blades guild today, with entry forbidden to all others. Though the city was reduced to rubble in an earthquake over ten years prior, the continued presence of monsters there makes it a prime hunting spot for the guild.Harsh words were exchanged between Karol and his former guildmate, Nan, when the party sought to enter."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0038.png",
+    "Titre": "A Cave Beneath the Ruins",
+    "Synop": "A terrible monster lay in wait beneath the ruins of Caer Bocram... So spoke a member of the Hunting Blades.The monster apparently flew into a rage when the blastia entrapping it was destroyed by the dragon rider.In the end, the monster was subdued by Yuri and his companions.Calmed by the party's attack, the monster retreated to its lair in the city sewers. Following this, the party returned to the surface to leave the city and get back to their original task."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0039.png",
+    "Titre": "Lower Quarter Lad Arrested!",
+    "Synop": "Yuri and his companions were placed under arrest by the Knights today upon leaving the city of Caer Bocram.Estellise was also revealed to be an heir to the imperial throne, and Yuri has been charged with her kidnapping.Considering the numerous other offenses hung on his name, the Knights are expected to take the youth to Heliord for questioning.In the end, the tip Yuri received regarding the Blood Alliance led him only to the Hunting Blades."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0040.png",
+    "Titre": "A Full Pardon",
+    "Synop": "The Imperial Knights absolved Yuri Lowell of his crimes today, as compensation for aiding in the rescue of Prince Ioder and for his protection of Princess Estellise.Though his arrest at Caer Bocram was undone immediately, Yuri did not appear overjoyed following his release at Heliord.Yuri is hoping to meet one final time with the Princess, who is scheduled to return to the capital."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0041.png",
+    "Titre": "Blastia Problems",
+    "Synop": "It's not supposed to make that sound...\" Rita Mordio was overheard making this comment in regards to Heliord's barrier blastia, during her visit to the city today. The mage also reported witnessing disturbances in the aer at Caer Bocram, and is growing increasingly worried.This time however, with the Knights on hand, Yuri decided to let the ever-dependable Flynn deal with the problem."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0042.png",
+    "Titre": "Genius Mage to the Rescue",
+    "Synop": "Heliord's barrier blastia went berserk today, flooding the city with excessive amounts of aer.Rita quickly made adjustments to the blastia, getting the situation under control mere moments before the device exploded, but she was injured in the process.Rita was rushed to an inn by the Knights. Estellise is watching over her now, doing all she can to heal the girl with her artes."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0043.png",
+    "Titre": "Return of the Dragon Rider",
+    "Synop": "The dragon rider staged an attack on Heliord last evening.The assailant is thought to be the one behind the chain of destroyed blastia throughout the land.The dragon rider also attacked the room Rita was resting in, but Yuri took up his sword and fought the invader off.Estellise threw herself in front of Rita in the commotion, and the mage was stunned by her kindness."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0044.png",
+    "Titre": "A Task Assigned",
+    "Synop": "After her success in diffusing the blastia, Rita was recruited by the Knights to investigate the Keiv Moc Woods to the west of Heliord. Princess Estellise, who had planned to return to the capital, has decided to extend her stay with the group a while longer.The party also plans to stop by the guild city of Dahngrest on their way to the forest, in hopes of gathering information about the Blood Alliance."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0045.png",
+    "Titre": "Stronghold of the Guilds",
+    "Synop": "Earlier this morning, the party arrived at Dahngrest, the center of guild culture. They are thought to be seeking an audience with the head of the guild Union, Don Whitehorse, to discuss Barbos's role in stealing the blastia cores.Begun as a means of mediating disputes between guilds, the Union sits in the center of Dahngrest and handles guild-related matters of all kinds."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0046.png",
+    "Titre": "For Our Beloved Town!",
+    "Synop": "Monsters poured into Dahngrest today when the city's barrier failed suddenly. Along with help from Yuri and Flynn, the Union succeeded in repelling the attack. Deciding to eradicate the monsters in their lair, Don Whitehorse led a raiding party out of the city.Their meeting with the Don thus postponed, the party has set out with Rita for Keiv Moc, to guard the mage during her investigations there."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0047.png",
+    "Titre": "The Emerald Forest",
+    "Synop": "High humidity, overgrown plants and trees, and a particularly vicious breed of monsters. Upon setting foot in Keiv Moc, visitors are bombarded with an unsettling array of sights and sounds.What causes these abnormalities? Hoping to uncover some answers to this question, Rita has plunged into the depths of the forest. The party encountered Raven on their way in, and he has joined their cause for the time being. With memories of their meeting in Nor still fresh, the group does not appear overjoyed by his presence."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0048.png",
+    "Titre": "The Girl Who Plays with Bugs",
+    "Synop": "This morning, in the Forest of Keiv Moc,a girl was rescued from the clutchesof a monster. That girl was theadventurer Patty. She apparently came tothe forest looking for treasure.After a brief conversation with Yuri andthe others, she once again disappearedinto the forest in search of treasure.Yuri's group ventured deeper into theforest themselves to investigate."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0049.png",
+    "Titre": "The Silent Aer",
+    "Synop": "Since entering Keiv Moc, Ritahas proposed that the large quantitiesof aer being produced there are to blamefor the forest's overgrown condition.A solitary figure appeared and put a stopto the overflow of aer, but the party hasno clues to his identity, as he departedshortly thereafter.The Don, who came to the forest toexpel the monsters, decided to testYuri's strength by crossing swords withhim. He then returned to Dahngrest.Yuri plans to revisit thecity in hopes of meetingwith the Union leader again."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0050.png",
+    "Titre": "Letter from an Imperial Candidate",
+    "Synop": "Lieutenant Flynn arrived at Union headquarters this morning to present the Don with a letter from Prince Ioder requesting cooperation in dealing with Barbos.The letter, however, instead detailed a plan to pardon Barbos's heinous crimes in exchange for the life of Don Whitehorse.Taking this affront as a declaration of war,the Don roused the guilds to action,and Dahngrest now teeters on the brink of all out battle with the Knights.Flynn is thought to have been taken to prison for delivering the message, and many fear for his safety."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0051.png",
+    "Titre": "The Ties That Bind",
+    "Synop": "Flynn, the knight who delivered a threatening letter to the Union, appears to have been freed from prison, with Yuri going behind bars in his place.Yuri was willing to make this sacrifice on account of their long-standing friendship. Moved by this show of compassion, the Don set Yuri free as well, and is said to have entrusted the youth with calming tensions between the Union and the Knights."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0052.png",
+    "Titre": "Silent Sewer Tunnels",
+    "Synop": "Upon reuniting with his comrades, Yuriattempted to infiltrate the BloodAlliance's hideout in order to confrontBarbos.They were seen making their way into thehideout via the waterway beneathDahngrest, and are believed to have beenguided by Raven, a member of Altosk.Given the darkness that envelops theunderpass, they appear to be navigatingthe tunnels using a lux blastia filledto capacity with aer."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0053.png",
+    "Titre": "Underground Pledge",
+    "Synop": "This afternoon, while navigatingDahngrest's underground waterway, Yuriand his group happened across thefounding Pledge of the Union carved intothe wall of the underpass.The group expressed their admiration atthe carving of the original pledge madeby Don Whitehorse and the other foundingmembers.Filled with a renewed sense of purposefrom ideals of the guilds, the groupseemed to be hurrying toward the BloodAlliance hideout."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0054.png",
+    "Titre": "Hounding the Mastermind",
+    "Synop": "A clash between the Union and the Knights was narrowly avoided today when Flynn arrived with an authentic letter from Prince Ioder.The problems began when the first letter, a fake, was put in the Don's hands. Having traced the deception back to Barbos, Yuri has followed the leader of the Blood Allianceto Ghasfarost Tower, the guild's base of operations. Witnesses say Yuri was seen heading for the tower with none other than the blastia-destroying dragon rider."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0055.png",
+    "Titre": "Tower in a Tempest",
+    "Synop": "Joined by Flynn, a lieutenant of theImperial Knights, Estellise and therest of the party made their way toGhasfarost today and succeeded inmeeting up with Yuri, who had arrivedthere earlier.Yuri was joined by a Miss Judith,a female Krityan. The two hadcollaborated earlier to breakfree from the tower's jail.Believing Barbos and the lower quarter'saque blastia core to be waitingat Ghasfarost's summit, Yuri andhis companions have begun theclimb to confront him."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0056.png",
+    "Titre": "Storm's End",
+    "Synop": "Yuri's party clashed with Barbos atop Ghasfarost Tower today in a bitter struggle that ended in defeat for the guild boss.Barbos is thought to have perished after hurling himself from the tower's heights following the battle.Having found the lower quarter's blastia core, Yuri's journey would appear to have come to a close.The party has agreed to return to Dahngrest for the time being."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0057.png",
+    "Titre": "The Guilty Be Punished",
+    "Synop": "The Knights have made clear Barbos' involvement in the theft of the blastia cores, as well as his attempts to incite a war between the Union and the empire. Magistrate Ragou has also been taken into custody. Lieutenant Flynn is slated to be decorated by the Knights for his pivotal role in diffusing the conflict.Ragou will be transferred to the capital tomorrow. With crowds expected to line the streets in hopes of witnessing Nor's fallen tyrant, the Knights and the Union will be keeping strict watch to prevent the criminal from becoming a victim of vengeance."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0058.png",
+    "Titre": "Death to the Guilty",
+    "Synop": "In a proclamation today, the imperial Council announced that Ragou has been absolved of his crimes against the public good by way of insufficient evidence.The magistrate's sudden disappearance following this pardon has raised fears that he may become a target of retribution for those who suffered under theyoke of his authority. There are even whispers that Ragou has already been killed, and the Knights are searching feverishly for any sign of his whereabouts.In other news, Flynn's promotion to Captain was made public today."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0059.png",
+    "Titre": "Trouble Breeds Still More Trouble",
+    "Synop": "Dahngrest was attacked today by a massive bird monster. Princess Estellise found herself in its sights just before her departure for the capital, but was fortunately saved from harm by Yuri.The monster was driven off by a secret weapon wielded by the Knights. Some say that it spoke in a human tongueand had come specifically to do away with the Princess, but these rumors are as yet unconfirmed.Estellise seems to have altered her previous plans, and has left the town with her companions in the direction of Heliord."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0060.png",
+    "Titre": "A New Guild is Born!",
+    "Synop": "This morning, Karol Capel proclaimed the formation of the guild Brave Vesperia.Though a mere 12 years old, Karol has been in and out of numerous guilds and accumulated a wealth of experience rare for a boy his age.The guild is guarding Princess Estellise in her search for the speaking monster, and is currently headed for the Sands of Kogorh.The guild plans to reach Torim by way of Heliord, and then to charter a ship."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0061.png",
+    "Titre": "A Town Without Direction",
+    "Synop": "Heliord's citizens have begun to disappear in what is becoming an alarming trend. Some say that harsh labor practices in the town are to blame, but such an explanation seems insufficient given the large numbers of people that have now gone missing.A man named Teagle, who moved here from Nor recently, is one such example. The man's wife, Kelas, has asked Brave Vesperia to search for her husband. Determined to get their man, the party hatches a racy plan of seduction to distract the city's guards."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0062.png",
+    "Titre": "How to Make a Gorgeous Gown",
+    "Synop": "Today we will be explaining the method for putting together a truly stunning dress.While the nobles of the capital can order their gowns from the trendiest fashion boutiques, such luxuries are not available to those living in frontier towns. In a pinch though,a plumed tail, some sparrow's down, and a basilisk scale can be combined to turn out a dress of the highest caliber!If, like Brave Vesperia, your plans call for a little risky business, don't miss this chance to make a dress that'll knock their socks off."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0063.png",
+    "Titre": "The Boomtown's Secrets",
+    "Synop": "Having rescued her from confinement in the Knights' guard house, the party learned from Rita of the widespread forced labor being conducted in Heliord.Believing this discovery to be a lead to Teagle's disappearance, Brave Vesperia set about investigating the labor camp.Having witnessed the transport of some suspicious blastia, Rita is strongly urging the party to uncover the true nature of the camp's operations."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0064.png",
+    "Titre": "Freeing the Oppressed",
+    "Synop": "Responding to rumors of slave labor in Heliord, Captain Flynn has conducted a raid on the labor camp and set the workers free.It would seem that Captain Cumore of the Knights, who had organized the labor camp, had also relieved the interim magistrate in Heliord of his duties.The Captain is alsosuspected to have been using the camp as a means of amassing a store of illegal weaponry.Brave Vesperia appears to have given chase when the renegade Captain made his escape."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0065.png",
+    "Titre": "Friendship Treaty Deadlock",
+    "Synop": "Prince Ioder arrived in Heliord today from Capua Torim, where he had been previously stationed.Having learned of obstacles preventing the establishment of a friendship treaty with the Union, the Prince has chosen the frontier town as abase from which to renew negotiations with the guilds, due to its increased proximity to Dahngrest.The Union has also instructed Raven to travel with Brave Vesperia in their efforts to monitor the movements of Princess Estellise."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0066.png",
+    "Titre": "Watch Out for Mermen",
+    "Synop": "A ship belonging to Fortune's Market has set sail from Torim. Although the waters are thick with schools of mermen searching for prey at this time of year, the guild president seemed adamant about leaving the harbor town behind.Hired on to serve as guards for the duration of the voyage, Brave Vesperia has been promised free use of the craft if they can help it reach its destination safely.The guild has set sail on the open sea with a course set for the southern city of Nordopolica."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0067.png",
+    "Titre": "Defeating the Mermen",
+    "Synop": "The Fiertia, a ship carryingthe cargo of the Fortune's Marketguild, ran into a groupof mermen this afternoon.The cargo appears to have been savedhowever, thanks to the effortsof Brave Vesperia, a guild servingas guards aboard the vessel.A young girl was rescued from themermen upon their defeat. The girl isbelieved to be a troublemaker by thename of Patty, who previously snuckinto the magistrate's mansion atNor Harbor.The Fiertia is presently heading for its destination, Nordopolica."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0068.png",
+    "Titre": "Ghost Ship in the Mist",
+    "Synop": "The Fiertia, a vessel belonging to Fortune's Market, appears to have collided with a ghost ship this afternoon.Members of Brave Vesperia boarded the mysterious craft to investigate. After they failed to return, however, the remaining membersgrew worried and have now gone looking for them.The president of Fortune's Market, a Ms. Kaufman, stayed with the Fiertia, hoping for the guild's safe return."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0069.png",
+    "Titre": "What's in the Box?",
+    "Synop": "Brave Vesperia discovereda small red box within thecaptain's cabin of the ghostship they boarded today.The Captain's log confirmed thatthe ship has been around for 1000years, and that its mission wasto bring a so-called clear cielcrystal to the town of Yormgenas a means of defending its residentsfrom monster attacks.After defeating the mysterious monsterthat attacked them in the captain'scabin, Brave Vesperia decided to deliverthe clear ciel crystal to Yormgenthemselves, and thus took the boxand returned to the Fiertia."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0070.png",
+    "Titre": "A City Ringing with Warrior Songs",
+    "Synop": "Brave Vesperia arrived at the cityof Nordopolica this morning, with Pattyleaving the party upon their arrival.Their companion, Raven, revealed himselfto be an officer of the guild Altosk.He has come to deliver a letter from Don Whitehorse to Belius,the Duce of Nordopolica.Brave Vesperia may use theopportunity to introduce themselvesto Belius as well.Nordopolica's leader does not meetwith just anyone, however. Thosewho seek an audience with her mustfirst receive the approval ofthe city's guild, Palestralle."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0071.png",
+    "Titre": "New Moon Duce",
+    "Synop": "The members of Brave Vesperia visited the headquarters of the Palestralle guild in hopes of meeting with Nordopolica's ruler, Belius.But according to the Duce's retainer Natz, Belius only makes appearances on the evening of the new moon.The new guild has taken up residence at an inn in the city to wait for the arrival of the next new moon."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0072.png",
+    "Titre": "Patty's True Identity",
+    "Synop": "While visiting Nordopolica, Patty wasidentified as the granddaughter ofAifread.It was also discovered that Aifread hadgone against duties as a guild memberand killed a large number of civilians.The residents, having found out thatPatty is related to Aifread, attemptedto drive her out of the city.Yuri and the others witnessed the scenewhile gathering information andintervened, however Patty decided toleave the city herself to avoidescalating the situation."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0073.png",
+    "Titre": "Coliseum Quarrel",
+    "Synop": "Regaey, boss of the guild Ruins' Gate, was hurt today when he attempted to break up a quarrel between two guildmates.After observing Yuri's skill in resolving the conflict, the boss then asked Brave Vesperia to take on a new job.Though Yuri is still on the fence about accepting the work, Regaey is apparently waiting for the guild at the entrance to the city's famed coliseum."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0074.png",
+    "Titre": "It's the Title Bout!",
+    "Synop": "Yuri faced off against defending champion Flynn in a rare match against friends for today's coliseum title bout. The latter is rumored to have originally entered the tournament for work-related reasons. Regaey hired Yuri to defeat the reigning champion, but the two now realize that they have been tricked by the guild boss.A sudden appearance by Zagi put the match on hold, and when Regaey made his escape, Brave Vesperia was seen heading west, hot on his heels."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0075.png",
+    "Titre": "An Aer-Filled Cave",
+    "Synop": "A geyser of aer was found tobe pouring out of the Weasand ofCados this afternoon.Fortunately, a crisis was avoidedwhen a strange monster appeared andstabilized the environment.Amidst this confusion, Regaey wasrevealed to be none other thanYeager, leader of the guildLeviathan's Claw.Brave Vesperia's resident blastiaexpert, Rita, appears to have put herinvestigation of the cave on holdin favor of chasing after Yeager.In addition, the girl known asAifread's granddaughter, Patty,joined the group once again."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0076.png",
+    "Titre": "The Wind-Swept Oasis",
+    "Synop": "Late this afternoon, Brave Vesperiaarrived in Mantaic, a town lyingbetween the foothills and the centralareas of the Sands of Kogorh.Patty decided to leave the party andventure off on her own, however theothers are currently divided on whetheror not they should proceed further intothe desert. Many of Mantaic's previousvisitors have been faced with this samedecision, and Brave Vesperia's memberswill give the matter some seriousthought before proceeding."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0077.png",
+    "Titre": "Forward, Into the Desert",
+    "Synop": "Estellise released Brave Vesperia from their contract with her this afternoon. Nevertheless, she paid the guild their agreed-upon sum, insisting on calling it a keepsake of their travels together.The Princess appeared set upon going into the unforgiving desert alone. Unable to allow this, the guild has pledged to continue on as her guardians.The party was last seen entering the inn to prepare for their coming trek into the desert sands."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0078.png",
+    "Titre": "The Magistrate's Unreasonable Demands",
+    "Synop": "Brave Vesperia came across a group of Imperial Knights harassing two young children today and put a stop to the mistreatment.The Knights withdrew apologetically upon recognizing Princess Estellise.The brother and sister were apparently setting out to search for their parents who had been sent to the desert by order of the magistrate.Brave Vesperia is now planning to enter the desert to find the missing parents in place of the children."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0079.png",
+    "Titre": "Where the Cacti Grow",
+    "Synop": "Exhausted and weary, the members of Brave Vesperia took shelter at a small oasis they stumbled upon in the middle of the desert.The guild had been gathering water from any cacti they happened to find, but with water bottles empty and the heat beating downrelentlessly, they were but moments from collapse when they came across the sanctuary.They will have to be more frugal with their water stores if they hope to survive in the desert after this."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0080.png",
+    "Titre": "A Legendary Utopia",
+    "Synop": "Having gone missing last night inthe Sands of Kogorh, Brave Vesperiawas found today to be resting in anorthern desert town with Patty and acouple believed to be the missingparents of the two children in Mantaic.The guild had encountered a strangemonster in the central desert priorto this, and found themselvessapped of all strength when theyprepared to do battle with the creature.The guild has learned that thetown is none other than Yormgen,mentioned by the Captain ofthe ghost ship in his journal,and have begun to explore theirsurroundings in earnest."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0081.png",
+    "Titre": "A Broken Clear Ciel Crystal",
+    "Synop": "The clear ciel crystal retrieved from the ghost ship by Brave Vesperia was shattered today by Duke, a man known in Yormgen as the Sage, when the guild handed it to him. Details surrounding this figure remain unclear as he has so far declined any explanation of his person or his actions.Having abandoned their plan of meeting Phaeroh, the guild appears to be preparing for a return to Nordopolica via Mantaic to speak with Belius on the night of the new moon."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0082.png",
+    "Titre": "Oppression Hits a Speed Bump",
+    "Synop": "A cart laden with people being sent to the desert by the Knights was stalled in Mantaic this morning when it broke down on its way out of town. This event is expected to put an end to the forced removal of the town's citizens.Brave Vesperia was outraged to find the infamous Captain Cumore in charge of the garrison here, and will remain in the town for the time being to monitor the situation."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0083.png",
+    "Titre": "Tyrant Gone Missing?",
+    "Synop": "The whereabouts of Captain Cumore have been unknown since sometime last evening. Captain Flynn had taken over stewardship of Mantaic from Cumore, but appears to have withdrawn to Nordopolica with the ban on travel to and from Mantaic now lifted.Brave Vesperia is rumored to have been involved in the Captain's disappearance, but the veracity of such claims is uncertain. The guild has its sights set on Nordopolica as well, hoping to gain an audience with Belius."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0084.png",
+    "Titre": "A Blocked Windpipe",
+    "Synop": "The Weasand of Cados has been under blockade by the Knights since yesterday afternoon. The imperials appear to be taking security quite seriously, having gone so far as to bring trained monsters with them to the cave.Upon approaching, Brave Vesperia used the monsters to their advantage and managed to break through the blockade.Having emerged on the continent's eastern plains, the group is now making for Nordopolica."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0085.png",
+    "Titre": "A Moonless Night",
+    "Synop": "Brave Vesperia arrived in Nordopolica just after noon today.The guild plans to seek information regarding the monster Phaeroh from Belius, and to deliver a letter from the Don to the Duce as well.They arrive to find Nordopolica undisturbed, despite pressure from the Knights and the nearby blockade."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0086.png",
+    "Titre": "Audience with the Duce",
+    "Synop": "The Brave Vesperia guild was granted an audience with Belius today. The details of their exchange are unclear, but their talk was interrupted when the Hunting Blades stormed into the city.Clint, the guild chief, and his second, Tison, are said to have broken into the Duce's chambers.Their meeting cut short, Brave Vesperia left hurriedly for the Coliseum where the Hunting Blades have concentrated their attack.At present, Nordopolica is clenched tightly in the jaws of panic."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0087.png",
+    "Titre": "Coliseum in Chaos",
+    "Synop": "Monsters resembling foxes went wild at the coliseum yesterday, rousing the Knights to action. The monsters were eventually defeated by Brave Vesperia, but the guild was pursued by the Knights and forced to flee from the city by ship.Numerous sources report witnessingan argument between Yuri and Captain Flynn, but the details of the disagreement are unknown.From the presence of Don Whitehorse's grandson Harry, many suspect the recent upheaval to be the work of the Union.The members of Brave Vesperiaare currently stuck drifting onthe open ocean."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0088.png",
+    "Titre": "The Fiertia Adrift",
+    "Synop": "Brave Vesperia broke free from the Knights, but ran immediately into new troubles. The ship's new ceres blastia made the escape possible, but Judith has destroyed the device, and the craft is drifting aimlessly on the water. The guild is doing all they can to make the necessary repairs.With Judith's identity as the dragon rider unknown, her companions are left with no explanation for her actions. The other members of Brave Vesperia cannot conceal their surprise. The guild is expected to make for Dahngrest as soon as they have gotten underway."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0089.png",
+    "Titre": "A Time-Worn Hero",
+    "Synop": "Upon Brave Vesperia's arrival in Dahngrest, Raven left the guild to report to Union headquarters before the meeting with Don Whitehorse.Having learned of Leviathan's Claw's role in provoking the incident at the coliseum, Don Whitehorse has set out alone for the guild'shideout, intent on uncovering their true purpose. Concerned for the Don's welfare, Brave Vesperia has apparently followed.The hideout of Leviathan's Claw, the Manor of the Wicked, lies to the east of Dahngrest."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0090.png",
+    "Titre": "The Deathly Mansion",
+    "Synop": "A clash of swords rang out from the Manor of the Wicked late last night. When Brave Vesperia entered the premises, they found the Don already engaged in battle with Yeager.Agents of Leviathan's Claw prevented the guild's intervention, and the Don and Yeager disappeared into thedepths of the hall. Hoping to aid Whitehorse in some way, the party is assumed to have pursued the pair to the manor's second floor."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0091.png",
+    "Titre": "Wicked Showdown",
+    "Synop": "Negotiations between the Don and Yeager broke down this morning in the pre-dawn hours, before the two could reach a peace.Brave Vesperia defended the Don as he fled from the manor, and having made good their own escape, are already returning to Dahngrest.The guild was also able to deliver to the Don the clear cyano crystal they received from Belius during their time in Nordopolica."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0092.png",
+    "Titre": "Fallen Star",
+    "Synop": "Don Whitehorse, leader of the Union, took his own life this morning in atonement for the errors of his subordinates, which were ultimately responsible for the death of Belius.Yuri served as the Don's second in the grim task, and left the citybehind after paying his condolences, eager to be moving on.The party crossed paths with Yeager in their departure, but the situation was resolved before it could escalate."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0093.png",
+    "Titre": "The Dragon on the Mountain",
+    "Synop": "Brave Vesperia set sail today, just after noon.The guild has received word that Miss Judith, who left them recently, can be found in the vicinity of Temza, a mountain to the north of the Sands of Kogorh. They will most likely approach the area from the northwestern region of Desier.It is not yet clear how the guild plans to address Judith's desertion once they find her."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0094.png",
+    "Titre": "Heading for the Summit",
+    "Synop": "Members of the Hunting Blades, who had come to Mt. Temza in search of monsters, were attacked today by a lone female assailant. The situation was prevented from getting too far out of hand by the intervention of Brave Vesperia.The area was once said to be inhabited by the Kritya, but is now nothing more than an abandoned ruin.The guild is proceeding to the mountain's summit, following in Judith's footsteps."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0095.png",
+    "Titre": "The Bird of the Desert",
+    "Synop": "The mount used by the blastia-destroying dragon rider was found atop Mt. Temza this afternoon where the guild witnessed the creature undergo a transformation.The dragon, Ba'ul, appeared quite tame in the presence of Judith.Brave Vesperia plans on making use of the dragon's flight to breach the desert's mountains and meet with Phaeroh, the bird-lord of Kogorh."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0096.png",
+    "Titre": "The Truth of the Full Moon Child",
+    "Synop": "Brave Vesperia encountered Phaeroh today in the mountains of the Sands of Kogorh.According to Phaeroh, Princess Estellise's existence creates an imbalance in the world's supply of aer. The phenomenon sounds similar to that described by Judith in regards to the world's blastia.Learning that the answers they seek may lie in the town of Myorzo, the guild plans to visit a Krityan researcher in Aspio to inquire of the city's whereabouts."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0097.png",
+    "Titre": "A Krityan Guide",
+    "Synop": "Arriving in Aspio earlier this evening,Brave Vesperia succeeded in contactingthe Krityan youth, Tort.According to his testimony, theentrance to Myorzo is to be foundin Egothor Forest, a land sacredto the Krityan people.A certain bell is needed to open thedoor to Myorzo, which can be foundhidden on the Hypionian continent ina cave on a beach where red flowersbloom.After having promised to rid the holyland of its occupiers, Brave Vesperiais currently en route to said cave tofind the bell."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0098.png",
+    "Titre": "The Denounced Girl",
+    "Synop": "Early this morning, as Brave Vesperiaprepared to depart Aspio, theyencountered a member of Ruins' Gate.The guild member did not think veryhighly of Aifread's granddaughter,Patty, and showered her with insults.The members of Brave Vesperia came toher defense, and the guild membereventually left, feeling dejected.Unfortunately the damage had alreadybeen done, as the usually cheerful andupbeat Patty couldn't help but show herdiscontent after the encounter."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0099.png",
+    "Titre": "Cavern Graveyard",
+    "Synop": "This morning, Brave Vesperia happenedacross a large number of gravestones ina cave located in the southern region ofthe Hypionian continent.Aifread's granddaughter Patty couldn'thide her shock when they discovered thatthe graves were erected to honor thosethat lost their lives in the Black Hopeincident. Brave Vesperia found the bellneeded to enter the Krityan town andmade their way west toward EgothorForest."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0100.png",
+    "Titre": "The Forest Sanctuary",
+    "Synop": "Light was seen flashing from the hoplon blastia installed in Egothor Forest today, with Brave Vesperia becoming targets of the devices three times as they attempted to enter the area.The attacks caused Estellise to activate her power, and Yurisuffered light injuries when he deflected the second attack using only his sword.Rita succeeded in deactivating the first blastia with an encrypted formula, and is determined to dispatch the second device using the same methods."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0101.png",
+    "Titre": "The Joy of Being Accepted",
+    "Synop": "While passing through Egothor Forestthis afternoon, Brave Vesperiaencountered the Royal Guard, but wereable to ward them off by fightingtogether.Although she was still wracked withgrief over the events that transpired atRenansula Hollow, Patty was accepted asa member of Brave Vesperia, which raisedher spirits. Brave Vesperia continues tomake its way to the hoplon blastia atthe Egothor summit."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0102.png",
+    "Titre": "A Curious Shadow",
+    "Synop": "A gigantic creature resembling a jellyfish appeared in the skies above Egothor early this morning.The massive creature appeared when Judith rang the bell she carried while standing atop the forest's highest peak. Seeming to cover the very sky with its vastness, the organism is,according to Judith, none other than the city of Myorzo itself.Departing from the forest, Brave Vesperia boarded the Fiertia, and set a course for the giant, hovering jellyfish."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0103.png",
+    "Titre": "City of Seclusion",
+    "Synop": "Brave Vesperia arrived at Myorzo, a city built upon a colossal floating creature, this morning while aboard the Fiertia which was carried by Ba'ul.Though the town's residents were not unkind to the visitors, they did not offer any particular welcometo the outsiders, either. Judith's request to meet with the elder of the town was met with the ambiguous response that the group should simply \"do as they wish.\"The guild continues in their attempts to seek out the aforementioned Elder."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0104.png",
+    "Titre": "Bringer of the Cataclysm",
+    "Synop": "Brave Vesperia met with the Elder of Myorzo today and talked with him for quite some time.Over the course of the discussion, the party learned of Estellise's identity as a descendant of the Children of the Full Moon. The powers of those who bear this title, it was revealed, are fated to bring about a calamitythat will destroy the world. The Princess was understandably devastated to receive this news.The group is plotting their next move from the house next to the Elder's residence, where they are staying at present."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0105.png",
+    "Titre": "Two Go Missing",
+    "Synop": "Raven, who accompanied Brave Vesperia to Myorzo, has been reported missing since around noon today, as has Princess Estellise.Judging from the recent use of the town's kines blastia, the guild assumes their friends have descended to the planet's surface, and have left in search of the pair.Witnesses in Mantaic report seeing a flash of light far across the desert, which may also point to the use of a kines blastia."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0106.png",
+    "Titre": "The Commandant Exposed!",
+    "Synop": "Even as the search for the Princesscontinued, Brave Vesperia was rockedby the news that Commandant Alexei,of the Imperial Knights, has beenthe true mastermind behind all theguild has dealt with so far.Yeager also took the opportunityto reveal that the Commandant hadtaken Estellise with him to Baction,though why the guild boss shouldbetray Alexei is unclear. WithFlynn apparently involved in someway as well, the situation hasgrown decidedly complex.Captain Flynn himself decided to joinBrave Vesperia in order to unravel thetruth behind the Commandant's actions."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0107.png",
+    "Titre": "Monster vs. Mobile Fortress",
+    "Synop": "Heracles, the mobile fortress ofthe Imperial Knights, appeared todayand did fierce battle with an unidentifiedmonster in the vicinityof the Shrine of Baction.Mortally wounded, the creaturetook refuge within the shrine,and Commandant Alexei descendedfrom Heracles to followthe monster in on foot.Brave Vesperia and Captain Flynn madetheir way to Baction in pursuit, howeverthey ran into trouble with the RoyalGuard. Flynn's men, worried about theircaptain, arrived to provide support,thus allowing Yuri and the others toenter the shrine and rescue Estellise."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0108.png",
+    "Titre": "Sanctum of the Sublime",
+    "Synop": "Brave Vesperia entered the Shrine of Baction today, close behind Commandant Alexei.They have made Princess Estellise's safe return their foremost goal, but were also drawn by their contempt for Alexei's barbaric acts.The temple proper is divided into a perplexing series of catacombs, but relying on their map, the guild progresses ever closer to the shrine's innermost reaches and the waiting Princess."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0109.png",
+    "Titre": "Death of a Captain",
+    "Synop": "A tremor struck the Shrine of Baction today, collapsing its inner sanctum, and Captain Schwann of the Imperial Knights lost his life in the tumult.Captain Schwann, who was assumed to be the alter ego of Raven, perished in the process of enabling Brave Vesperia to escape, and the guildleft the premises, crestfallen at the loss of their former ally.Prior to this tragedy, Alexei left the shrine with Princess Estellise in tow, using the Captain as a shield to make his escape."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0110.png",
+    "Titre": "Alexei Returns to Heracles",
+    "Synop": "The mobile fortress Heracleswas seen to be on the movein the waters northeast of Bactionlate this afternoon.Brave Vesperia gave pursuit withthe knowledge that Alexei and Estelliseboarded the fortress followingtheir departure from Baction.Meanwhile, the Knights, under thecommand of Lieutenant Sodia, haveassembled a fleet and taken up the chaseby sea, hoping to bring the renegadeCommandant to justice."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0111.png",
+    "Titre": "Search for the Engine Room",
+    "Synop": "Brave Vesperia succeeded in boarding the mobile fortress today, but found no sign of the Princess there.The guild was startled when Zagi reappeared suddenly and smashed Heracles's control panel, rendering the fortress inoperable.Deciding that attacking the engine room would be the surest means of stopping the runaway vehicle, the party has moved their search to the inner workings of the fortress."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0112.png",
+    "Titre": "Stopping a Juggernaut",
+    "Synop": "The apatheia that served as the sourceof power to Heracles was destroyedtoday by Brave Vesperia. The enginespowering the fortress ceased tofunction, and the capital, previouslyin the path of the juggernaut,was saved as a result.Based on a tip from Yeager that Alexeihas made his way to the capital,the guild is considering the beststrategy for entering the city.Captain Flynn left the group to resumehis duties with the Knights, commandingthe naval fleet in their time of need."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0113.png",
+    "Titre": "Return of the Commandant",
+    "Synop": "The traitor Alexei made his return to the imperial capital before noon today. The city's defenses proved no match for the fallen Commandant, who was accompanied by his private force, the Royal Guard.It is unclear what fate Alexei has in store for the Princess, and many are concerned for the safety ofthe city's residents as well.Brave Vesperia have hardened their resolve and are preparing to follow Alexei into the capital by approaching from the sky."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0114.png",
+    "Titre": "The Capital Enveloped in Aer",
+    "Synop": "A dark cloud appeared suddenlyabove the capital today, knockinga dragon from the sky thatflew too near to it.In actuality, the dragon, Ba'ul,carrying Brave Vesperia in the Fiertia,was struck down by Alexei's formulathat uses Estellise's tremendouspower against her will.Not only was the ship badly damaged, butthe passengers escaped the crash withtheir fair share of wounds. Forced toput Estellise's rescue on hold, theguild has dragged itself to nearby Norin search of treatment for its woundedmembers."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0115.png",
+    "Titre": "A Northern Detour to the Capital",
+    "Synop": "Struck by the mobile fortress's recent cannon fire, the roads leading to inner Ilyccia from its seashore have become impassable.This has hampered Brave Vesperia's return to the capital, but the guild plans to try their luck in crossing the Zopheir Rift, a region of the continent'snorthern sea, which is frozen solid at this time of year.Access to the Rift can only be gained by traveling north along a narrow strip of land pinched between Ehmead Hill and the sea."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0116.png",
+    "Titre": "Sea of Ice",
+    "Synop": "Their sights set on returning to the empire, Brave Vesperia took their first steps into the Zopheir Rift today.The guild has spotted a massive creature that seems to be hounding them from beneath the ice, and are keeping themselves on constant alert.Having prepared to rescue Estellise, no matter what the cost, the party will not falter until their goal is achieved."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0117.png",
+    "Titre": "Menace Beneath the Ice",
+    "Synop": "Today, Brave Vesperia narrowly defeated the monster that dwells in the sea beneath the ice of Zopheir Rift. The creature made skillful use of the aer flow to hunt its prey.Karol displayed remarkable tenacity in the battle, defending his companions who had been pinned down by the monster,earning their admiration in the process.The effort took every ounce of Karol's strength.Though it means further delaying Estellise's rescue, the party appears to be stopped at Halure, giving the courageous lad some richly deserved rest."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0118.png",
+    "Titre": "Compassion for the Imperials",
+    "Synop": "Their town affected by the disturbances in the capital, Halure's elders opened a council to determine the stance the town will take in the trying times ahead.The meeting stretched over five hours, but the group adjourned with the following resolution: \"All refugees from thecapital are to be received with kindness. We will not yield to the terrorism of the traitors.\" Hoping to keep abreast of the changes in these uncertain times, Halure is said to be arranging an information exchange with the capital."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0119.png",
+    "Titre": "A Noble Calling",
+    "Synop": "On the authority of Prince Ioder, the inn at Halure is currently offering up its rooms and services free of charge. These measures were taken to accommodate the refugees arriving daily from the capital.According to the Prince, a refugee himself, aer is running rampanton the streets of the city, making it uninhabitable.Having heard this news, Brave Vesperia retired to Halure's inn to discuss its affect on their rescue mission."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0120.png",
+    "Titre": "Going it Alone",
+    "Synop": "Yuri left Halure this evening headed for the capital, determined to rescue Princess Estellise single-handedly.The young man's solitary action would seem to have resulted from some decision reached among the members of Brave Vesperia.The Knights are amassing a force at Deidon Hold for the purpose of retaking the capital, and regular passage through the fort is currently being severely restricted."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0121.png",
+    "Titre": "The Lost Capital",
+    "Synop": "Yuri was reunited with the other members of Brave Vesperia when they managed to catch up with him this afternoon.The experience strengthened the bonds of friendship in the guild, and is expected to have a lasting effect on their future endeavors.With entry to the lower quarter barred by wildly overgrown vines, Brave Vesperia is planning to gain access to the capital via the citizens' quarter."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0122.png",
+    "Titre": "Knights vs. War Machines",
+    "Synop": "This afternoon, Captain Flynn led hisbrigade in a surprise attack on the warmachines from Zaphias.The war machines were thought to havebeen sent by Alexei, who is occupyingthe capital. Flynn and his menimmediately began preparations forbattle with the machines. It is rumoredthat Brave Vesperia took advantage ofthe situation to make their way towardZaphias."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0123.png",
+    "Titre": "Storm-Wracked City",
+    "Synop": "Brave Vesperia successfully entered the capital this afternoon. Faced with the highly concentrated aer plaguing the city, the guild will be making for Zaphias Castle, where they hope to find the Princess and Alexei.Yuri appears preoccupied with thoughts of his hometown, sealed off as it is by a barricade of plant life. His companions believe his concern to stem from stories they have heard of lower quarter residents who failed to escape the capital."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0124.png",
+    "Titre": "Familiar Faces",
+    "Synop": "Following their successful infiltration of Zaphias Castle, Brave Vesperia discovered the lower quarter's residents holed up in the castle dining hall. The relocation was accomplished by Lieutenant Leblanc and two of his knights.Though glad to be reunited with his community, Yuri returnedat once to the matter of Estellise's rescue.Meanwhile, Alexei appears to be using Estellise's power from within the capital's barrier blastia, the Sword Steps."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0125.png",
+    "Titre": "Stair's End",
+    "Synop": "In a move that has fanned the flames of his rebellion, Alexei raised the ancient ruins of Zaude from the seas to the west of the capital, and then fled into the temple's halls.After their battle with Alexei, Brave Vesperia heeded the advice of Captain Flynn and is gathering theirstrength at Zaphias Castle.Princess Estellise was freed from her captor unharmed, but the guild must press on to stop Alexei, who now threatens to plunge the world forever into darkness."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0126.png",
+    "Titre": "Crushed Ambitions",
+    "Synop": "Brave Vesperia departed from ZaphiasCastle this morning in pursuitof the traitor, Alexei.Under the recommendation of PrinceIoder, Captain Flynn joined the group torepresent the Knights, with the rest ofthe knights joining soon thereafter.Their minds set to the task before them, both groups have hastened afterAlexei to the fortress shrine ofZaude, which has surfaced offof Tolbyccia's southern shores."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0127.png",
+    "Titre": "Into the Fortress Shrine",
+    "Synop": "Brave Vesperia infiltrated the fortress shrine of Zaude this morning.The group made their entry via a ventilation shaft in the massive structure after Phaeroh staged a sudden attack, drawing the attention of Alexei's Royal Guard.It is thought that the insides of the fortress are littered with traps to stop intruders, and we expect reports of even greater heroism as Brave Vesperia rises to the challenge."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0128.png",
+    "Titre": "Overcoming Obstacles",
+    "Synop": "Yeager, the boss of the guild Leviathan's Claw, perished today in the depths of Zaude shrine.Alexei had sent Yeager to dispatch a group of intruders that had managed to break through the shrine's defenses.The guild boss fell at the hands of Brave Vesperia. His faithful assistants Gauche and Droite did not take part in the battle, choosing instead to watch it play out from a distance.With their goal of defeating Alexei remaining, Brave Vesperia have continued their journey through the halls of the shrine."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0129.png",
+    "Titre": "Discovered Treasure",
+    "Synop": "This afternoon, Brave Vesperiadiscovered treasure on a pedestallocated in the Shrine of Zaude. It wasthe Maris Stella that Patty has longbeen searching for.Although she appeared to be overjoyed bythe find, Patty continued with BraveVesperia further into the shrine as theycontinued on their mission to defeat Alexei."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0130.png",
+    "Titre": "Falling Down",
+    "Synop": "A beam of light was seen shooting from the fortress shrine of Zaude yesterday, and preceded the appearance of a colossal monster in the sky.Alexei, who is thought to have triggered the light, was defeated by Yuri, but the young man appears to havefallen from the shrine itself after delivering the mortal blow.The Knights staged a search of the surrounding waters, but called off their efforts at nightfall, having found no sign of Yuri's remains.Though assumed dead, Brave Vesperia has not given up hope for their friend's survival."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0131.png",
+    "Titre": "The Man in Black Returns",
+    "Synop": "It was confirmed last night thatthe lower quarter youth, Yuri,though earlier pronounced dead,is still among the living.Princess Estellise, currentlystaying in the lower quarterherself, was overcome with reliefand rushed to inform her companionsof the good news.After meeting with Judith and Patty,Yuri is said to have made for Aspio, tolearn the results of the mage's researchconcerning the shrine of Zaude."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0132.png",
+    "Titre": "Home Sweet Dahngrest",
+    "Synop": "From her research on the Adephagos, which appeared during the recent incident at Zaude, Rita has determined that, left unchecked, the current imbalance of aer will usher in a catastrophe of previously unknown proportions.The mage has rejoined Brave Vesperia in hopes of stopping the Adephagos, and is engrossed in the problem of inhibiting the world's production of aer.The guild appears to have made Dahngrest its next destination."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0133.png",
+    "Titre": "Humanity's Legacy",
+    "Synop": "The theft of the cyano ciel crystal from the private chambers of Don Whitehorse was reported this evening. The late Union leader was entrusted with the item on the occasion of the demise of Belius.Though the Brave Vesperia guild is under suspicion, Harry, the Don's grandson and successor, issaid to have no intention of pressing charges in the matter.Last seen heading for the Zopheir Rift, Brave Vesperia is rumored to be using the stolen object in an experiment designed to forestall the coming apocalypse."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0134.png",
+    "Titre": "Birthplace of the Spirits",
+    "Synop": "Brave Vesperia was seen entering the Zopheir Rift this afternoon, and witnesses say they were carrying the cyano ciel crystal, recently stolen from Dahngrest, in their possession.The guild apparently intends to use the crystal to convert theaer produced by the world's aer krene into physical matter.The ploy could mean an end to the overabundance of aer currently threatening the world, but will it succeed...?"
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0135.png",
+    "Titre": "The Adephagos Awakens",
+    "Synop": "Light was witnessed radiating from the fortress shrine of Zaude again this evening. Its effect has caused the world's barriers to vanish, and the Adephagos appears to have redoubled its assault on the planet as well.Though successful with their experiments in the Zopheir Rift, Brave Vesperia learned that a portion of the Adephagos has launched an attack on Nordopolica. Calling a halt to their research, the guild is speeding toward the coliseum city in hopes of defending it from the onslaught."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0136.png",
+    "Titre": "Crisis Strikes Nordopolica",
+    "Synop": "After arriving in the coliseum city, Brave Vesperia succeeded in obliterating the piece of the Adephagos that had threatened to destroy the town. It appears that the creature had been consuming the aer responsible for maintaining the city's barrier.Brave Vesperia entered Nordopolica following the struggle and received the gratitude of Natz, the city's provisional Duce. Having confirmed the findings of their experiments by chance, the guild is gathering information that will allow their newfound power to create a new ally: elemental spirits."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0137.png",
+    "Titre": "Bodies in Crystal",
+    "Synop": "The experiments conducted by Brave Vesperia have succeeded in producing a spirit at last. The guild has also announced that properly used, these entities could cause the Adephagos to manifest itself in physical form.But in order to accomplish this,the guild must find materials similar in nature to the cyano ciel crystal. These substances may only be obtained from the souls of three of the so-called Entelexeia, located on the Crystal Isle northeast of Tolbyccia, in the mountains of the Sands of Kogorh, and on the continent of Weccea, respectively. With this goal in mind, Brave Vesperia has set out in search of the ancient creatures."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0138.png",
+    "Titre": "A Fiery Resolve",
+    "Synop": "The Entelexeia Phaeroh gave council to Brave Vesperia this morning in the mountains of the Sands of Kogorh.Injured in the attack on Zaude, Phaeroh entrusted the guild with his hopes, and consenting to join their cause, became an apatheia.Brave Vesperia converted the crystal to its spirit form, giving it the name Efreet.Estellise bestowed the title, and explained it to mean \"the blazing one."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0139.png",
+    "Titre": "An Island of Amethyst",
+    "Synop": "Brave Vesperia has landed on the Crystal Isle, found in the waters off Tolbyccia's northeast coast.Described as \"a waking dream\" by Estellise, the surreal scenery of the island appears to have profoundly affected the Princess.The guild has come in search of one of the three Entelexeia they must meet. If they succeed in pleading their case, they will gain the essence of a new spirit."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0140.png",
+    "Titre": "Birth of the Earth Spirit",
+    "Synop": "Deep within the crystal forest of Erealumen today, Brave Vesperia came to the aid of the Hunting Blades who were under attack by the enraged Entelexeia, Gusios.Determining that the ancient beast would fall under the power of the Adephagos if left unattended, the guild was unable to avoidtaking arms against it.The apatheia received from the fallen Gusios became a spirit on the spot, and was renamed Gnome by Estellise, for his unyielding perserverance."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0141.png",
+    "Titre": "Primordial Scars",
+    "Synop": "Brave Vesperia arrived at Relewiese today, on the continent of Weccea.The surface of the continent, as yet untouched by the hand of humanity, lies high atop an impregnable cliff. The jagged rows of stone gullies and canyons extending to the horizon here struck theguild as one of the most mysterious sights they have seen.They have come in search of the Entelexeia who makes these lands its home, and if all goes well, they will gain another spirit."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0142.png",
+    "Titre": "A Spirit Remembers",
+    "Synop": "After defeating the Entelexeia Khroma today in the ancient cave of Relewiese, Brave Vesperia acquired the spirit of Sylph from the apatheia they received. The name, given by Estellise, was explained to mean \"he who binds the winds.\"Sylph then informed the guild of Duke's tragic past, in which Elucifur, the Entelexeia who fought with Duke in the Great War, was killed by the Empire."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0143.png",
+    "Titre": "The Spirits Assembled",
+    "Synop": "Brave Vesperia has succeeded in gathering together the four elemental spirits.With that goal accomplished, Rita unveiled her plan to combat the Adephagos by converting the world's blastia cores into spirits.Estellise was quick to note that an operation of this magnitude will require the cooperation of the world's people, and the guild has resolved to wait until the time is right to act.The group was last seen heading to Nor to lay preparations for the road ahead."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0144.png",
+    "Titre": "The Summoned Ghost Ship",
+    "Synop": "Early this morning, a ghost shipsuddenly appeared within 150 meters ofNor.Brave Vesperia, who had been stationedin Nor, boarded the ghost ship anddiscovered a human-like monster on thelower deck. They made their way to theupper deck to defeat it.The upper deck was also a way into thecaptain's cabin."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0145.png",
+    "Titre": "The Girl's True Identity",
+    "Synop": "Brave Vesperia re-encountered themonster aboard the Atherum early thismorning. Patty claimed that the monsterwas actually Seifer, a staff officer ofSiren's Fang. It also became clear thatPatty was actually Aifread herself.Forced with the decision to defeat thedeformed Seifer, Patty broke down intotears."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0146.png",
+    "Titre": "Return of the Ancient Tower",
+    "Synop": "A tower reared up out of the ground near Aspio, just after noon today. Judging from the scale of the massive monolith, Aspio is thought to have been destroyed in the process.Brave Vesperia claims this is the ancient Tower of Tarqaron, and believes its appearance to be the work of Duke.It would seem that the mysterious man wishes to do away with the Adephagos, though by what means, no one can yet say."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0147.png",
+    "Titre": "A Friend in Need",
+    "Synop": "Beginning last night and extending on until dawn, the refugees from the capital were ambushed by monsters as they attempted to cross the eastern plains of Hypionia. Flynn and his brigade responded, and are doing all they can to repel the attackers.Lieutenant Sodia and the mage Witcher hurried to Nor to inform Brave Vesperia of the situation. Hearing the news, Yuri appears to have set out at once to aid his friend."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0148.png",
+    "Titre": "Hearts United",
+    "Synop": "The last of the monsters that ambushed the imperial refugees were defeated this afternoon by Brave Vesperia.Flynn took the occasion to announce his plans for an assembly of the world's leaders, to decide the best course of action against the Adephagos.Wishing for participation from all quarters, Brave Vesperia was given the role of emissary to the guilds, and the group departed immediately for Dahngrest and Nordopolica."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0149.png",
+    "Titre": "Vanquishing the World Eater",
+    "Synop": "After negotiations with Brave Vesperia, Harry and Kaufman of the Union, and Natz of the Palestralle guild are confirmed to be attending the coming Adephagos summit being held at the encampment in eastern Hypionia.Rita will also be presenting the details of her worldwide plan for spirit conversion at the assembly."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0150.png",
+    "Titre": "A Town Alight with Hope",
+    "Synop": "The town that has sprung up around the grounds of the Adephagos assembly under Flynn's guidance is still without a name. Some of the people now settled there have taken to calling the community \"Flynn Town.\"The fledgling town has no exports or attractions to speak of yet,but the beds at the inn there are rumored to be among the softest found anywhere.Brave Vesperia is hoping to gather their strength there before departing for the confrontation now looming before them."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0151.png",
+    "Titre": "To the Ancient Spire",
+    "Synop": "It was decided at yesterday's assembly that the world's blastia cores will be used to eradicate the Adephagos.According to the plan, the cores will be converted into spirit form and injected into Vesperia One. The colossal entity will then be hit with the combined power of all the spirits.Wanting to get as close to their target as possible, Brave Vesperia has set out for the soaring Tower of Tarqaron."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0152.png",
+    "Titre": "The Man who Raised Babel",
+    "Synop": "Brave Vesperia arrived at the base of Tarqaron tower today at noon.The guild has its sights set on the summit, ready to use Vesperia One to wipe out the Adephagos. But what of the man known as Duke and his purposes in resurrecting the towering monument? The world waits with baited breath to see how he willrespond to the presence of the guild, upon whose shoulders the hopes of humanity rest."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0153.png",
+    "Titre": "Assassin's Last Stand",
+    "Synop": "The assassin Zagi appeared suddenly before the guild today in the tower of Tarqaron.The persistent killer has tracked the guild down numerous times, but their clashes have always ended in his defeat. With every loss, the desperate Zagi has had another part of his body remade as a blastia.Always returning to hound the guild, no matter how badly he was beaten, Zagi has fallen at last to Yuri's blade. The battle won, Brave Vesperia continued their ascent toward the uppermost reaches of the spire."
+  },
+  {
+    "Image": "http://hyouta.com/vesperia/synopsis/U_SYNOPSIS_0154.png",
+    "Titre": "Guild of Hope",
+    "Synop": "Our heroes, Brave Vesperia, appear to have finally arrived at Tarqaron's lofty pinnacle. Will the plan to convert the world's blastia into spirits succeed? And if it does, can their power be used to truly eliminate the Adephagos?And what role will be played by the enigmatic Duke in these final hours?!Now we have only to believe; in the unity that binds us to each other, and in victory for Brave Vesperia."
+  }
+]
+}
